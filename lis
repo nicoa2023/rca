@@ -132,23 +132,11 @@ https://cdnlive.codev8.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xfCjQPH.png" group-title="SPAIN",Bon Dia TV HD (geobloqueo)
 https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="LATINO",GenTV HD
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="LATINO",Juntos HD
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oEQDTdu.jpg" group-title="LATINO",Ticavision TV HD
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mItch0M.png" group-title="LATINO",Canal 6 Posadas
-https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Td768p9.jpg" group-title="LATINO",TV Pop
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="LATINO",Telesur Costa Rica
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.atb.com.bo/icons/logo-large.png" group-title="LATINO",ATB HD
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w399682521.m3u8
