@@ -165,41 +165,20 @@ https://archive.org/serve/digimon-butter-fly/Digimon%20Butter-Fly.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XHUo5hWnL._SX355_.jpg" group-title="MUSICA",Detective Conan Opening 1 Mune ga Dokidoki
 http://archive.org/download/DetektivConanOpenings10WinterBells/Detektiv%20Conan%20Openings%20-%2001%20-%20Mune%20ga%20Dokidoki.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RC8Ymzw.jpeg" group-title="RADIOS",Delmi Series Hits
-https://stream-51.zeno.fm/iurgzhzglduvv?zs=QsfmoEvoSvOKAvUTtari2g
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOye59W.png" group-title="RADIOS", Animax Radio
 https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mVrw9Cx.png" group-title="RADIOS", La Invasiva Radio
 http://node-33.zeno.fm:80/24gu34zmg1duv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HoHhYmz.png" group-title="RADIOS", RadioFreeAktivo
-https://stream-20.zeno.fm/ugd7e8qc7bruv?zs=TUVh_NklRL6WpeGLgzQxRw
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SYP7Ybj.png" group-title="RADIOS",Vol 40
 http://node-12.zeno.fm:80/rzw6q572mqzuv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1TgmCPc.png" group-title="RADIOS",VolMIX
-http://node-18.zeno.fm:80/gxymp3mkr2zuv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wcfif2S.png" group-title="RADIOS",Pasion Hits
-http://node-34.zeno.fm:80/vfxsw0deyzzuv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0xr0n3L.png" group-title="RADIOS",Vibra FM
-http://node-19.zeno.fm:80/cp658vvd7tzuv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://irc.animenexus.mx/kiwi/assets/img/logo11.png" group-title="RADIOS",animenexus
 http://cast.animenexusla.com:8000/animenexus
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.radio.es/images/broadcasts/f3/84/19158/c300.png" group-title="RADIOS",Otaku Music Radio
 https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.japanaradio.com/images/logo02.png" group-title="RADIOS",Japan A Radio
-https://audio.misproductions.com/japan48kaacp
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/asImMab.png" group-title="RADIOS",Radio Anime Tu Música Anime
-https://radioanime.radioca.st/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fIzRGk0.png" group-title="RADIOS",Radio Anime Para Ti
 http://node-03.zeno.fm:80/qpn8mkt8c4duv
@@ -209,34 +188,3 @@ http://node-26.zeno.fm:80/0t952vqukfeuv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/88680.v5.png" group-title="RADIOS",Bender FM
 http://190.106.134.219:8158/;stream.nsv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tr3HWHx.png" group-title="RADIOS",Classics Radio
-http://78.129.229.122:20421/;.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bF0vcFh.png" group-title="RADIOS",Genesis Indie
-http://node-30.zeno.fm:80/9a9g0er36p8uv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CKyZXdI.png" group-title="RADIOS",Radio MZ Sports CR
-http://node-28.zeno.fm:80/q2bv3s9w9zhvv
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.crtvg.es/files/full/RP640.png.jpg" group-title="RADIOS",Radio Picarina
-http://picarina-crtvg.flumotion.com/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://listaradio.com/assets/image/radio/180/1055.png" group-title="RADIOS",Via Radio Vigo
-https://radioserver11.profesionalhosting.com/proxy/pkg129062?mp=/stream
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocadenaser.jpg" group-title="RADIOS",Cadena Ser
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocadenaser.jpg" group-title="RADIOS",Ser Radio Vigo
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logocope.jpg" group-title="RADIOS",Cope Alicante
-https://wecast-b01-01.flumotion.com/copesedes/alicante.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiomarca.jpg" group-title="RADIOS",Radio Marca
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/direfm.teleame.com/wp-content/uploads/2019/07/1173px-Radio_3_RNE_Spain.svg_.png?fit=696%2C608&ssl=1" group-title="RADIOS",Radio 3 rne
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
-
