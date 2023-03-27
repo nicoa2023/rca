@@ -90,48 +90,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vJs4WmR.png" group-title="JOVENES Y ADULTOS",Aniplus Asia
 http://210.210.155.35/dr9445/h/h02/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-HD.png" group-title="SPAIN",Galicia TV Europa HD
-http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvgamerica-324x235.png" group-title="SPAIN",Galicia TV America HD
-http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-momentos-g-en-directo-100x70.png" group-title="SPAIN",Momentos G
-http://momentog-crtvg.flumotion.com/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-100x70.png" group-title="SPAIN",Cultura365
-http://cultural-crtvg.flumotion.com/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg2 HD/Eventos 1
-http://events1-crtvg.flumotion.com/crtvg/events1_high/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/03/Galicia-TVG-2-HD.png" group-title="SPAIN",Tvg2 HD/Eventos 2
-http://events2-crtvg.flumotion.com/crtvg/events2_high/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png" group-title="SPAIN",Tvg Musigal
-http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rEHbsL5.png" group-title="SPAIN",Canal Extremadura HD
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoetb1hd.jpg" group-title="SPAIN",ETB 1 HD
-https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoetb2hd.jpg" group-title="SPAIN",ETB 2 HD
-https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bIm35Hj.png" group-title="SPAIN",ETB BASQUE
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logotvmelilla.jpg" group-title="SPAIN",TV Melilla
-https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiotvceuta.jpg" group-title="SPAIN",Rtvce HD
-https://cdnlive.codev8.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xfCjQPH.png" group-title="SPAIN",Bon Dia TV HD (geobloqueo)
-https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="LATINO",Juntos HD
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
@@ -159,9 +117,6 @@ https://24hgl8src2.akamaized.net/rtve-tdt/24h_all/rtve-tdt/24h_576p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I40Z92d.png" group-title="NOTICIAS",7nn TV
 https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qkriY3B.png" group-title="NOTICIAS",7nn Galicia
-https://media2.streambrothers.com:19360/8076/8076.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dUGJCP6.png" group-title="NOTICIAS",324 HD (geobloqueo)
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
@@ -179,15 +134,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Rai_News_24_Logo.png" group-title="NOTICIAS",Rai News 24
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-XjOyXjvriSA/XZdRLKOAg5I/AAAAAAAAAGg/_H4mSaSFzM0in_GfPUoa9uKAzqOPN5fOwCK4BGAYYCw/s1600/SUPERSIX%2BLOMBARDIA-LOGO%2B400-PNG.png" group-title="ITALIA",Super Six Lombardia
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/chunklist_w1945812383.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.altoadigetv.it/images/resource/logo-alto-adige.png" group-title="ITALIA",Alto Adige TV
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/chunklist_w950960847.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/2kV-d4g35jg/maxresdefault.jpg" group-title="ITALIA",Cafe 24 TV
-https://srvx1.selftv.video/cafe/live/chunklist_w2069292049.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AQAd38m.jpg" group-title="MUSICA",Kmk RTV
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
