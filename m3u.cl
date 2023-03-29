@@ -71,3 +71,5 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-id="10" tvg-name="Canal 10 Tuc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canal-10-tuc.png", Canal 10 Tuc | AR
 https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1680136931&h=aaeb21fe90de472f0341896fabd5e7be
 
+#EXTINF:-1 tvg-id="8" tvg-name="Canal 8 Tuc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/800px-Elocho_TV_nuevo_logo.png", Canal 8 Tuc | AR
+https://stream-04.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5HWulVkW4ra30Z6q9OrX52z8YwSAzTWxoKAn6LRcrnkk)/dm/3/x8hvuj5/s/live-2.m3u8
