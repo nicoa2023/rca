@@ -59,11 +59,3 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-id="1236" tvg-name="PANC TV" tvg-logo="https://i2.paste.pics/a61c22c0fe52306c8326cbc423addda9.png", PANC TV | AR
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
 
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-name="Canal 10 Tuc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canal-10-tuc.png", Canal 10 Tuc | AR
-https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1680136931&h=aaeb21fe90de472f0341896fabd5e7be
-
-#EXTINF:-1 tvg-id="8" tvg-name="Canal 8 Tuc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png", Canal 8 Tuc | AR
-https://stream-04.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5HWulVkW4ra30Z6q9OrX52z8YwSAzTWxoKAn6LRcrnkk)/dm/3/x8hvuj5/s/live-2.m3u8
