@@ -1,7 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
-https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
-
 #EXTINF:-1 tvg-id="858" tvg-name="Canal 5 del Pueblo" tvg-logo="https://lh3.googleusercontent.com/-ZWPrpW2bheA/YJnMVAiFeSI/AAAAAAABCOs/fQfFM-dskRk13Y2-wumbOlfUhFOlrytLQCK8BGAsYHg/s512/2021-05-10.jpg", Canal 5 del Pueblo * | AR
 https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
 
