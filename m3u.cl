@@ -1,7 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", AnimeStation * | AR
-https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
-
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
