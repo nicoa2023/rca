@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
-http://181.78.8.90:16123/play/ch75
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3HGOHn.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
+https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw8E8GQ.jpg" group-title="JOVENES Y ADULTOS",Wow Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xCsmcMv.png" group-title="JOVENES Y ADULTOS",Locomotion
