@@ -1,8 +1,12 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA 
+http://38.7.223.20:8000/play/a02l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3HGOHn.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
 https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw8E8GQ.jpg" group-title="JOVENES Y ADULTOS",Wow Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xCsmcMv.png" group-title="JOVENES Y ADULTOS",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qlTFGpx.png" group-title="JOVENES Y ADULTOS",Taltal TV HD
@@ -11,6 +15,8 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFOrJ0R.png" group-title="JOVENES Y ADULTOS",Telenorte
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ygjNVx8/Logo-I-Sat.png" group-title="JOVENES Y ADULTOS",I-SAT Panregional SD 
+https://stream.kirachan.tech/memfs/c32373db-ca4b-4f06-b279-4d376d307249.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Familiares",Dreiko TV
