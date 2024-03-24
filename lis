@@ -7,8 +7,6 @@ https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xCsmcMv.png" group-title="JOVENES Y ADULTOS",Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qlTFGpx.png" group-title="JOVENES Y ADULTOS",Taltal TV HD
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bK5L2bv.png" group-title="JOVENES Y ADULTOS",Pandamax
