@@ -105,3 +105,5 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/800px-Elocho_TV_nuevo_logo.png", El Ocho
 https://live-c.cf.dmcdn.net/sec2(f1EPs4b0DFYeQtpdwoZJXhZX5mavNw72FHanZ2r5_pB-Tl6eGJTYt4PokOwqQB8cAYXi5jGLy_vzFccU4KMzo4zSR1yxwjrHJY7gAAaqxw4)/dm/3/x8hvuj5/s/live-2.m3u8
+#EXTINF:-1,Canal 10 Tuc.
+https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1711321989&h=bcea6dc73acd36b8a670fc2a77301c76
