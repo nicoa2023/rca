@@ -4,10 +4,6 @@
 
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png",Latino Kids TV ✪ | UY
-
-https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png",24-7 TV ✪ | AR
 
 https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8?PlaylistM3UCL
@@ -16,45 +12,13 @@ https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8?PlaylistM3UCL
 
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/219_Crossing_TV.png",Crossing TV ✪ | AR
-
-https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/768_Milennio_TV.png",Milennio TV ✪ | AR
-
-https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1006_Neo_TV.png",Neo TV ✪ | AR
-
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/218_Senal_Urbana.png",Señal Urbana ✪ | AR
-
-https://video.fiberfly.com.ar/stream/hls1/110106.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1010_UNaM_Transmedia.png",UNaM Transmedia ✪ | AR
-
-http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/494_UCL_Television_LATAM.png",UCL Televisión LATAM ✪ | UY
-
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",Mundo de la Musica TV ✪ | CL
 
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",Retro Plus TV ✪ | CL
-
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png",Locomotion | AR
 
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png",VariedTV | AR
-
-https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/251_13_Max_Television.png",13 Max Television | AR
 
@@ -64,73 +28,9 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
 
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/249_5TV.png",5TV | AR
-
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1562_Agenda_Necochense.png",Agenda Necochense | AR
-
-https://stmvideo1.livecastv.com/agendaagenda/agendaagenda/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/252_Aire_de_Santa_Fe.png",Aire de Santa Fe | AR
-
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1150_Antena_91.png",Antena 91 | AR
-
-https://tuvideoonline.com.ar:3393/live/antena91live.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/253_Argentinisima_Satelital.png",Argentinisima Satelital | AR
-
-https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1333_AVC_HD.png",AVC HD | AR
-
-https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/215_Azahares_Radio_Multimedia.png",Azahares Radio Multimedia | AR
-
-http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/302_AZM_TV.png",AZM TV | AR
-
-https://live.canalnueve.tv/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1200_Bayres_TV.png",Bayres TV | AR
 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1414_BTV_Digital.png",BTV Digital | AR
-
-https://cdnhd.iblups.com/hls/S4CINL1DVM.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1423_Calchaqui_TV.png",Calchaqui TV | AR
-
-https://stream.trixserver.com:3836/live/uv068live.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/799_Canal_10_Nortevision.jpg",Canal 10 Nortevision | AR
-
-https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1345_Canal_11_de_La_Costa.png",Canal 11 de La Costa | AR
-
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/268_Canal_12_Madryn_TV.png",Canal 12 Madryn TV | AR
-
-https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/227_Canal_13_La_Rioja.jpg",Canal 13 La Rioja | AR
-
-http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1182_Canal_2_Misiones.png",Canal 2 Misiones | AR
-
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/229_Canal_20_Villamaria.png",Canal 20 Villamaria | AR
-
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1057_Canal_21_TV.png",Canal 21 TV | AR
 
