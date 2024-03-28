@@ -32,133 +32,17 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?Playlis
 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1057_Canal_21_TV.png",Canal 21 TV | AR
-
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/230_Canal_22_Buenos_Aires.jpg",Canal 22 Buenos Aires | AR
-
-https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/271_Canal_26.png",Canal 26 | AR
-
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1347_Canal_3_Formosa.png",Canal 3 Formosa | AR
-
-https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/776_Canal_3_La_Pampa.png",Canal 3 La Pampa | AR
-
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/231_Canal_3_Las_Heras.jpg",Canal 3 Las Heras | AR
-
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/255_Canal_3_Pinamar.png",Canal 3 Pinamar | AR
-
-https://intelincloud.com.ar/canales/canal3pinamar/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1346_Canal_34_San_Juan.png",Canal 34 San Juan | AR
 
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1349_Canal_4_Balcarce.png",Canal 4 Balcarce | AR
-
-https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/259_Canal_4_Posadas.png",Canal 4 Posadas | AR
-
-http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/260_Canal_4_San_Juan.png",Canal 4 San Juan | AR
-
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1348_Canal_40_Caucete.png",Canal 40 Caucete | AR
-
-https://canalsj.kozow.com/canal40/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/778_Canal_5_Pico_Truncado.jpg",Canal 5 Pico Truncado | AR
-
-http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png",Canal 5 Santa Fe | AR
-
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1138_Canal_5_Tucuman.png",Canal 5 Tucuman | AR
 
 https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/262_Canal_6_Posadas.png",Canal 6 Posadas | AR
-
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/264_Canal_7_Jujuy.png",Canal 7 Jujuy | AR
 
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1401_Canal_7_Neuquen.png",Canal 7 Neuquen | AR
-
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1350_Canal_7_TV.png",Canal 7 TV | AR
-
-https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/272_Canal_79_Mar_del_Plata.png",Canal 79 Mar del Plata | AR
-
-https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/309_Canal_9_Televida.png",Canal 9 Televida | AR
-
-https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1417_Canal_E.png",Canal E | AR
-
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/310_Canal_Rural.jpg",Canal Rural | AR
-
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/203_Catamarca_TV.png",Catamarca TV | AR
-
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/815_Celta_TV.jpg",Celta TV | AR
-
-https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/279_Chaco_TV.png",Chaco TV | AR
-
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/278_Chacra_TV.png",Chacra TV | AR
-
-https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1352_Chilecito_TV.png",Chilecito TV | AR
-
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1132_Ciudad_Magica_TV.png",Ciudad Magica TV | AR
-
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/237_Ciudad_TV.jpg",Ciudad TV | AR
-
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1353_Ciudad_TV_Resistencia.png",Ciudad TV Resistencia | AR
-
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1387_CMT.png",CMT | AR
-
-https://cablemor.andremor.dev/live/CMT_Argentina/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1237_Corrientes_TV.png",Corrientes TV | AR
 
