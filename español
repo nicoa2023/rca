@@ -69,8 +69,6 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 https://samson.streamerr.co:8081/rudydurisimotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Undefined",Argentinísima Satelital (540p)
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABywgtf.png" group-title="Legislative",Asamblea TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCYKbJljhlPac_5NY1NxohFQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5avk5R.png" group-title="Undefined",Asomavisión (614p)
@@ -199,12 +197,6 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu1l4qD.png" group-title="Undefined",Calle 13 Universal (1080p)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RbZEicf.png" group-title="Legislative",Cámara de Representantes (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCzescUFTh2jiZkYIx9uZtqA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tvIFxu1.png" group-title="Legislative",Cámara de Representantes (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCUxioxgZ7obrP3wVJApAK1w.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6NBK4LN.png" group-title="Legislative",Cámara de Senadores (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCyM7oro5NhR5oPyMEFB_rUA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2GAEWhn.png" group-title="General",Camino Real TV (720p)
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t8hTr7N.png" group-title="General",Campo 9 Online (720p)
@@ -441,12 +433,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhwOCKT.png" group-title="Undefined",Canal CNR (480p) [Not 24/7]
 https://ythls.armelin.one/channel/UCeNlqMQ1Um3NUM97OBGA0sw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VnL8dp.png" group-title="Legislative",Canal Congreso (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCJfKMFp7dtO8mpHT56X0kJQ.m3u8
 #EXTINF:-1 tvg-logo="https://culturavenezuela.com/wp-content/uploads/2021/07/cropped-Cierre-Alfa-SE.00_00_04_25.Imagen-fija003-150x150.png" group-title="Culture;Music",Canal Cultura Venezuela (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O78F97d.png" group-title="Legislative",Canal de Gobierno (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCh4GjKBcqxOsL_Bt8gCCSLg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNURpai.png" group-title="Undefined",Canal de la Ciudad (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ReZXqWR.png" group-title="Undefined",Canal Local (1080p)
@@ -455,10 +443,6 @@ http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YND5HXD/Captura.png" group-title="General",Canal Ocho TV (1080p)
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="Legislative",Canal Parlamento (360p) [Not 24/7]
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fLpkHfZ.png" group-title="Legislative",Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
-https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="General",Canal RCN
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6pExdIs.png" group-title="News",Canal Red (1080p)
@@ -533,8 +517,6 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/p
 https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xevZNi6.png" group-title="Sports",CDR (720p)
 https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pMnk2TH.png" group-title="Legislative",CDTV (720p) [Not 24/7]
-http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Undefined",Celta TV (240p)
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/huCBOIy.png" group-title="General",Cerritos TV3 (360p)
@@ -575,8 +557,6 @@ http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="Undefined",Cítrico TV (240p)
 https://rdn.essastream.com:3996/live/citricotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/duM548G.png" group-title="Legislative",City of Oakland (KTOP) (480p)
-https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybSn8tp.png" group-title="Undefined",Citytv Bogotá (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Undefined",Ciudad Magazine (1080p) [Geo-blocked]
@@ -619,26 +599,12 @@ https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Music",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3Qxpe72.png" group-title="Legislative",Congreso de los Diputados 1 (360p) [Not 24/7]
-https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ffN2LE3.png" group-title="Legislative",Congreso de los Diputados 2 (360p) [Not 24/7]
-https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="Legislative",Congreso de los Diputados 3 (360p) [Not 24/7]
-https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="Legislative",Congreso de los Diputados 4 (360p) [Not 24/7]
-https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="Legislative",Congreso de los Diputados 5 (360p) [Not 24/7]
-https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="General",ConstanzaTV (720p)
 https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Undefined",Contivision (720p)
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="General",Coral TV (480p)
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bVkRBg5.png" group-title="Legislative",Corts Valencianes (480p) [Not 24/7]
-https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L2KKKuB.png" group-title="Undefined",COSMO (1080p)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV (720p)
@@ -677,8 +643,6 @@ https://mediacp.us:8081/ctvhn/index.m3u8
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0LxXsx.png" group-title="Culture",Cultura 24 (720p) [Not 24/7]
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p9Jn0Dy.png" group-title="Legislative",Cupertino City Channel (720p)
-https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oukGx28.png" group-title="General",Curiquingue TV (720p)
 https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R8P5enu.jpg" group-title="General",CVA TV (480p) [Not 24/7]
@@ -711,8 +675,6 @@ http://51.81.93.29:8084/hls/d15.m3u8
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVsotpP.png" group-title="General",Dimelo TV (1080p)
 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UscKOIc.png" group-title="Legislative",Diputados TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="Kids",Disney Channel (432p)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Comedy",Distrito Comedia (576p)
@@ -739,10 +701,6 @@ https://cloudvideo.servers10.com:8081/8074/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IC30j61.png" group-title="Undefined",Ebenezer TV (1080p)
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p)
-https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/96098bf4-5a2a-466b-8d7f-e35300fa4f28.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p)
-https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="Undefined",Eco TV (720p)
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tnFZY5O.png" group-title="Music",Ecua Stereo Radio TV (1080p)
@@ -1021,8 +979,6 @@ https://cdn.streamhispanatv.net:3718/live/izabaltvlive.m3u8
 https://mediacp.us:8081/jbntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KAsAwxP.png" group-title="General",Junco Tv (720p)
 https://mediacp.us:8081/juncotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hGR3tv9.png" group-title="Legislative",Junta de Castilla y León (1080p) [Not 24/7]
-https://16escalones-live2.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dgMZLC2.png" group-title="Series",Juntos (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Undefined",Justicia TV (720p)
@@ -1057,8 +1013,6 @@ https://streaming004.gestec-video.com/hls/8TV.m3u8
 https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GHJkxaB.png" group-title="Music",La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3PnD83G.png" group-title="Legislative",LA CityView 35 (1080p)
-https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XpuKL55.png" group-title="Undefined",La Gran Carpa Catedral TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCjtogA7_a6F4bdaO3tnK69Q.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="Music",La Hermandad Salsera (1080p) [Not 24/7]
@@ -1181,8 +1135,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/3df8aaf1b5e341f5bffebcc9becee368/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HsBBu8g.png" group-title="Education",Marin TV Educational Channel (San Rafael CA) (1080p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/bc1fcf000e4e48a6a490d2af1f6added/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HsBBu8g.png" group-title="Legislative",Marin TV Government Channel (San Rafael CA) (1080p)
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/44df7b8e28ec48e89c6dfcb9e779c5ef/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9rU6yWo.jpg" group-title="News",Mario Pinto TV (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="Music",Mas23 TV (1080p)
@@ -1421,8 +1373,6 @@ https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ojTinM2.png" group-title="Undefined",Opción TV (540p)
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ANfTXIe.png" group-title="Legislative",Orange County Orange TV (Orange County FL) (720p)
-https://otv3.ocfl.net/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Undefined",ORBIT TV (480p) [Not 24/7]
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="Undefined",Órbita FM (720p)
@@ -1449,8 +1399,6 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9yMyYCn.png" group-title="General",Paradise TV (720p)
 https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JnhWxKv.png" group-title="Legislative",Parlamento de Navarra (368p) [Not 24/7]
-https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="Series",Pasiones HD
 http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="General",PAT La Paz (720p) [Not 24/7]
@@ -1467,8 +1415,6 @@ https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53j4mNh.png" group-title="Undefined",PeruvianRadio TV
 https://vdo.grupolimalive.com:3399/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RkTKR6x.png" group-title="Legislative",PHXTV
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eaJVCwM.png" group-title="Undefined",Pichilemu TV (1080p)
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lFuwq1K.png" group-title="Undefined",Pintana TV (720p)
@@ -1667,8 +1613,6 @@ https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="News",Prensa Latina TV (1080p)
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tIwLdzd.png" group-title="Legislative",Prescott Valley TV
-https://live-h1.frontlayer.net/fl207891/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="Culture",Presumiendo México (720p)
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFBjTDa.png" group-title="Music",Princesa Estéreo TV (720p)
@@ -1895,10 +1839,6 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8FZsNyK.png" group-title="News",SC Currents
 https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LzgODUS.png" group-title="Legislative",Senado TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCMXLvWR4z1Z4P4JvubxMQtg.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mt0UCXk.png" group-title="Legislative",Senado TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCStm2uvQKowSXrnCzTWAn6Q.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="General",Señal Colombia (1080p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="Education",Señal España (XHUNES-TDT) (720p)
@@ -2235,8 +2175,6 @@ https://v2.tustreaming.cl/tendenciastv/index.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2gj2KhC.png" group-title="Undefined",The Bob Ross Channel Spanish
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png" group-title="Legislative",The Florida Channel (480p)
-https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F4hEPMK.png" group-title="Family",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="Undefined",Thema Televisión (La Serena) (720p) [Not 24/7]
@@ -2331,14 +2269,10 @@ https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
 https://live.fullsport.es/hls/tvalmassora.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aobkgrS.png" group-title="Undefined",TV Artequatre (576p)
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hmRkAIf.png" group-title="Legislative",TV Asamblea Legislativa (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="General",TV Azteca Noreste (Info7 Monterrey) (720p)
 https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHrIn0r.png" group-title="General",TV BUAP (1080p)
 https://tvenvivo.buap.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mfypr0t.png" group-title="Legislative",TV Cámara (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCRVeQhiqhUAxRRUod7F-K3A.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KtG2gvH.png" group-title="Undefined",TV Canaria (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhg1uM9.png" group-title="Music",Tv Carigso (720p)
@@ -2537,8 +2471,6 @@ https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="Music",Urbano TV (720p)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3PQIRUZ.png" group-title="Legislative",Uruguay Presidencia (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCz1Li9JcQB9XP-HfgN0IYLQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="Culture",USMPTV (720p) [Not 24/7]
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Music",V Classic TV (720p)
@@ -2649,14 +2581,6 @@ https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o7MCfuA.jpg" group-title="Music",Xpresso Joven Radio (720p)
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Mc7baR.png" group-title="Legislative",YouDotGov
-https://reflect-communitytv.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KBriwwj.png" group-title="Legislative",Yuma77
-https://securestream6.champds.com/hlssstc/YumaCoAZLIVE/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QsFBCWv.png" group-title="Legislative",Yuma AZ CH 72
-https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QsFBCWv.png" group-title="Legislative",Yuma AZ CH 73
-https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="Undefined",Yunavisión (720p)
 https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="Undefined",Zaracay TV (1080p) [Not 24/7]
