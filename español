@@ -3,18 +3,10 @@
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Movies",AMC Español
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (720p) [Not 24/7]
-https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/79sX78u.png" group-title="Undefined",ATN Televisión (640p)
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
 http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entertainment",Az Clic
 http://stream.flynetwifi.com:1935/live/mobile-119/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Series",Az Corazon
-http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Undefined",Bella Asunción TV (720p) [Not 24/7]
-https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Entertainment",bitMe (576p)
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/858141c7c41b39c658df61aae68aee83.png" group-title="Undefined",Caldera Vision
