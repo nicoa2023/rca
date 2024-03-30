@@ -1,62 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Undefined",5TV Corrientes (480p) [Not 24/7]
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",7 TeleValencia (576p)
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p)
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Undefined",24h
-http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Undefined",Aire de Santa Fe (1080p)
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Undefined",Alacantí TV (576p) [Not 24/7]
-https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="Undefined",Alcarria TV (576p) [Not 24/7]
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Entertainment",Alegre TV (720p)
-https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png" group-title="Undefined",Almaya TV (720p)
-https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="General",Alsacias Televisión (ATV | Canal 28) (720p)
-https://s.emisoras.tv:8081/atv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCrSbgv.png" group-title="Undefined",Alternativa TV (Huasco) (720p) [Not 24/7]
-https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC (1080p)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Undefined",AMC Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Movies",AMC Español
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="Undefined",Amé 47 (720p)
-https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="General",América Estéreo Guayaquil (360p)
-https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="General",América Estéreo Ibarra (720p)
-https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="General",América Estéreo Quito (1080p)
-https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="General",América Estéreo Tulcán (614p)
-https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="News",América Tucumán (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General",América TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xjTU14t.jpg" group-title="Entertainment",ANC Televisión (480p) [Not 24/7]
-https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Animation",Anime Zone TV (480p)
-http://animezonetv.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="Undefined",Antena 3 Internacional
-http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HAJxHcV.png" group-title="Undefined",Antena 91 (720p)
-https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Undefined",Antena Uno RadioVideo (360p)
-https://tvdatta.com:3578/live/antenaunolive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XIQr0fs.png" group-title="General",Antofagasta TV (ATV) (1080p)
-https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RNs3KM1.png" group-title="News",ANTv (720p) [Not 24/7]
-http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="General",Anzoátegui TV (360p)
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="General",Arabí TV (1080p)
