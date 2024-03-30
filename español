@@ -31,12 +31,6 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-111/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="General",Canal 8 C&C Producciones (720p)
 https://59ce1298bfb98.streamlock.net/canal8tv/canal8tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="Undefined",Canal 10 ES
-http://stream.flynetwifi.com:1935/live/mobile-037/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVlnnDo.png" group-title="Undefined",Canal 10 Neuquén (480p)
-https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uqf93Mu.png" group-title="Undefined",Canal 10 Nortevision (576p)
-https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zpJdUVC.png" group-title="Undefined",Canal 10 Rio Negro (720p) [Not 24/7]
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/heZeqPQ.png" group-title="Undefined",Canal 11 (1080p)
