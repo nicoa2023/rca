@@ -12,45 +12,13 @@ http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
 
 http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entertainment",Az Clic
-
-http://stream.flynetwifi.com:1935/live/mobile-119/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Entertainment",bitMe (576p)
 
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wkjNYOD.png" group-title="General",Canal 20 (720p) [Not 24/7]
-
-https://desuchi.com/streams/live/tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVe8j4y.png" group-title="Undefined",Canal Blu (720p)
-
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol
-
-http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito
 
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="General",Catatumbo TV (406p)
-
-https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Undefined",Celta TV (240p)
-
-https://vivo.solumedia.com:19360/celta/celta.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9rbwZFY.png" group-title="General",Chivacoa TV Internacional (720p) [Not 24/7]
-
-https://vdo1.panelstreaming.live:3875/live/guarotvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="Undefined",Cinco TV (480p)
-
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 
