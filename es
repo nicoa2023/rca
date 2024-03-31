@@ -20,10 +20,6 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
-
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Movies",Cinecanal
 
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
@@ -31,58 +27,6 @@ http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="Entertainment",Cinerama TV (480p) [Not 24/7]
 
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.pnghttps://i.imgur.com/61tSA6a.pnghttps://i.imgur.com/fJD7OxB.png" group-title="SportsSportsGeneral",Claro SportsClaro Sports ChileClaro Televisión Dominicana (360p)
-
-https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="Entertainment",Claro Visión TV (720p)
-
-https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/taGdzLe.png" group-title="Undefined",CVC (720p)
-
-https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Movies",De Película Plus (576p)
-
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FcciYMD.png" group-title="General",Delta TV (480p) [Not 24/7]
-
-https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BVsotpP.png" group-title="General",Dimelo TV (1080p)
-
-https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="Kids",Disney Channel (432p)
-
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/naz0HAW.png" group-title="Undefined",Doctor Who (720p)
-
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PqmBSqp.jpg" group-title="Undefined",El Palomar TV (720p)
-
-https://stream.trixserver.com:3249/live/uv038live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Undefined",El Trece (1080p)
-
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
-
-https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GaJzjt5.png" group-title="Undefined",Enfoque Digital TV (1080p)
-
-https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nePOFZW.png" group-title="Undefined",Enntivisión (720p)
-
-https://rdn.essastream.com:3356/live/enntivisiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qdX1xKfFHj8/VBZKR5VGAHI/AAAAAAAAzHQ/cm-kffchUkE/s1600/Canal5ePs.jpg" group-title="Undefined",EPS TV Canal 5 (720p)
 
