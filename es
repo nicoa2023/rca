@@ -1,9 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC (1080p)
-
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Movies",AMC Español
 
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
@@ -16,10 +12,6 @@ http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito
-
-http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Movies",Cinecanal
 
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
@@ -27,14 +19,6 @@ http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="Entertainment",Cinerama TV (480p) [Not 24/7]
 
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qdX1xKfFHj8/VBZKR5VGAHI/AAAAAAAAzHQ/cm-kffchUkE/s1600/Canal5ePs.jpg" group-title="Undefined",EPS TV Canal 5 (720p)
-
-https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max (480p) [Not 24/7]
-
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Undefined",Fox Deportes
 
@@ -44,25 +28,9 @@ http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="General",Garabito TV (720p)
-
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Auto",Garage TV Latin America
 
 https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sroIZuc.png" group-title="Undefined",GDMTV (720p) [Not 24/7]
-
-https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gUiIC8E.png" group-title="Entertainment",Génesis TV (768p) [Not 24/7]
-
-https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DSKLw0U.png" group-title="Undefined",GOL PLAY (432p)
-
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden
 
@@ -92,14 +60,6 @@ http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="Undefined",Hechicera TV (720p)
-
-https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entertainment",Historia (1080p)
-
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History
 
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
@@ -108,25 +68,9 @@ http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Undefined",Imagen Universal TV
-
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BnRITjB.png" group-title="Undefined",Izabal TV (720p)
-
-https://cdn.streamhispanatv.net:3718/live/izabaltvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="General",La Nación+ (720p) [Not 24/7]
-
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Entertainment",LatacungaTV (720p)
 
 https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="General",Latina TV Internacional (720p)
-
-https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Undefined",Lifetime
 
@@ -136,10 +80,6 @@ http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids (486p)
-
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pOyBwD1.png" group-title="Undefined",Más Chic
 
 http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
@@ -147,30 +87,6 @@ http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vNfjW6Y.png" group-title="Movies",Memorias TV Film (480p)
 
 https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ad0GNqa.png" group-title="Undefined",Nacional Tv Peru
-
-https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Undefined",Neox TV (480p)
-
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OmmWgcr.png" group-title="Kids",Nick Jr
-
-http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="General",Onda TV (720p)
-
-https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Undefined",ORBIT TV (480p) [Not 24/7]
-
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k1Wj5ka.png" group-title="Undefined",Peravía Visión (480p)
-
-https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="Movies",PlanetaTV Movie (720p)
 
