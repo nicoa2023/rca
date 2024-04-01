@@ -16,10 +16,6 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="Entertainment",Cinerama TV (480p) [Not 24/7]
-
-https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Undefined",Fox Deportes
 
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
@@ -84,10 +80,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vNfjW6Y.png" group-title="Movies",Memorias TV Film (480p)
-
-https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="Movies",PlanetaTV Movie (720p)
 
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
@@ -95,10 +87,6 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYNmeDe.png" group-title="General",Red América TV (720p)
 
 https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="General",RTV Riobamba (720p) [Not 24/7]
-
-https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTrvk7gv0uCQ8QdGREqv6Rtzm4F6UMetdxKub6D=s400-c-k-c0x00ffffff-no-rj" group-title="Undefined",Senillosa TV (360p)
 
@@ -116,10 +104,6 @@ http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
 http://stream.flynetwifi.com:1935/live/mobile-135/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o7EzEsV.png" group-title="Undefined",Telenord 12 (720p) [Not 24/7]
-
-http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN Todo Noticias (1080p)
 
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -131,10 +115,6 @@ http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Animation;Kids",Tooncast
 
 http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yt6qyjL/trv.png" group-title="General",TRV (480p)
-
-https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png" group-title="General",TV Show Oruro (480p)
 
