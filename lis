@@ -19,16 +19,12 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFOrJ0R.png" group-title="JOVENES Y ADULTOS",Telenorte
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids TV HD
-https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="Familiares",Big TV
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV (opcion 2)
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlis
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxB7k9f.png" group-title="SPAIN",La 1 HD (opcion 2)
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IHcyWPy.png" group-title="SPAIN",La Otra HD
@@ -43,8 +39,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klBO9Zw.png" group-title="LATINO",Tu Cine HD
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JbnWhDR.png" group-title="LATINO",Cine Real HD
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="LATINO",Chilevisual  Film HD
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg" group-title="NOTICIAS",Euronews HD
