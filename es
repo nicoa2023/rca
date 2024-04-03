@@ -28,10 +28,6 @@ http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden
-
-http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Undefined",Golden Edge Panregional (576p)
 
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
