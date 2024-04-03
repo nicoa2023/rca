@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA 
 http://38.7.223.20:8000/play/a02l
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1KBpLcw/Logo-Zona-31.png" group-title="JOVENES Y ADULTOS",Zona 31 HD
-https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdTGJsc/Logo-Maxima-TV.png" group-title="JOVENES Y ADULTOS",Maxima TV
+https://cageu.bozztv.com/ssh101/ssh101/maxtvstreaming/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdTGJsc/Logo-Maxima-TV.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
+https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion HD
@@ -27,14 +29,8 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV (opcion 2)
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QxB7k9f.png" group-title="SPAIN",La 1 HD (opcion 2)
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IHcyWPy.png" group-title="SPAIN",La Otra HD
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YLRzeS8.png" group-title="LATINO",Planetatv movie
 https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJhs6SA.jpg" group-title="LATINO",Canal 8 de Nueva Santa Rosa
-https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="LATINO",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hax4UL.png" group-title="LATINO",Juntos HD
@@ -43,8 +39,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="LATINO",Chilevisual  Film HD
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg" group-title="NOTICIAS",Euronews HD
-http://euronews-euronews-spanish-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png" group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
