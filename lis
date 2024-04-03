@@ -41,7 +41,7 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png" group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 telefe
+#EXTINF:-1, telefe
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1712142160~exp=1712149360~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=4eccb42899b036a71c0288f6c7e5606a21d833302e9d51b957a119995919895a
 
 
