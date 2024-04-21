@@ -16,14 +16,6 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Undefined",Fox Deportes
-
-http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports Mexico
-
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Auto",Garage TV Latin America
 
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -83,10 +75,6 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYNmeDe.png" group-title="General",Red América TV (720p)
 
 https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTrvk7gv0uCQ8QdGREqv6Rtzm4F6UMetdxKub6D=s400-c-k-c0x00ffffff-no-rj" group-title="Undefined",Senillosa TV (360p)
-
-https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Undefined",Space
 
