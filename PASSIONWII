@@ -1,0 +1,16 @@
+#EXTM3U size="medium"
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3TEkJub" type="playlist" group-title="NEWS", NEWS
+http://gluvu.atspace.cc/Novedades/news
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="playlist" group-title="PELICULAS", PELICULAS
+http://gluvu.atspace.cc/Peliculas%20A
+#EXTINF:-1 tvg-logo="https://bit.ly/3MLNSRh" type="playlist" group-title="SERIES", SERIES
+http://gluvu.atspace.cc/Series
+#EXTINF:-1 tvg-logo="https://bit.ly/3za5Kf2" type="playlist" group-title="ANIME", Clannad Season 1
+http://gluvu.atspace.cc/Series%20anime/Clannad%20A/Temp%201
+#EXTINF:-1 tvg-logo="https://bit.ly/3k5xflQ" type="playlist" group-title="ANIME", Claymore
+http://gluvu.atspace.cc/Series%20anime/Claymore
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="ANIME", Conan el niño del futuro
+http://gluvu.atspace.cc/Series%20anime/Conan%20El%20ni%C3%B1o%20del%20Futuro
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="ANIME", Cowboy Bebop
+http://gluvu.atspace.cc/Series%20anime/Cowboy%20Bebop
