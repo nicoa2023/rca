@@ -8,9 +8,48 @@ http://gluvu.atspace.cc/Peliculas/Accion
 http://gluvu.atspace.cc/Peliculas/Animacion
 #EXTINF:-1 tvg-logo="https://bit.ly/3za5Kf2" type="playlist" group-title="PELICULAS", Anime
 http://gluvu.atspace.cc/Peliculas/Anime
-#EXTINF:-1 tvg-logo="https://bit.ly/3k5xflQ" type="playlist" group-title="ANIME", Aventura-Fantasia
+#EXTINF:-1 tvg-logo="https://bit.ly/3k5xflQ" type="playlist" group-title="PELICULAS", Aventura-Fantasia
 http://gluvu.atspace.cc/Peliculas/Aventura-Fantasia
-#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="ANIME", Conan el niño del futuro
-http://gluvu.atspace.cc/Series%20anime/Conan%20El%20ni%C3%B1o%20del%20Futuro
-#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="ANIME", Cowboy Bebop
-http://gluvu.atspace.cc/Series%20anime/Cowboy%20Bebop
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="PELICULAS", Ciencia Ficcion
+http://gluvu.atspace.cc/Peliculas/Ciencia-Ficcion
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="PELICULAS", Comedia
+http://gluvu.atspace.cc/Peliculas/Comedia
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="PELICULAS", Drama
+http://gluvu.atspace.cc/Peliculas/Drama
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="PELICULAS", Documentales
+http://gluvu.atspace.cc/Peliculas/Documentales
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="PELICULAS", Mexicanas
+http://gluvu.atspace.cc/Peliculas/Mexicanas
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="PELICULAS", Musical
+http://gluvu.atspace.cc/Peliculas/Musical
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="PELICULAS", Romance
+http://gluvu.atspace.cc/Peliculas/Romance
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="PELICULAS", Suspenso
+http://gluvu.atspace.cc/Peliculas/Suspenso
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="PELICULAS", Terror
+http://gluvu.atspace.cc/Peliculas/Terror
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="PELICULAS", Estrenos
+http://gluvu.atspace.cc/Peliculas/Estrenos
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIES", Series
+http://gluvu.atspace.cc/Series
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIES", 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIES", 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIES", 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIES", 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIES", 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIES", 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIES", 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIES", 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIES", 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIES", 
+
+
