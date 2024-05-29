@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://i.imgur.com/L0zLsl9.png" ,BLACKGHOST 02
-http://bgtv.xyz/TV
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://i.imgur.com/3akxcS6.png", http://paypal.me/blackghost
-http://bgtv.xyz/TV
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cIzk6GhxEZuweekGFXWEoAyuaMX.jpg",La primera profecía (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20La%20primera%20profec%C3%ADa%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gH27K0S7BiZCsNMxzOQTacG9IZp.jpg",Arthur (2024) CAM
