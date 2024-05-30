@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://i.imgur.com/L0zLsl9.png" ,BLACKGHOST 01
-http://bgtv.xyz/TV
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://i.imgur.com/3akxcS6.png", http://paypal.me/blackghost
-http://bgtv.xyz/TV
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//wj1VRcVsh39nkxLkZP8tuGd96tc.jpg",Los menospreciados
 http://208.88.245.81/nuevo/los.menospreciados.dual.2024.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -46,9 +42,6 @@ http://208.88.245.81/nuevo/american.fiction.2023.dual.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//jDQPkgzerGophKRRn7MKm071vCU.jpg",El niño y la garza
 http://208.88.245.81/nuevo/el.nino.y.la.garza.2024.dual.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//9v50EMxMXZ0aT6vlaZDX2vITma4.jpg",Diario de Greg navidad sin salida
-http://208.88.245.85/nuevo/diariodegreg.navidadsinsalida.dual.2024.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",Maestro
 http://208.88.245.85/nuevo/maestro.dual.2024.mkv
@@ -392,9 +385,6 @@ http://208.88.245.85/nuevo/shazam.2.2023.dual.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tq8x5F17q95T1j0up5rpzXFAylN.jpg",SHARPER
 http://208.88.245.85/nuevo/sharper.2023.dual.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7ECPZaRczTQiUgPtZzyOiHxlfbe.jpg",SECRETS OF SONGWING
-http://38.18.239.160/nuevo/secrem3u8.of.songwing.dual.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",SCREAM 6
 http://208.88.245.85/nuevo/scream6.dual.2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -470,17 +460,11 @@ http://208.88.245.85/nuevo/castle.quest.legodisney.princes.dual2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg",POWER RANGERS AYER HOY Y SIEMPRE
 http://208.88.245.85/nuevo/powerangers.ayerhoysiempre.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",POKEMON SECRETOS EN LA JUNGLA
-http://38.18.238.25/nuevo/pokemon.secrem3u8jungle.dual.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/a6syn9qcU4a54Lmi3JoIr1XvhFU.jpg",PLAN FAMILIAR
 http://208.88.245.85/nuevo/plan.familiar.dual.2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",PINOCCHIO
 http://208.88.245.85/nuevo/pinocchio.deltoro.dual.2022.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg",PETS UNITED
-http://38.18.239.160/nuevo/pem3u8.united.dual.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg",PETER PAN Y WENDY
 http://208.88.245.85/nuevo/peterpanywendy.2023dual.mkv
@@ -539,9 +523,6 @@ http://208.88.245.85/nuevo/nimona.dual.2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tsF67uKoerYgnevLej5Vo9xlGF8.jpg",NAVIDAD EN VIVO
 http://208.88.245.85/nuevo/navidad.en.vivo.latino2022.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg",NAVIDAD DE 8 BITS
-http://38.18.238.25/nuevo/navidad.de.8.bim3u8.dual.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",NARVIK
 http://208.88.245.85/nuevo/narvik.2023.dual.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -550,9 +531,6 @@ http://208.88.245.85/nuevo/napoleon.dual.2024.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg",NADA QUé VER
 http://208.88.245.85/nuevo/nadakver.latino2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg",MUPPETS MANSIÓN HECHIZADA
-http://38.18.238.25/nuevo/muppem3u8.mansion.hechizada.dual.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",MUJER REY
 http://208.88.245.85/nuevo/la.mujer.rey.dual.2022.mkv
@@ -679,9 +657,6 @@ http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",LOS ASESINOS DE LA LUNA
 http://208.88.245.85/nuevo/las.asesinos.de.la.luna.dual.2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",LOS ARCHIVOS SECRETOS DE LOS BOYSCOUTS
-http://208.88.245.85/nuevo/los.archivos.secretos.de.los.boyscoum3u8.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hfExJPcbBtDeFDEb7I1By72Drlr.jpg",LOS 3 MOSQUETEROS DARTAGNAN
 http://208.88.245.85/nuevo/los.tres.mosqueteros.dartagnan.dual2023.mkv
@@ -824,9 +799,6 @@ http://208.88.245.85/nuevo/huevitos.congelados.2022latino.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//muDaKftykz9Nj1mhRheMdbuNI9Z.jpg",HOJOS DE PERRA
 http://208.88.245.85/nuevo/hijos.de.perra.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",HOBBS AND SHAW
-http://38.18.238.38/hdx/Fast.and.Furious.Presenm3u8.Hobbs.and.Shaw.2019.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/26yQPXymbWeCLKwcmyL8dRjAzth.jpg",HISTORIA DE HONOR
 http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -878,9 +850,6 @@ http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7BpNtNfxuocYEVREzVMO75hso1l.jpg",FIVE NIGHT AT FREDDYS
 http://208.88.245.85/nuevo/fivenight.at.freddys.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",FISRT SOLAMENTE DUNK
-http://208.88.245.85/nuevo/firsm3u8lamdunk.dual.2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//90D6sXfbXKhDpd4S1cHICdAe8VD.jpg",FINNCK
 http://208.88.245.85/nuevo/finnick.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -892,9 +861,6 @@ http://208.88.245.85/nuevo/familia.revuelta.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",EVIL DEAD EL DESPERTAR
 http://208.88.245.85/nuevo/evildead.eldespertar.dual2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rxbvbVK8RT7DRvSlaIJi67crw1H.jpg",ESO
-http://38.18.239.160/nuevo/eso.latinocam2.mp4
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",EMANCIPACIóN
 http://208.88.245.85/nuevo/emancipation.dual.2022.mkv
@@ -1045,9 +1011,6 @@ http://208.88.245.85/nuevo/chickenrun.origen.nugets.dual.2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8ZtH1V4rhrtP53ezlEWrCaMALXF.jpg",CEMENTERIO DE MASCOTAS
 http://208.88.245.85/nuevo/cementerio.mascotas.elorigen.dual2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kOn1mR8ZA7gZ1r7OUFAUbTMGfQ5.jpg",CATS
-http://38.18.239.160/nuevo/cam3u8.latino.mp4
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg",CASSANDRO
 http://208.88.245.85/nuevo/casandro.2023dual.mkv
