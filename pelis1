@@ -19,9 +19,6 @@ http://208.88.245.81/nuevo/the.beekeeper.el.protector.2024.dual.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//2PlHYTHLfZbhjmWOEMQm9ZqyK70.jpg",Señora influencer
 http://208.88.245.81/nuevo/senora.influencer.2024.latino.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//2J70guF8wcErbYbRgZUBcvShgI1.jpg",La navidad del pequeño batman
-http://208.88.245.81/nuevo/la.navidad.del.pequeno.batman.2023.dual.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7onQmk5ZzUjx6SEAiqILWQFTaYC.jpg",Tequila repasado
 http://208.88.245.81/nuevo/tequila.re.pasado.2024.latino.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -113,9 +110,6 @@ http://208.88.245.85/nuevo/familia.revuelta.dual2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//y4YMYsGSMwu8e985g0Zbumvqxld.jpg",THE MARVELS
 http://208.88.245.85/nuevo/the.marvels.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg",La magia de la navidad
-http://208.88.245.85/nuevo/la.magia.dla.navidad.dual.2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",Leo
 http://208.88.245.85/nuevo/leo.dual.2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -139,9 +133,6 @@ http://208.88.245.81/nuevo/el.asesino.dual.2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",The creator resistence
 http://208.88.245.85/nuevo/the.creator.resistencia.dual.2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//eO4nzd4p7lKxUFQtQF2qui8gGNf.jpg",El sabor de la navidad
-http://208.88.245.85/nuevo/el.sabor.dla.navidad.latino2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg",Nyad
 http://208.88.245.81/nuevo/nyad.dual.2023.mkv
@@ -215,14 +206,8 @@ http://208.88.245.85/nuevo/unoparamorir.latino.2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/30we4NrF5F1FcBDklBGXvCDn1pG.jpg",UNA VERDADERA FAMILIA EMBRUJADA
 http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="UNA NAVIDAD EXCANDALOSA",UNA NAVIDAD EXCANDALOSA
-http://208.88.245.85/nuevo/una.navidad.excandalosa.dual2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//duv6wtHMuN74HF7UuLjvUUrn8dB.jpg",UN SORBO FRíO  ASESINATO DE JESSICA WON
 http://208.88.245.85/nuevo/un.sorbo.frio.asesinato.de.jessicawon.dual2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zswSOwzHmP90XXsbdcAIKhchOKL.jpg",TU NAVIDAD O LA MíA 2
-http://208.88.245.85/nuevo/tu.navidad.ola.mia2.dual.2024.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg",TU CASA O LA MIA
 http://208.88.245.85/nuevo/tucasa.olamia.dual.2023.mkv
@@ -341,9 +326,6 @@ http://208.88.245.85/nuevo/reyes.contrasanta.cast2022.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/y0kGpKB2elapYboHklgn9wLTj9x.jpg",REY SAKIR LA PELíCULA
 http://208.88.245.85/nuevo/reysakir.lapelicula.dual.2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xdZ5BIkQTGjZgCacdQQy7qNnoQ2.jpg",REVIVIENDO LA NAVIDAD
-http://208.88.245.85/nuevo/reviviendo.la.navidad.latino2022.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",RETRIBUCIóN CONTRA RELOJ
 http://208.88.245.85/nuevo/retribution.contrareloj.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -446,9 +428,6 @@ http://208.88.245.85/nuevo/nino.topo.zorro.caballo.2023dual.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg",NIMONA
 http://208.88.245.85/nuevo/nimona.dual.2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tsF67uKoerYgnevLej5Vo9xlGF8.jpg",NAVIDAD EN VIVO
-http://208.88.245.85/nuevo/navidad.en.vivo.latino2022.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",NARVIK
 http://208.88.245.85/nuevo/narvik.2023.dual.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -496,9 +475,6 @@ http://208.88.245.85/nuevo/mickey.y.sus.amigos.dulce.o.truco.dual.2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/Ab9iyIXRbwK2YsVwpQV2xysLztJ.jpg",MI SUEGRA ME ODIA
 http://208.88.245.85/nuevo/mi.suegra.me.odia.latino.2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg",MEJOR NAVIDAD IMPOSIBLE
-http://208.88.245.85/nuevo/mejor.navidad.imposible.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ajZUEsDpo3EgiHZ8HX9yQJIRnFf.jpg",MEGAN
 http://208.88.245.85/nuevo/megan.dual.2022.mkv
@@ -550,9 +526,6 @@ http://208.88.245.85/nuevo/luther.cae.la.noche.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",LUPIN 3 VS CATEYE
 http://208.88.245.85/nuevo/lupin3vscateye.dual.2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/atBDD05PbVDI2lm2OUy1KFQpzen.jpg",LOS TIPOS MALOS UNA NAVIDAD MUY MALA
-http://208.88.245.85/nuevo/los.tipos.malos.una.navidad.muymala.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4PIEcP9saKXUtK09iIQEKEXNORk.jpg",LOS QUE SE QUEDAN
 http://208.88.245.85/nuevo/los.que.se.quedan.2024.dual.mkv
@@ -641,9 +614,6 @@ http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",LA MONJA 2
 http://208.88.245.85/nuevo/la.monja2.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jEf96axaZhZQEu9ORVtEujBTG9p.jpg",LA MAGIA DE LA NAVIDAD
-http://208.88.245.85/nuevo/la.magia.dla.navidad.dual.2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",LA MAESTRA SE COMIó A MI AMIGO
 http://208.88.245.85/nuevo/m.maestra.c.comio.amigo.2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -673,9 +643,6 @@ http://208.88.245.85/nuevo/la.elefanta.del.mago.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wB6ez9v9HzSLplIy6m00SPIkuH7.jpg",LA DAMA DEL SILENCIO
 http://208.88.245.85/nuevo/la.dama.del.silencio.dual2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/of6Ds591FJTKoBHYjDFzH6jlTyK.jpg",LA CALLE DE LA NAVIDAD
-http://208.88.245.85/nuevo/la.calle.dela.navidad.dual2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rl5aC6Kh46kuEwZYf0lbIMvijr1.jpg",LA CAIDA
 http://208.88.245.85/nuevo/la.caida.latino.2022.mkv
@@ -752,9 +719,6 @@ http://208.88.245.85/nuevo/hablame.dual.2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",GUARDIANES DE LA GALAXIA VOLUMEN 3
 http://208.88.245.85/nuevo/gdelagalaxia3.dual.2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",GUARDIANES DE LA GALAXIA ESPECIAL FIESTAS
-http://208.88.245.85/nuevo/glagalaxia.especial.navidad.2022.dual.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",GLASSONION
 http://208.88.245.85/nuevo/glassonion.2022.dual.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -820,9 +784,6 @@ http://208.88.245.85/nuevo/el.sistema.2023.dual.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sIk2wnKj9OSMrUNZ5Z97XkzUICK.jpg",EL SALóN DE LA INFAMIA
 http://208.88.245.85/nuevo/untolld.el.salon.dla.infamia.dual2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eO4nzd4p7lKxUFQtQF2qui8gGNf.jpg",EL SABOR DE LA NAVIDAD
-http://208.88.245.85/nuevo/el.sabor.dla.navidad.latino2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",EL REY MONO
 http://208.88.245.85/nuevo/el.reymono.dual2023.mkv
@@ -901,9 +862,6 @@ http://208.88.245.85/nuevo/divina.senal.latino2023.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//qMgx4ofxWNqgXliRyXGXImoA7vX.jpg",DIME LO QUE QUIERAS
 http://208.88.245.85/nuevo/dime.lo.que.quieras.latino.2023.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eLwfFQFX5XKGIbRCVfRx6IlO7aJ.jpg",DIARIO DE GREG NAVIDAD SIN SALIDA
-http://208.88.245.85/nuevo/diariodegreg.navidadsinsalida.dual.2024.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg",DESENCANTADA
 http://208.88.245.85/nuevo/disenchanted.2020.dual.mkv
@@ -1922,9 +1880,6 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v19nLqMwHh9QcQmtnpp0Oj0mtVc.jpg",Sin salida (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelfeb%2F%E2%96%B7%20Ver%20Sin%20Salida%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Crónicas de Navidad 1 (2018)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/peliculanoviembr%2FThe.Christmas.Chronicles%20LAT.mp4
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zLJZdq87wBFzw9KOjlb6zK8cGeb.jpg",La casa del terror (2019)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/peliculanoviembr%2F%E2%96%B7%20Ver%20La%20Casa%20del%20Terror%20Pelicula%20Completa%20Online%20en%20Espa%C3%B1ol%20Latino.mp4
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -2072,9 +2027,6 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yWlBvsPl9y2h03padhD2tIG0rqy.jpg",Amigos vs. extraterrestres (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Amigos%20vs.%20Extraterrestres%20(2022)%20Pel%C3%ADcula%20Online%20Latino.mp4
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/oyGb5JpEYMEqDDjfJKLEvPTVSjK.jpg",Scrooge: Cuento de Navidad (2022)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Scrooge-%20Cuento%20de%20Navidad%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",Pinocho de Guillermo del Toro (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Pinocho%20de%20Guillermo%20del%20Toro%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -2162,9 +2114,6 @@ https://d1yei2z3i6k35z.cloudfront.net/2104853/63b2fe1978679_7MRDNumero4k_F.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",El extra navideño del Bebé Jefazo (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63aa1b0ddb369_4EENNumero4k_F.mp4
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xdZ5BIkQTGjZgCacdQQy7qNnoQ2.jpg",Reviviendo la Navidad (2022)
-https://d1yei2z3i6k35z.cloudfront.net/2104853/63aa1b0854580_3RLNNumer4k_F.mp4
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mkRQn520JQD07BNP03NK3iKCaPD.jpg",Noche en el museo: El retorno de Kahmunrah (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63aa1afe743b8_2NEEMNunmero4k_F.mp4
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -2212,9 +2161,6 @@ https://d1yei2z3i6k35z.cloudfront.net/2102480/63a8fa97960c4_NCDPZ4K.mp4
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/Aie2kiYOUgZeakpshM2N64PKof1.jpg",Super... ¿quién? (2021)
 https://d1yei2z3i6k35z.cloudfront.net/2102480/639b6cf334ed1_SQNumero4k_A.mp4
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zgtkXLJagDMlW4iXTCojL5guDeu.jpg",Navidad de golpe (2022)
-https://d1yei2z3i6k35z.cloudfront.net/2102480/639786c9bb4dd_NVDGP.mp4
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",DRAGON5
 https://d1yei2z3i6k35z.cloudfront.net/2102480/63289b0421a7f_1x5LCDDNUMERO4K_a.mp4
@@ -2383,9 +2329,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20dead%20dont%20die%202019.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kNKy8eJemg6sCAMBgh4xrD0lleX.jpg",El día después de mañana (2004)
 http://vod.tuxchannel.mx/peliculas/720/the%20day%20after%20tomorrow%20open%20matte.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg",Crónicas de Navidad 2 (2020)
-http://vod.tuxchannel.mx/peliculas/720/the%20christmas%20chronicles%202%202020.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uxJJIzw3lDM0RbFQMQsTTRyFO2D.jpg",El niño 1 (2016)
 http://vod.tuxchannel.mx/peliculas/720/the%20boy.mkv
@@ -2866,9 +2809,6 @@ http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20part%20II%202021.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg",La cura siniestra (2016)
 http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/96VOJmyoYEj9QvUfYJ1EElRhIjD.jpg",Un cuento de Navidad (1984)
-http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20carol%201984.mkv
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",4:44 El último día en la Tierra (2011)
 http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
