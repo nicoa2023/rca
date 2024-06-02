@@ -15,9 +15,9 @@ https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 #EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/JQxt2Qw/Logo-Pandamax.png", Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/540MyCH/Logo-Telenorte.png" group-title="JOVENES Y ADULTOS",Telenorte
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/540MyCH/Logo-Telenorte.png",Telenorte
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/9nNGrcJ/Logo-ACS-Network.png", ACS NETWORK TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
@@ -51,7 +51,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/dBChFBX/logo-Chile-Visual-Canal-1.png", Chilevisual Retro HD
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3k7zgg/logo-Moni-TV.png" group-title="Familiares",Moni TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3k7zgg/logo-Moni-TV.png",Moni TV HD
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/dBChFBX/logo-Chile-Visual-Canal-1.png", Chilevisual Kids HD
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
