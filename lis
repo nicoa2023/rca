@@ -3,12 +3,22 @@
 http://38.7.223.20:8000/play/a02l
 #EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/NydpCWg/logo-Lim-TV-2.png", Lim TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" ,Canal LMS
+https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png", Casa Grande TV
 https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png", Anime Taltal TV HD
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg",Wow Movies
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" background="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png", AnimeStation (Opcion 3)
+https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM4Y7QB/Logo-TV-Costa.png",TV Costa
+https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 #EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/JQxt2Qw/Logo-Pandamax.png", Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/540MyCH/Logo-Telenorte.png" group-title="JOVENES Y ADULTOS",Telenorte
+https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/9nNGrcJ/Logo-ACS-Network.png", ACS NETWORK TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png", Conectate TV
@@ -23,32 +33,30 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 https://kali1.everestcast.com:3614/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/MBqjnP4/logo-Big-TV.png", Big TV
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png", Planeta Junior TV HD
-https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 #EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/7KG9kTP/Logo-Zona-de-Accion.png", Zona de Accion
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/CMMEIq3.png", Zaz TV (opcion 2)
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png", Gogoplay TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" background="https://i.ibb.co/kHTsz3S/Logo-Greekz.png", Greekz
 https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/rFZcKnf/logo-Estaci-n-Retro.png", Estacion Retro
-https://ssh101.bozztv.com/ssh101/canalonline/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pJ620t8/logo-Telecl-sica.jpg",Teleclasica
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b5GMG6Y/Logo-Diti-TV.png",Diti TV HD (opcion 2)
+https://ssh101.bozztv.com/ssh101/dititv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/McNsbnt/logo-TVS-Retro.png", TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yk4xrNL/logo-Visi-n-TV.png",Vision TV HD
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/dBChFBX/logo-Chile-Visual-Canal-1.png", Chilevisual Retro HD
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3k7zgg/logo-Moni-TV.png" group-title="Familiares",Moni TV HD
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/dBChFBX/logo-Chile-Visual-Canal-1.png", Chilevisual Kids HD
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" background="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png", AnimeStation (Opcion 3)
-https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/TFOrJ0R.png", Telenorte
-https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/CMMEIq3.png", Zaz TV (opcion 2)
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/7afuOiE.png", Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/7hax4UL.png", Juntos HD
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/klBO9Zw.png", Tu Cine HD
