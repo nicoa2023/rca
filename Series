@@ -1,30 +1,28 @@
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",¿GUAU QUE AMIGO?
+#EXTM3U
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="¿GUAU QUE AMIGO?",Temporada 1
 http://gluvu.atspace.cc/Series%20A/%C2%A1Guau%2C%20qu%C3%A9%20amigo%21
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",Agencia Lockwood
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="Agencia Lockwood",Temporada 1
 http://gluvu.atspace.cc/Series%20A/Agencia%20Lockwood
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",Ahsoka
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="Ahsoka",Temporada 1
 http://gluvu.atspace.cc/Series%20A/Ahsoka.m3u
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",ANDY MACK
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="ANDY MACK",Temporada 1
 http://gluvu.atspace.cc/Series%20A/Andi%20Mack
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",Arrow
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="Arrow",Temporada 1
 http://gluvu.atspace.cc/Series%20A/Arrow
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",Años Maravillosos
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="Años Maravillosos",Temporada 1
 http://gluvu.atspace.cc/Series%20A/A%C3%B1os%20Maravillosos
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",Bebé Reno
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="Bebé Reno",Temporada 1
 http://gluvu.atspace.cc/Series%20A/BebeReno.m3u
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",Beckham: salva a nuestro equipo
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="Beckham: salva a nuestro equipo",Temporada 1 
 http://gluvu.atspace.cc/Series%20A/Beckham%3A%20salva%20a%20nuestro%20equipo
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",BLACK MIRROR
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="BLACK MIRROR",Temporada 1
 http://gluvu.atspace.cc/Series%20A/BLACK%20MIRROR
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",BLACK SUMMER
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="BLACK SUMMER",Temporada 1
 http://gluvu.atspace.cc/Series%20A/BLACK%20SUMMER
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",BOJACK HORSEMAN 
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="BOJACK HORSEMAN",Temporada 1
 http://gluvu.atspace.cc/Series%20A/BOJACK%20HORSEMAN
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",BREAKING BAD (Lat/Ing) 
-http://gluvu.atspace.cc/Series%20A/Breaking%20Bad
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="BREAKING BAD (Lat/Ing)",Temporada 1 
 http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%201
-http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%202
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="BREAKING BAD (Lat/Ing)",Temporada 2 
 http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%202
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="BREAKING BAD (Lat/Ing)",Temporada 3 
@@ -33,13 +31,27 @@ http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%203
 http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%204
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="BREAKING BAD (Lat/Ing)",Temporada 5
 http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%205
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",brooklyn nine nine
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="Brooklyn nine nine",Temporada 1
 http://gluvu.atspace.cc/Series%20A/brooklynninenine
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",Close Enough
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="Close Enough",Temporada 1
 http://gluvu.atspace.cc/Series%20A/Close%20Enough
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",
-
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",
-
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Series",
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
 
