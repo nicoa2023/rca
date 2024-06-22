@@ -1,57 +1,160 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="¿GUAU QUE AMIGO?",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",¿GUAU QUE AMIGO?
 http://gluvu.atspace.cc/Series%20A/%C2%A1Guau%2C%20qu%C3%A9%20amigo%21
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Agencia Lockwood",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Agencia Lockwood
 http://gluvu.atspace.cc/Series%20A/Agencia%20Lockwood
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Ahsoka",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Ahsoka
 http://gluvu.atspace.cc/Series%20A/Ahsoka.m3u
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="ANDY MACK",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",ANDY MACK
 http://gluvu.atspace.cc/Series%20A/Andi%20Mack
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Arrow",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Arrow
 http://gluvu.atspace.cc/Series%20A/Arrow
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Años Maravillosos",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Años Maravillosos
 http://gluvu.atspace.cc/Series%20A/A%C3%B1os%20Maravillosos
-#EXTINF:-1 tvg-logo="http://ia800306.us.archive.org/31/items/rvl-nvd/189.jpg" type="playlist" group-title="Bebé Reno",Temporada 1
+#EXTINF:-1 tvg-logo="http://ia800306.us.archive.org/31/items/rvl-nvd/189.jpg" type="playlist" group-title="SERIES",Bebé Reno
 http://gluvu.atspace.cc/Series%20A/BebeReno.m3u
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Beckham: salva a nuestro equipo",Temporada 1 
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Beckham: salva a nuestro equipo 
 http://gluvu.atspace.cc/Series%20A/Beckham%3A%20salva%20a%20nuestro%20equipo
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="BLACK MIRROR",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",BLACK MIRROR
 http://gluvu.atspace.cc/Series%20A/BLACK%20MIRROR
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="BLACK SUMMER",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",BLACK SUMMER
 http://gluvu.atspace.cc/Series%20A/BLACK%20SUMMER
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="BOJACK HORSEMAN",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",BOJACK HORSEMAN
 http://gluvu.atspace.cc/Series%20A/BOJACK%20HORSEMAN
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="BREAKING BAD (Lat/Ing)",Temporada 1 
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",BREAKING BAD (Lat/Ing) Temporada 1 
 http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%201
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="BREAKING BAD (Lat/Ing)",Temporada 2 
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",BREAKING BAD (Lat/Ing) Temporada 2 
 http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%202
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="BREAKING BAD (Lat/Ing)",Temporada 3 
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",BREAKING BAD (Lat/Ing) Temporada 3 
 http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%203
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="BREAKING BAD (Lat/Ing)",Temporada 4
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",BREAKING BAD (Lat/Ing) Temporada 4
 http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%204
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="BREAKING BAD (Lat/Ing)",Temporada 5
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",BREAKING BAD (Lat/Ing) Temporada 5
 http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%205
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Brooklyn nine nine",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Brooklyn nine nine
 http://gluvu.atspace.cc/Series%20A/brooklynninenine
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="Close Enough",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Close Enough
 http://gluvu.atspace.cc/Series%20A/Close%20Enough
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Temporada 1
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Club de Cuervos
+http://gluvu.atspace.cc/Series%20A/Club%20de%20Cuervos
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Constantine
+http://gluvu.atspace.cc/Series%20A/Constatine
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Day Break
+http://gluvu.atspace.cc/Series%20A/Daybreak
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",DE VIAJE CON LOS DERVEZ
+http://gluvu.atspace.cc/Series%20A/DE%20VIAJE%20CON%20LOS%20DERVEZ
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Dexter
+http://gluvu.atspace.cc/Series%20A/Dexter
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Doom Patrol
+http://gluvu.atspace.cc/Series%20A/Doom%20Patrol
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",DROP DEAD DIVA
+http://gluvu.atspace.cc/Series%20A/DROP%20DEAD%20DIVA
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",El Principe del Rap
+http://gluvu.atspace.cc/Series%20A/EL%20PRINCIPE%20DEL%20RAP
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",EL ROBO DEL SIGLO
+http://gluvu.atspace.cc/Series%20A/EL%20ROBO%20DEL%20SIGLO
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Escalofrios (2023)
+http://gluvu.atspace.cc/Series%20A/Goosebumps-2023.m3u
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Final Space
+http://gluvu.atspace.cc/Series%20A/Final%20Space
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Gambito De Dama
+http://gluvu.atspace.cc/Series%20A/Gambito%20De%20Dama
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Ginny & Georgia (Lat/Esp/Ing) Temporada 1
+http://gluvu.atspace.cc/Series%20A/Ginny-y-Georgia_/T1.m3u
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Ginny & Georgia (Lat/Esp/Ing) Temporada 2
+http://gluvu.atspace.cc/Series%20A/Ginny-y-Georgia_/T2.m3u
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Good Omens
+http://gluvu.atspace.cc/Series%20A/Good%20Omens
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Happy Tree Friends
+http://gluvu.atspace.cc/Series%20A/HTF
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Heartstopper
+http://gluvu.atspace.cc/Series%20A/Heartstopper
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Hechizeros De Weberly Blade
+http://gluvu.atspace.cc/Series%20A/Hechizeros%20de%20Werbely%20Blade
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Heroes
+http://gluvu.atspace.cc/Series%20A/Heroes
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Hora de Aventura con Fionna & Cake
+http://gluvu.atspace.cc/Series%20A/Fionna_Cake.m3u
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Invencible Temporada 2
+http://gluvu.atspace.cc/Series%20A/Invencible_/T2.m3u
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Jack Ryan
+http://gluvu.atspace.cc/Series%20A/Jack%20Ryan
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Jessie
+http://gluvu.atspace.cc/Series%20A/Jessie
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",LA CASA DE LAS FLORES
+http://gluvu.atspace.cc/Series%20A/La%20Casa%20de%20Las%20Flores
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
 
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",
