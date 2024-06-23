@@ -5,12 +5,6 @@ http://gluvu.atspace.cc/Series%20A/%C2%A1Guau%2C%20qu%C3%A9%20amigo%21
 http://gluvu.atspace.cc/Series%20A/Agencia%20Lockwood
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Ahsoka
 http://gluvu.atspace.cc/Series%20A/Ahsoka.m3u
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",ANDY MACK
-http://gluvu.atspace.cc/Series%20A/Andi%20Mack
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Arrow
-http://gluvu.atspace.cc/Series%20A/Arrow
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Años Maravillosos
-http://gluvu.atspace.cc/Series%20A/A%C3%B1os%20Maravillosos
 #EXTINF:-1 tvg-logo="http://ia800306.us.archive.org/31/items/rvl-nvd/189.jpg" type="playlist" group-title="SERIES",Bebé Reno
 http://gluvu.atspace.cc/Series%20A/BebeReno.m3u
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Beckham: salva a nuestro equipo 
@@ -31,24 +25,12 @@ http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%203
 http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%204
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",BREAKING BAD (Lat/Ing) Temporada 5
 http://gluvu.atspace.cc/Series%20A/Breaking%20Bad%20A/Temp%205
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Brooklyn nine nine
-http://gluvu.atspace.cc/Series%20A/brooklynninenine
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Close Enough
-http://gluvu.atspace.cc/Series%20A/Close%20Enough
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Club de Cuervos
-http://gluvu.atspace.cc/Series%20A/Club%20de%20Cuervos
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Constantine
 http://gluvu.atspace.cc/Series%20A/Constatine
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Day Break
-http://gluvu.atspace.cc/Series%20A/Daybreak
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",DE VIAJE CON LOS DERVEZ
-http://gluvu.atspace.cc/Series%20A/DE%20VIAJE%20CON%20LOS%20DERVEZ
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Dexter
 http://gluvu.atspace.cc/Series%20A/Dexter
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="",Doom Patrol
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Doom Patrol
 http://gluvu.atspace.cc/Series%20A/Doom%20Patrol
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",DROP DEAD DIVA
-http://gluvu.atspace.cc/Series%20A/DROP%20DEAD%20DIVA
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",El Principe del Rap
 http://gluvu.atspace.cc/Series%20A/EL%20PRINCIPE%20DEL%20RAP
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",EL ROBO DEL SIGLO
@@ -63,36 +45,14 @@ http://gluvu.atspace.cc/Series%20A/Gambito%20De%20Dama
 http://gluvu.atspace.cc/Series%20A/Ginny-y-Georgia_/T1.m3u
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Ginny & Georgia (Lat/Esp/Ing) Temporada 2
 http://gluvu.atspace.cc/Series%20A/Ginny-y-Georgia_/T2.m3u
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Good Omens
-http://gluvu.atspace.cc/Series%20A/Good%20Omens
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Happy Tree Friends
-http://gluvu.atspace.cc/Series%20A/HTF
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Heartstopper
-http://gluvu.atspace.cc/Series%20A/Heartstopper
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Hechizeros De Weberly Blade
-http://gluvu.atspace.cc/Series%20A/Hechizeros%20de%20Werbely%20Blade
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Heroes
-http://gluvu.atspace.cc/Series%20A/Heroes
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Hora de Aventura con Fionna & Cake
-http://gluvu.atspace.cc/Series%20A/Fionna_Cake.m3u
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Invencible Temporada 2
 http://gluvu.atspace.cc/Series%20A/Invencible_/T2.m3u
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Jack Ryan
-http://gluvu.atspace.cc/Series%20A/Jack%20Ryan
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Jessie
-http://gluvu.atspace.cc/Series%20A/Jessie
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",LA CASA DE LAS FLORES
 http://gluvu.atspace.cc/Series%20A/La%20Casa%20de%20Las%20Flores
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",La Casa de Papel Temporada 1
 http://gluvu.atspace.cc/Series%20A/La%20Casa%20De%20Papel%20A/La%20Casa%20De%20Papel%20TEMP%201
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",La Casa Del Dragon  Temporada 2
 http://gluvu.atspace.cc/Series%20A/La%20Casa%20del%20Drag%C3%B3n_/T2
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",LA CQ
-http://gluvu.atspace.cc/Series%20A/La%20CQ
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",La Dimension Desconocida
-http://gluvu.atspace.cc/Series%20A/La%20dimensi%C3%B3n%20desconocida
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",La Ley y El Orden
-http://gluvu.atspace.cc/Series%20A/La%20Ley%20y%20el%20Orden
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",La Purga Temporada 1
 http://gluvu.atspace.cc/Series%20A/La%20Purga%20A/Temp%201
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",La Purga Temporada 2
@@ -101,10 +61,6 @@ http://gluvu.atspace.cc/Series%20A/La%20Purga%20A/Temp%202
 http://gluvu.atspace.cc/Series%20A/La_Reina_Charlotte.m3u
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Las Brujas de Mayfair
 http://gluvu.atspace.cc/Series%20A/Las-Brujas-de-Mayfair-T1.m3u
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",LE TEMES A LA OBSCURIDAD
-http://gluvu.atspace.cc/Series%20A/LE%20TEMES%20A%20LA%20OBSCURIDAD
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Locke & Key
-http://gluvu.atspace.cc/Series%20A/Locke%20%26%20Key
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Los Bridgerton Temporada 1
 http://gluvu.atspace.cc/Series%20A/Bridgerton_/T1.m3u
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Los Bridgerton Temporada 2
@@ -127,32 +83,18 @@ http://gluvu.atspace.cc/Series%20A/Mike
 http://gluvu.atspace.cc/Series%20A/Nacion%20Z
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",NICKY JAM EL GANADOR
 http://gluvu.atspace.cc/Series%20A/Nicky%20Jam%3A%20el%20ganador
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Paso a Paso
-http://gluvu.atspace.cc/Series%20A/Paso%20a%20Paso
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",PRIMAL
 http://gluvu.atspace.cc/Series%20A/Primal
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",SANTA CLARITA DIET
-http://gluvu.atspace.cc/Series%20A/Santa%20Clarita%20Diet
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",SCREAM QUEENS
-http://gluvu.atspace.cc/Series%20A/Scream%20Queens
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",SED DE REVANCHA
 http://gluvu.atspace.cc/Series%20A/Sed%20De%20Revancha
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",SOY TU FAN
-http://gluvu.atspace.cc/Series%20A/SOY%20TU%20FAN
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Spawn
 http://gluvu.atspace.cc/Series%20A/Spawn
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",STAR WARS LA GUERRA DE LOS CLONES
 http://gluvu.atspace.cc/Series%20A/STAR%20WARS%20LA%20GUERRA%20DE%20LOS%20CLONES
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",STUDIO 60
-http://gluvu.atspace.cc/Series%20A/STUDIO%2060%20%28DUAL%20AUDIO%29
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",SWEET HOME
-http://gluvu.atspace.cc/Series%20A/SWEET%20HOME
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Ted: La serie
 http://gluvu.atspace.cc/Series%20A/Ted
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Tekken
 http://gluvu.atspace.cc/Series%20A/tekken
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",The King
-http://gluvu.atspace.cc/Series%20A/THE%20KING%20%28THE%20ETERNAL%20MONARCH%29
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",The Walking Dead Temporada 10
 http://gluvu.atspace.cc/Series%20A/The%20Walking%20Dead%20A/The%20Walking%20Dead%20Temp%2010
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",The Walking Dead Temporada 11
@@ -163,13 +105,7 @@ http://gluvu.atspace.cc/Series%20A/TheWalkingDead-Daryl.m3u
 http://gluvu.atspace.cc/Series%20A/The_Walking_Dead-Dead_City.m3u
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",The Walking Dead: The Ones Who Live (Lat/Ing)
 http://gluvu.atspace.cc/Series%20A/TheWalkingDead-TOWL.m3u
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Tierra Incógnita
-http://gluvu.atspace.cc/Series%20A/Tierra%20Incognita
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Titans
 http://gluvu.atspace.cc/Series%20A/TITANS
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",TROLLS HUNTER
-http://gluvu.atspace.cc/Series%20A/TROLLHUNTER
-#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",Twisted Metal
-http://gluvu.atspace.cc/Series%20A/Twisted-Metal-T1.m3u
 #EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",X-Men '97
 http://gluvu.atspace.cc/Series%20A/X-Men97
