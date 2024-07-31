@@ -2373,3 +2373,21 @@ https://archive.org/download/08_20211017/01.mp4
 https://archive.org/download/01_20211017_20211017/01.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cD4uQM8oF2oEEn2mMuaImVvGkto.jpg",Altares sin amor (2021)
 https://archive.org/download/01_20211017/01.mp4
+
+
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",¿GUAU QUE AMIGO? 1 X 1
+http://archive.org/download/3_20200327_202003/1.mp4
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",¿GUAU QUE AMIGO? 1 X 2
+http://archive.org/download/3_20200327_202003/2.mp4
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",¿GUAU QUE AMIGO? 1 X 3
+http://archive.org/download/3_20200327_202003/3.mp4
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",¿GUAU QUE AMIGO? 1 X 4
+http://archive.org/download/3_20200327_202003/4.mp4
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",¿GUAU QUE AMIGO? 1 X 5
+http://archive.org/download/3_20200327_202003/5.mp4
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",¿GUAU QUE AMIGO? 1 X 6
+http://archive.org/download/3_20200327_202003/6.mp4
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",¿GUAU QUE AMIGO? 1 X 7
+http://archive.org/download/3_20200327_202003/7.mp4
+#EXTINF:-1 tvg-logo="" type="playlist" group-title="SERIES",¿GUAU QUE AMIGO? 1 X 8
+http://archive.org/download/3_20200327_202003/8.mp4
