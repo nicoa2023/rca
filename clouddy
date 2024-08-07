@@ -308,7 +308,6 @@ http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv
 http://208.88.245.85/nuevo/fivenight.at.freddys.dual2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fnRUCA0fjEb3kuIaTGogL7425IC.jpg",FAMILIA REVUELTA (2023)
 http://208.88.245.85/nuevo/familia.revuelta.dual2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",EVIL DEAD EL DESPERTAR (2023)
 http://208.88.245.85/nuevo/evildead.eldespertar.dual2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",EMANCIPACIóN (2022)
@@ -343,65 +342,44 @@ http://208.88.245.85/nuevo/el.rencor.de.edimburgo.part2.dual2023.mkv
 http://208.88.245.85/nuevo/el.poderoso.victoria.latino.2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",EL PEOR VECINO DEL MUNDO (2022)
 http://208.88.245.85/nuevo/elpeor.vecino.delmundo.dual.2023.mkv
-
-
-
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg",EL MENú (2023)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg",EL MENú (2022)
 http://208.88.245.85/nuevo/el.menu.dual.2022.mkv
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/z7u8Xeyw8OMXwDLfMmtHqE87h4q.jpg",EL MEJOR DEL MUNDO (2023) 
-http://208.88.245.85/nuevo/el.mejor.delmundo.dual2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",EL JUSTICIERO 3 CAPíTULO FINAL (2023)
 http://208.88.245.85/nuevo/el.justiciero3.dual2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d8YaaRIDzvHL4NyHJQxIvm0qDng.jpg",EL FINAL QUE QUIERO (2023)
 http://208.88.245.85/nuevo/el.final.que.quiero.dual2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg",EL ESTRANGULADOR DE BOSTON (2023)
 http://208.88.245.85/nuevo/el.estrangulador.de.boston.dual2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",EL CRIMEN DE LA ACADEMIA (2023)
 http://208.88.245.85/nuevo/crimenes.dla.academia.dual.2022.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",EL CLON DE TYRONE (2023)
 http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
-
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ff9iMXJjtRdm58nRzM88sNr5CTu.jpg",DURO DE ENTRENAR (2023)
 http://208.88.245.85/nuevo/duro.de.entrenar.dual.2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rOq1oGOIt4Tq284M44XD6jxSidz.jpg",DRACULA MAR DE SANGRE (2023)
 http://208.88.245.85/nuevo/dracula.mar.de.sangre.dual2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg",DIVINA SEñAL (2023)
 http://208.88.245.85/nuevo/divina.senal.latino2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//qMgx4ofxWNqgXliRyXGXImoA7vX.jpg",DIME LO QUE QUIERAS (2023)
 http://208.88.245.85/nuevo/dime.lo.que.quieras.latino.2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",CUIDEN A MAYA (2023)
 http://208.88.245.85/nuevo/cuiden.a.maya.dual2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",CUANDO TERMINES DE SALVAR AL MUNDO (2023)
 http://208.88.245.85/nuevo/cuando.termines.dsalvar.almundo.2023dual.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",CRATER (2023) 
 http://208.88.245.85/nuevo/crater.dual.2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yVIe897guSz9i7S2MkuqCqRvrnw.jpg",CON LOS AñOS QUE NOS QUEDAN (2023)
 http://208.88.245.85/nuevo/clos.anios.knosquedan.latino2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",CHUPA (2023)
 http://208.88.245.85/nuevo/chupa.2023.dual.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//uR03YFvc7rZg8Yb1uOKekIS084A.jpg",CHICKEN RUN EL ORIGEN DE LOS NUGETS (2023)
 http://208.88.245.85/nuevo/chickenrun.origen.nugets.dual.2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8ZtH1V4rhrtP53ezlEWrCaMALXF.jpg",CEMENTERIO DE MASCOTAS (2023)
 http://208.88.245.85/nuevo/cementerio.mascotas.elorigen.dual2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg",CASSANDRO (2023)
 http://208.88.245.85/nuevo/casandro.2023dual.mkv
+
+
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8NwGv3IvOypQt3sQGFFlffcg1zC.jpg",CASANDO A MI EX (2023) 
 http://208.88.245.85/nuevo/casando.amiex.latino2023.mkv
@@ -489,10 +467,6 @@ http://208.88.245.81/nuevo/invitacion.a.un.asesinato.latino2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gmZGAbI42ecAoixyvZI0Se4Qiau.jpg",Finnck(2023)
 http://208.88.245.81/nuevo/finnick.dual2023.mkv
 
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg",Cementerio de mascotas(2023)
-http://208.88.245.81/nuevo/cementerio.mascotas.elorigen.dual2023.mkv
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/duv6wtHMuN74HF7UuLjvUUrn8dB.jpg",Un sorbo frío  asesinato de Jessica Won(2023)
 http://208.88.245.81/nuevo/un.sorbo.frio.asesinato.de.jessicawon.dual2023.mkv
 
@@ -509,20 +483,8 @@ http://208.88.245.81/nuevo/spykids.armagedon.dual2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg",Cassandro(2023)
 http://208.88.245.81/nuevo/casandro.2023dual.mkv
 
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",El Justiciero 3 capítulo final(2023)
-http://208.88.245.81/nuevo/el.justiciero3.dual2023.mkv
-
-
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kMI3tgxLAZbzGOVlorUBva0kriS.jpg",A millones de kilómetros (2023)
 http://208.88.245.81/nuevo/a.millones.de.kilometros.dual2023.mkv
-
-
-
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",Dracula mar de sangre(2023)
-http://208.88.245.85/nuevo/dracula.mar.de.sangre.dual2023.mkv
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7KK4s4QOYemq1fC9stcdZbhIiVm.jpg",Isabel el caso nardoni(2023)
 http://208.88.245.85/nuevo/isabella.el.caso.nardoni.dual.2023.mkv
@@ -536,15 +498,6 @@ http://208.88.245.85/nuevo/amigos.dlas.vacaciones2.dual.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/e7CKgRnRdE7bk1jl2vhJniX89cU.jpg",Al descubierto Johnn football(2023)
 http://208.88.245.85/nuevo/al.descubierto.johnnyfootball.dual2023.mkv
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",Cuando termines de salvar al mundo(2023)
-http://208.88.245.85/nuevo/cuando.termines.dsalvar.almundo.2023dual.mkv
-
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qMgx4ofxWNqgXliRyXGXImoA7vX.jpg0",Dime lo que quieres(2023)
-http://208.88.245.85/nuevo/dime.lo.que.quieras.latino.2023.mkv
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg",Divina señal(2023)
-http://208.88.245.85/nuevo/divina.senal.latino2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg",Agente Stone(2023)
 http://208.88.245.85/nuevo/agentestone.dual2023.mkv
 
@@ -553,13 +506,6 @@ http://208.88.245.85/nuevo/firstslamdunk.dual.2023.mkv
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3gFtw4w2bIUYKWOrmBgfI6iXfmZ.jpg",Mansión embrujada(2023)
 http://208.88.245.85/nuevo/mansion.embrujada.dual2023.mkv
-
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",El clon de tyrone(2023)
-http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",El clon de tyrone(2023)
-http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tcKBclNUdkas4Jis8RYYZnPdTIm.jpg",Asteroid city(2023)
 http://208.88.245.81/nuevo/asteroidcity.dual2023.mkv
@@ -574,9 +520,6 @@ http://208.88.245.85/nuevo/suzume.dual.2023.mkv
 http://208.88.245.85/nuevo/el.mejor.delmundo.dual2023.mkv
 
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",Cuiden a maya(2023)
-http://208.88.245.81/nuevo/cuiden.a.maya.dual2023.mkv
-
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de rescate 2 (2023)
 http://208.88.245.85/nuevo/extraction.dual.2023.mkv
@@ -587,8 +530,6 @@ http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",Misión de rescate 1 (2020)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Misi%C3%B3n%20de%20rescate%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nRVnpz4dzRvknK0BANjJ76dP0D3.jpg",Big Mack gangsters(2023)
 http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv
 
@@ -597,11 +538,6 @@ https://archive.org/download/01_20230602_20230602_1730/01.mp4
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",Anna Nicolle(2023)
 http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv
-
-
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater(2023)
-http://208.88.245.81/nuevo/crater.dual.2023.mkv
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg",Bendita suegra(2023)
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
@@ -626,9 +562,6 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",Ant-Man y la Avispa: Quantumanía (2023) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Ant-Man%20and%20the%20Wasp-%20Quantumania%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",Chupa (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Chupa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/c21ON7BZn0jwdNl6ibZ1vhXJmpy.jpg",La historia más grande jamás contada (1965)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20La%20Historia%20M%C3%A1s%20Grande%20Jam%C3%A1s%20Contada%20(1965)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
@@ -763,9 +696,6 @@ http://notabasica.com/612132/Hocus.Pocus.2.2022.lati.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3uTnw1XahydeVkwFzY5xq5aFUh7.jpg",Atrapados en el Cubo
 http://notabasica.com/612132/Cube.2021.lati.mp4
 
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg",El Menu
-http://notabasica.com/612132/The.Menu.2022.lati.mp4
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cF0pwv6ce82pPVCIEzB5ArnuIZx.jpg",Mirame
 http://notabasica.com/612132/M%C3%ADrame.2021.lati.mp4
@@ -1098,10 +1028,6 @@ https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",M3GAN (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63d020fdb5ff8_MGNNumero4k_T.mp4
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",El menú (2022)
-https://d1yei2z3i6k35z.cloudfront.net/2104853/63b6f9421344e_16EMNumero4k_T.mp4
-
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",de Roald Dahl: El musical (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63b2fe1978679_7MRDNumero4k_F.mp4
@@ -1886,8 +1812,6 @@ http://208.88.245.85/nuevo/hijos.de.perra.dual2023.mkv
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Enterrando%20una%20ambici%C3%B3n%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xBlYO5Pih92UKBN3mYUh8Ptiqh2.jpg",El monstruo dentro de mí (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20El%20monstruo%20dentro%20de%20m%C3%AD%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",El justiciero 3: Capítulo final (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20El%20Justiciero-%20Cap%C3%ADtulo%20final%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg",Cosecha Oscura (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Dark%20Harvest%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6yx14lSACNJ2zRoYyXqecf3QNgr.jpg",Carga máxima (2023)
