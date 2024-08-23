@@ -202,8 +202,6 @@ http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv
 http://208.88.245.85/nuevo/mientras.haya.esperanza.dual2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/Ab9iyIXRbwK2YsVwpQV2xysLztJ.jpg",MI SUEGRA ME ODIA (2023)
 http://208.88.245.85/nuevo/mi.suegra.me.odia.latino.2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ajZUEsDpo3EgiHZ8HX9yQJIRnFf.jpg",MEGAN (2022)
-http://208.88.245.85/nuevo/megan.dual.2022.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",MEG 2 EL GRAN ABISMO (2023)
 http://208.88.245.85/nuevo/meg2.el.gran.abismo.dual2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pQeyfqLEDdY6x4P4Fl5r6jcstN4.jpg",ME VUELVES LOCA (2023)
@@ -258,7 +256,7 @@ http://208.88.245.85/nuevo/la.oscuridad.delaluz.del.mundo.latino2023.mkv
 http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",LA MONJA 2 (2023)
 http://208.88.245.85/nuevo/la.monja2.dual2023.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="",LA MAESTRA SE COMIó A MI AMIGO (2023)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/te3xEhB257GXTaDk2UsqA3HDtvF.jpg",Mi MAESTRA SE COMIó A MI AMIGO (2023)
 http://208.88.245.85/nuevo/m.maestra.c.comio.amigo.2023.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg",LA LIGA DE LA JUSTICIA MUNDO BéLICO (2023)
 http://208.88.245.85/nuevo/ligadlajusticia.mundo.belico.dual2023.mkv
@@ -484,8 +482,10 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20R.I.P.D.%202-%20Rise%20of%20the%20Damned%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="movie",La bala perdida 2 (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20Bala%20perdida%202%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="",365 Dias 1 (2020)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",365 Dias 1 (2020)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte2%2FVer%20pel%C3%ADcula%20365%20d%C3%ADas%20online%20gratis%20en%20HD%20%E2%80%A2%20Gnula.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",365 Dias 2 Aquel día (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fabril%2FVer%20365%20dni-%20Ten%20dzie%C5%84%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/oCVDRqnh6xtaexTKQ8OkXD89rkL.jpg",Maligno (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelissept%2Fmaligno.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg",Escape Room 2 (2021)
@@ -606,73 +606,45 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2FVer%20Dragon%20Ball%20Super-%20Super%20Hero%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bkjPoisqAavXUvtoirxTEcLLQyI.jpg",Tiempo para mí (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2Ftiempo%20para%20mi.mp4
-
-
-
-
-
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",365 Dias 2 Aquel día (2022)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fabril%2FVer%20365%20dni-%20Ten%20dzie%C5%84%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",Muerte en el Nilo (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2F%E2%96%B7%20Ver%20Muerte%20en%20el%20Nilo%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tPlJEodEn0SSV4avo8KSawtlTlN.jpg",El rescate de Ruby (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2F%E2%96%B7%20Ver%20El%20Rescate%20de%20Ruby%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg",Doce en casa (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2F%5BPelicula%20Doce%20en%20casa%202022%5D%20Cheaper%20by%20the%20Dozen%20Ver%20Online%20%E2%80%94%20Cuevana%20Video.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hXUgpAB6CQNTfMZ6hCUtEM8rdVS.jpg",Luz negra (2022)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2FVer%20Blacklight%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ublJIJbc2NZ30ptXj4O2d2apo1t.jpg",La última gran estafa (2020)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2F%E2%96%B7%20Ver%20La%20%C3%9Altima%20Estafa%20(2020)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bwvoSRyXRRqtpvoHYhySQk2U4EM.jpg",El violín de mi padre (2022)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2F%E2%96%B7%20Ver%20El%20Viol%C3%ADn%20de%20mi%20Padre%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",A mi altura 2 (2022)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2F%E2%96%B7%20Ver%20A%20mi%20Altura%202%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",tick... Boom! (2021)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/pelisnuee%2Fpelisnov%2F%E2%96%B7%20Ver%20tick%2C%20tick...%20Boom!%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v1Wj5lzvsvFbXHdrmYGdXL10Q73.jpg",Black Widow (2021)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_b97b56f3.jpeg",Black Widow (2021)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/pelicujulio%2FVer%20Viuda%20negra%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",La guerra del mañana (2021)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/pelicujulio%2FVer%20La%20guerra%20del%20ma%C3%B1ana%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",Un jefe en pañales 2 (2021)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/pelicujulio%2FVer%20El%20bebe%20jefazo-%20Negocios%20de%20familia%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",M3GAN (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63d020fdb5ff8_MGNNumero4k_T.mp4
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",de Roald Dahl: El musical (2022)
-https://d1yei2z3i6k35z.cloudfront.net/2104853/63b2fe1978679_7MRDNumero4k_F.mp4
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",El extra navideño del Bebé Jefazo (2022)
-https://d1yei2z3i6k35z.cloudfront.net/2104853/63aa1b0ddb369_4EENNumero4k_F.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7l3war94J4tRyWUiLAGokr3ViF2.jpg",Me llamo Venganza (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/638f82ffcc1da_3MLVNumero4k_A.mp4
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",Bros: Más que amigos (2022)
-https://d1yei2z3i6k35z.cloudfront.net/2104853/63518d695d1b8_3BMQANumero4k_C.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vqc3bNpuDFPiKmWlfkyi5YOIMUT.jpg",Rosalina (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/634f09af86ee3_50RSLNNumero4k_R.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nSguJmHeYv6cwTljOZduPJDTweS.jpg",Los Ancianos (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/634f08ae3b7f6_49LANumero4k_T.mp4
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hj6NgZS6RIsrGzBIiT7s9yoYA5Z.jpg",La Madrastra (2022)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://media.filmelier.com/tit/4s7GEc/poster/la-madrastra_4wk5beI.jpeg",La Madrastra (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/634f05c3beffb_48LMNuenro4k_T.mp4
-
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kl80N1g69v9QXe1wvkFza31WhD4.jpg",El Cataclismo (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/634f05b0671d3_45ECNumero4k_T.mp4
+
+
+
+
+
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/djM2s4wSaATn4jVB33cV05PEbV7.jpg",Lou (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/632f4fdef2801_44LUNumero4k_A.mp4
