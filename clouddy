@@ -730,7 +730,7 @@ http://vod.tuxchannel.mx/peliculas/720/the%20expendables.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20expendables%202.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d63qz4XeNtbpDC5c70AlSUIbnTQ.jpg",Los mercenarios 3 (2014)
 http://vod.tuxchannel.mx/peliculas/720/the%20expendables%203.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3lBFvzhSkkzVfgjXRcH97NmwbUJ.jpg",El ático (2016)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/the_disappointments_room-894537634-large.jpg",El ático (2016)
 http://vod.tuxchannel.mx/peliculas/720/the%20disappointments%20room.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zPSB6B5duZIjF0QOBsP1aPBjNRg.jpg",Los muertos no mueren (2019)
 http://vod.tuxchannel.mx/peliculas/720/the%20dead%20dont%20die%202019.mkv
@@ -744,13 +744,11 @@ http://vod.tuxchannel.mx/peliculas/720/the%20book%20ok%20eli.mkv
 http://vod.tuxchannel.mx/peliculas/720/tenet%202020.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sytFL6ALMAesKZoarlp7bIDKnns.jpg",Super 8 (2011)
 http://vod.tuxchannel.mx/peliculas/720/super%208.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/AtQDTlj3MFOXJd5C9OopaRo3rRo.jpg",8 Minutos Antes De Morir (2011)
-http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/AtQDTlj3MFOXJd5C9OopaRo3rRo.jpg",Código Fuente (2011)
 http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",Sonic la película (2020)
 http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%202020.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/o0zhNnSYWJ04TCVAnzsVgPxpfc2.jpg",Silent Hill 1 (2006)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/silent_hill-444831227-large.jpg",Silent Hill 1 (2006)
 http://vod.tuxchannel.mx/peliculas/720/silent%20hill.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg",Silent Hill 2 (2012)
 http://vod.tuxchannel.mx/peliculas/720/silent%20hill%20revelation.mkv
@@ -796,8 +794,6 @@ http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20at%20wor
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20on%20stranger%20tides.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qwoGfcg6YUS55nUweKGujHE54Wy.jpg",Piratas del Caribe 5 (2017)
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20men%20tell%20no%20tales.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tOOIl9keHUnfeHXPX9S7y3MZgX9.jpg",Pig (2021)
-http://vod.tuxchannel.mx/peliculas/720/pig%202021.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cjcrkPeQkrkEVYrd3lHWJbfBdrv.jpg",Pan Viaje a Nunca Jamás (2015)
 http://vod.tuxchannel.mx/peliculas/720/pan.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cAZk4y7JZswALX6nTf5KXNjPMUE.jpg",Ouija: El origen del mal (2016)
@@ -842,7 +838,7 @@ http://vod.tuxchannel.mx/peliculas/720/invancion%20del%20mundo%20batalla%20los%2
 http://vod.tuxchannel.mx/peliculas/720/independence%20day%20-%20resurgence.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5DSVYlKwEzGBxTkS95L73c3oxLs.jpg",Ocultos por la luna (2019)
 http://vod.tuxchannel.mx/peliculas/720/in%20the%20shadow%20of%20the%20moon%202019.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="",Escupiré sobre tu tumba 1 (2010)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/i_spit_on_your_grave-950937744-large.jpg",Escupiré sobre tu tumba 1 (2010)
 http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cy3zp7PA4JFq8bT0WwSi8uDlrbD.jpg",Escupiré sobre tu tumba 2 (2013)
 http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave%202.mkv
@@ -856,7 +852,7 @@ http://vod.tuxchannel.mx/peliculas/720/i%20am%20mother%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/hubie%20halloween%202020.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/prdFM08mGvVDA6uQxKJh8n8Vek1.jpg",El final de todo (2018)
 http://vod.tuxchannel.mx/peliculas/720/how%20it%20ends.mkv
-#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="",Hotel Transylvania 1 (2012)
+#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://pics.filmaffinity.com/hotel_transylvania-382209595-large.jpg",Hotel Transylvania 1 (2012)
 http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania.mkv
 #EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kKFgwQnR5q08UFsAvtoYyTIiHyj.jpg",Hotel Transylvania 2 (2015)
 http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%202.mkv
@@ -866,19 +862,19 @@ http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%203.mkv
 http://vod.tuxchannel.mx/peliculas/720/hostal.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fedRspcT8CoALqSvUZTtdoJqP9p.jpg",Hostel 3 (2011)
 http://vod.tuxchannel.mx/peliculas/720/hostal%20parte%203.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2MCKRii4gzkbg4YBqPkexcoimrL.jpg",El manicomio (2018)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/heilstatten-719392350-large.jpg",El manicomio (2018)
 http://vod.tuxchannel.mx/peliculas/720/heilstatten%202018.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ik1uZyiMSxF9HqrgRKUNfMCfr3z.jpg",Hardcore Henry (2015)
 http://vod.tuxchannel.mx/peliculas/720/hardcore%20henry.mkv
 #EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3B9dxR5hE34W8ALLbP6SGdTgBRc.jpg",Scooby-Doo! (2020)
 http://vod.tuxchannel.mx/peliculas/720/happy%20halloween%20scooby-doo%202020.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="",Feliz día de tu muerte 1 (2017)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/happy_death_day-689393696-large.jpg",Feliz día de tu muerte 1 (2017)
 http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg",Feliz día de tu muerte 2 (2019)
 http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day%202%202019.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg",Escalofrios 1 (2015)
 http://vod.tuxchannel.mx/peliculas/720/goosebumps.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rLb1IncCARJWbioGxYNDY5NUxb0.jpg",Huye (2017)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/get_out-290175782-large.jpg",Huye (2017)
 http://vod.tuxchannel.mx/peliculas/720/get%20out.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg",Geo-tormenta (2017)
 http://vod.tuxchannel.mx/peliculas/720/geostorm.mkv
