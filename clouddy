@@ -392,6 +392,8 @@ http://208.88.245.85/nuevo/benditasuegra.latino.2023.mkv
 http://208.88.245.85/nuevo/bardo.latino.2022.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kt9nqD0uOar8IVE9191HXhWOXKI.jpg",BABYLON (2023)
 http://208.88.245.85/nuevo/babylon.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",Avatar 1 (2009)
+http://vod.tuxchannel.mx/peliculas/720/avatar.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",AVATAR 2 (2022)
 http://208.88.245.85/nuevo/avatar2.dual2022.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7nMRcShUYbVuOi2MItjqfhnSEKF.jpg",ATRAPADAS EN FAMILIA (2023)
@@ -874,6 +876,8 @@ http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day.mkv
 http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day%202%202019.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg",Escalofrios 1 (2015)
 http://vod.tuxchannel.mx/peliculas/720/goosebumps.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg",Escalofríos 2 (2018)
+http://vod.tuxchannel.mx/peliculas/720/escalofrios%202.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/get_out-290175782-large.jpg",Huye (2017)
 http://vod.tuxchannel.mx/peliculas/720/get%20out.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg",Geo-tormenta (2017)
@@ -884,12 +888,10 @@ http://vod.tuxchannel.mx/peliculas/720/gemini%20man%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/gallowwalkers.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ibFdvidQgmBvDSMRW39sAu8P4zn.jpg",Gabriel (2007)
 http://vod.tuxchannel.mx/peliculas/720/gabriel%202007.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vQljMYQKVApQFXfTXKt9J8diVLG.jpg",Freaky (2020)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/freaky-347088392-large.jpg",Freaky (2020)
 http://vod.tuxchannel.mx/peliculas/720/freaky%202020.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bOXk4mF2TjMJVq8DZYUtblKOR92.jpg",Rescate en Nueva York (1981)
 http://vod.tuxchannel.mx/peliculas/720/escape%20from%20new%20york.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg",Escalofríos 2 (2018)
-http://vod.tuxchannel.mx/peliculas/720/escalofrios%202.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dxbI3kT9mvlc6Yh14xCKFbd0RvE.jpg",Embrión (2020)
 http://vod.tuxchannel.mx/peliculas/720/embrion%202020.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg",Elysium (2013)
@@ -934,23 +936,25 @@ http://vod.tuxchannel.mx/peliculas/720/destino%20final%203.mkv
 http://vod.tuxchannel.mx/peliculas/720/destino%20final%204.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg",Destino final 5 (2011)
 http://vod.tuxchannel.mx/peliculas/720/destino%20final%205.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jq4TVchWAWac6zGmCuriFhfBSzo.jpg",Demonic (2015)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/demonic_house_of_horror-101912836-large.jpg",Demonic (2015)
 http://vod.tuxchannel.mx/peliculas/720/demonic.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9OkZ94drVlmLfa1uBYaP8yMv7Ow.jpg",Déjame entrar (2008)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/lat_den_ratte_komma_in_let_the_right_one_in-361591202-large.jpg",Déjame entrar (2008)
 http://vod.tuxchannel.mx/peliculas/720/dejame%20entrar.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg",El amanecer de los muertos (2004)
 http://vod.tuxchannel.mx/peliculas/720/dawn%20of%20the%20dead.mkv
-#EXTINF:-1 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eBaUVUNAWSOg70TMl7o9K3qSgYO.jpg",Cyborg (1989)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/cyborg-817137843-large.jpg",Cyborg (1989)
 http://vod.tuxchannel.mx/peliculas/720/cyborg.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rR1YpHTejg1YijqLAiJrOkZKqdf.jpg",La crucifixión (2017)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/the_crucifixion-644297291-large.jpg",La crucifixión (2017)
 http://vod.tuxchannel.mx/peliculas/720/crucifixion.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uqhT6uOVMgo7ODnZLnYzGiyln2j.jpg",Contacto (1997)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/contact-968251517-large.jpg",Contacto (1997)
 http://vod.tuxchannel.mx/peliculas/720/contacto.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6gBt2qFZiq7tF7HTfkl6pP9ml8y.jpg",Venganza (2019)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/cold_pursuit-774712813-large.jpg",Venganza (2019)
 http://vod.tuxchannel.mx/peliculas/720/cold%20pursuit%202019.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/AtQDTlj3MFOXJd5C9OopaRo3rRo.jpg",Código 8 (2019)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/code_8-684954213-large.jpg",Código 8: Renegados (2019)
 http://vod.tuxchannel.mx/peliculas/720/code%208%202019.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xJCZ8xMrPCdntMxOBe50WHaDY5H.jpg",Escolta (2019)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg",Código 8 (Parte 2) (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20C%C3%B3digo%208-%20Renegados%20(Parte%20II)%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/close-499595415-large.jpg",Escolta (2019)
 http://vod.tuxchannel.mx/peliculas/720/close.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xENglsVIIWEEhhB5lgpy33tGcKI.jpg",Poder sin límites (2012)
 http://vod.tuxchannel.mx/peliculas/720/chronicle.mkv
@@ -960,7 +964,7 @@ http://vod.tuxchannel.mx/peliculas/720/chilangolandia%202021.mkv
 http://vod.tuxchannel.mx/peliculas/720/chernobyl%202021.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hpnuXlKKWznTgbheGe4iQXzkuwJ.jpg",Chappie (2015)
 http://vod.tuxchannel.mx/peliculas/720/chappie.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zdaU2jx0IS4lPpQs0mDBlLMO2b8.jpg",La rebelión (2019)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/captive_state-683060544-large.jpg",La rebelión (2019)
 http://vod.tuxchannel.mx/peliculas/720/captive%20state%202019.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg",El niño 2 (2020)
 http://vod.tuxchannel.mx/peliculas/720/brahms%20the%20boy%20II%202020.mkv
@@ -970,11 +974,9 @@ http://vod.tuxchannel.mx/peliculas/720/blade%20runner%202049.mkv
 http://vod.tuxchannel.mx/peliculas/720/babylon%20a.d.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rmnQ9jKW72bHu8uKlMjPIb2VLMI.jpg",Baby Driver (2017)
 http://vod.tuxchannel.mx/peliculas/720/baby%20driver.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",Avatar 1 (2009)
-http://vod.tuxchannel.mx/peliculas/720/avatar.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nUEIwqzTWYvEJEcMkHZ8BAi2rL0.jpg",Autómata (2014)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/automata-750464639-large.jpg",Autómata (2014)
 http://vod.tuxchannel.mx/peliculas/720/automata.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7mlA2czXUhiB53huT9qu2vRJ36w.jpg",Attraction (2017)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/prityazhenie-612163369-large.jpg",Attraction (2017)
 http://vod.tuxchannel.mx/peliculas/720/attraction.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",Atomic Blonde (2017)
 http://vod.tuxchannel.mx/peliculas/720/atomic%20blonde.mkv
@@ -992,17 +994,17 @@ http://vod.tuxchannel.mx/peliculas/720/american%20siege%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/alien_warfare_2019.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pe9mSStpQC2doKtYY3VDJdBEBHr.jpg",Alien Abduction (2014)
 http://vod.tuxchannel.mx/peliculas/720/alien%20abduction.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fhyun1mja3WwQsYr1a3x1x9BttP.jpg",Aladdin (2019)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/aladdin-443262605-large.jpg",Aladdin (2019)
 http://vod.tuxchannel.mx/peliculas/720/aladdin%202019.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2Zn9yHhNlZmqfuKpBovQJ9RWIOr.jpg",Mas allá de la muerte (2009)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/after_life_afterlife-931936129-large.jpg",Mas allá de la muerte (2009)
 http://vod.tuxchannel.mx/peliculas/720/after%20life%202009.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",Después de la Tierra (2013)
 http://vod.tuxchannel.mx/peliculas/720/after%20earth.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",Un lugar en silencio 2 (2021)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/a_quiet_place_part_ii-979721999-large.jpg",Un lugar en silencio 2 (2021)
 http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20part%20II%202021.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg",La cura siniestra (2016)
 http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="",4:44 El último día en la Tierra (2011)
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/4_44_last_day_on_earth-640216522-large.jpg",4:44 El último día en la Tierra (2011)
 http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7LwSrvFA0gz1KAlcrGcinoQPene.jpg",30 Días de oscuridad (2007)
 http://vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv
@@ -1023,9 +1025,9 @@ http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv
 
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg",Imaginario: Juguete diabólico (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Imaginario-%20juguete%20diab%C3%B3lico%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ng0bdozu6NBdGQIsru1oXyzNxc6.jpg",María Magdalena (2018)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/mary_magdalene-800147017-large.jpg",María Magdalena (2018)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Mar%C3%ADa%20Magdalena%20Online%20Gratis%20(%E2%9A%9C%EF%B8%8F%202018)%20-%20CUEVANA3.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/stSpFp2NUJMGhIyndqwBi9WE9y9.jpg",Los diez mandamientos (1956)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/the_ten_commandments-583284878-large.jpg",Los diez mandamientos (1956)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Los%20Diez%20Mandamientos%20(1956)%20Online%20Latino%20HD%20-%20Cuevana%20HD.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",Atrapados en lo Profundo (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Atrapados%20en%20lo%20Profundo%20online%20HD%20-%20Cuevana%202.mp4
@@ -1041,13 +1043,11 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Ricky%20Stanicky-%20El%20impostor%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Animación"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yRZfiG1QpRkBc7fAmxfcR7Md5EC.jpg",Megamind contra el sindicato del mal (2024) 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Megamente%20contra%20el%20sindicato%20de%20Doom%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vFisU2LzsbiGBo3m5zDCU4mz5TO.jpg",Chicas malas (2024)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/mean_girls-755875269-large.jpg",Chicas malas (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Chicas%20pesadas%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",Pobres criaturas (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Pobres%20Criaturas%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg",Código 8 (Parte 2) (2024)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20C%C3%B3digo%208-%20Renegados%20(Parte%20II)%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/urFWBbNkMkiqKhEDLogiWzc54O4.jpg",El astronauta (2024)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/spaceman-521831305-large.jpg",El astronauta (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20El%20astronauta%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg",Dune: Parte uno (2021)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Duna%20online%20HD%20-%20Cuevana%202.mp4
@@ -1061,8 +1061,6 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Cazadores%20en%20tierra%20inh%C3%B3spita%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Animación"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2J70guF8wcErbYbRgZUBcvShgI1.jpg",Un pequeño Batman Navideño (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Un%20peque%C3%B1o%20Batman%20Navide%C3%B1o%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qD63nfBOHBesy6EOu5GT2AB0rCj.jpg",Santa, Mi Amor (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Santa%20Mi%20Amor%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bxr8VqXC89XoOYpJOfQHNASTgW9.jpg",El sexto bus (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20El%20Sexto%20Bus%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iuGofAB4DaAkq7KyFZEyW6czRCj.jpg",En el desierto (2023)
@@ -1073,22 +1071,18 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Los%20Archies%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cnXvfZrj1azU5Rvbb8D7Fz0wkyt.jpg",Paisaje con mano invisible (2023)
 http://vod.tuxchannel.mx/peliculas/720/landscape%20with%20invisible%20hand%202023.mkv
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="",Doctor Who: La bestia estelar (2023)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/doctor_who_the_star_beast-438383170-large.jpg",Doctor Who: La bestia estelar (2023)
 http://vod.tuxchannel.mx/peliculas/720/doctor%20who%20the%20star%20beast%202023.mkv
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/e0lSKnfAB0p2FJ5roEwjAyy0EA0.jpg",Travesuras Navideñas (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Travesuras%20Navide%C3%B1as%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Animación"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",El expreso polar (2004)
 http://vod.tuxchannel.mx/peliculas/720/the%20polar%20express.mkv
 #EXTINF:-1 group-title="Animación"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg",El Grinch (2018)
 http://vod.tuxchannel.mx/peliculas/720/el%20grinch.mkv
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg",El Grinch (2000)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/how_the_grinch_stole_christmas-511679229-large.jpg",El Grinch (2000)
 http://vod.tuxchannel.mx/peliculas/720/how%20the%20grinch%20stole%20christmas.mkv
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5tAN9qy8d1cqDTwLFAhiRJc7q00.jpg",Única (2023)
 https://od.lk/s/NV8xODkzOTY2NjNf/%C3%9Anica%202023--.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nFjNdswa8V8OyhwmhX31JB6ENkG.jpg",Doi Boy (2023)
 http://vod.tuxchannel.mx/peliculas/720/doi%20boy%202023.mkv
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cQvINIqpk81Ax0QCcQXxjGD7Dgv.jpg",Nuevos ricos (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20Nouveaux%20riches%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/80LYrmrs3EcW0hj9aXAwglmXtJF.jpg",Bihter, pasión oculta (2023)
 https://od.lk/s/NV8xODkzMjI2MTZf/HDVER%20Bihter%202023.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg",Creyente 2 (2023)
@@ -1111,7 +1105,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FWatch%20Ferrari%202023%201080p%20WEBRip%20LAT%20DUB%201XBET%20mp4.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/irEqWPmDqCuzsItzefFxX3xWpL8.jpg",Mi gran boda griega 3 (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FWatch%20Gr4n%20Boda%20Gr1ega31080%20mp4.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2zhdUl8KWK8QGATbWTRGexYthZT.jpg",La Cocina (2023)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/the_kitchen-675001481-large.jpg",La Cocina (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20The%20Kitchen%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qD63nfBOHBesy6EOu5GT2AB0rCj.jpg",Santa, Mi Amor (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Santa%20Mi%20Amor%20online%20HD%20-%20Cuevana%202.mp4
@@ -1119,11 +1113,11 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20TAYLOR%20SWIFT%20-%20THE%20ERAS%20TOUR%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bxr8VqXC89XoOYpJOfQHNASTgW9.jpg",El sexto bus (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20El%20Sexto%20Bus%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iuGofAB4DaAkq7KyFZEyW6czRCj.jpg",En el desierto (2023)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/naga-528547149-large.jpg",En el desierto (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20%D9%86%D8%A7%D9%82%D8%A9%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ycpxvpNyrkzsydwvLTUNixRWrdQ.jpg",Silber y el libro de los sueños (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Silber%20y%20el%20libro%20de%20los%20sue%C3%B1os%20online%20HD%20-%
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3r5OTR32ztBQBaKaPNlnRA4ulB5.jpg",Sin Aire (2023)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/the_dive-997443542-large.jpg",Sin Aire (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20Sin%20Aire%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qKpdy7N6zX05eisopvvviiTwPxb.jpg",El arte de matar (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20El%20arte%20de%20matar%20online%20HD%20-%20Cuevana%202.mp4
@@ -1137,7 +1131,7 @@ http://vod.tuxchannel.mx/peliculas/720/back%20on%20the%20strip%202023.mkv
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Travesuras%20Navide%C3%B1as%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5tAN9qy8d1cqDTwLFAhiRJc7q00.jpg",Única (2023)
 https://od.lk/s/NV8xODkzOTY2NjNf/%C3%9Anica%202023--.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",Sisu (2023)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",Sisu (2022)
 http://vod.tuxchannel.mx/peliculas/720/sisu%202022.mkv
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nFjNdswa8V8OyhwmhX31JB6ENkG.jpg",Doi Boy (2023)
 http://vod.tuxchannel.mx/peliculas/720/doi%20boy%202023.mkv
@@ -1151,7 +1145,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://od.lk/s/NV8xODYzNjAzMDRf/The%20Wrath%20of%20Becky%20ONLINE%202023.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t2gpwYUF5xZUOiJKKg23ydpmjKk.jpg",1962 Halloween Masacre (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%201962%20Halloween%20Massacre%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="",Recistencia (2023)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/the_creator-470808400-large.jpg",Recistencia (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20Resistencia%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",After: Aquí acaba todo (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20After-%20Para%20siempre%20online%20HD%20-%20Cuevana%202.ts
@@ -1163,8 +1157,6 @@ https://od.lk/s/NV8xODg5NDUwOTFf/HDVER%20El%20lado%20dulce%20de%20la%20traici%C3
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Hombre%20Lobo%20por%20la%20Noche%20a%20color%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ewF3IlGscc7FjgGEPcQvZsAsgAW.jpg",Winnie the Pooh: Miel y sangre (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FWatch%20Winnie%20the%20Pooh%20Miel%20Y%20Sangre%20mp4.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/19CG7aTgNRF8DvM3Cla4Zn2qWzh.jpg",Soltera codiciada 2 (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Soltera%20codiciada%202%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Animación"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1tcLXVaXFG9OObnCN3a5KrymrQG.jpg",Scarygirl (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Scarygirl%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uldNFFKNXNvwss0MIZErMSFkBJZ.jpg",Nowhere (2023)
@@ -1173,7 +1165,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20%C2%A1No%20est%C3%A1s%20invitada%20a%20mi%20bat%20Mitzvah!%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Animación"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1eKWqTHp4OgKdx1QX1O9LxKHr1M.jpg",Mortal Kombat Legends: Demonios y Angeles (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Mortal%20Kombat%20Legends-%20Cage%20Match%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2bDojliSLzGFwxlqQZodJAXHy7H.jpg",La Monja (2018)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/the_nun-167259563-large.jpg",La Monja (2018)
 https://od.lk/s/MjNfMjA1MzE0Mjlf/Ver%20La%20Monja%20%282018%29%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kn28W24slBLyGr8ZIZnxNE5YZrY.jpg",La libreta negra (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20La%20Libreta%20Negra%20online%20HD%20-%20Cuevana%202.mp4
@@ -1203,17 +1195,17 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Zom%20100-%20Cien%20cosas%20que%20quiero%20hacer%20antes%20de%20convertirme%20en%20zombi%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",Yo era famoso (2022)
 https://archive.org/download/01_20220924_20220924_1738/01.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kzi8blcfLizzSLr6XZokfRb1vUF.jpg",Mi Nombre (2021)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/my_name-667951252-large.jpg",Mi Nombre (2021)
 https://archive.org/download/08_20211017/01.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eX9e9Rv6RLq80IUXSgfRuez60m0.jpg",Cuatro por cuatro (2021)
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/du_sie_er_wir-312747918-large.jpg",Cuatro por cuatro (2021)
 https://archive.org/download/01_20211017_20211017/01.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cD4uQM8oF2oEEn2mMuaImVvGkto.jpg",Altares sin amor (2021)
 https://archive.org/download/01_20211017/01.mp4
 
 
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGDDphUnL_WxUEAL5Y1X9NEFlGLJLocaec3ATaXEgjj1Hb6-ct",4 mitades (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/quattro_meta-216151562-large.jpg",4 mitades (2022)
 http://vod.tuxchannel.mx/peliculas/720/quattro%20meta%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq0BJIimKPCoqT4a_Tj6tD48duK0iGIOpYS-mMpAxosGGUgwMb",13: El musical (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/13_the_musical-560436040-large.jpg",13: El musical (2022)
 http://vod.tuxchannel.mx/peliculas/720/13%20the%20musical%202022.mkv
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/kolejne_365_dni-455880181-mmed.jpg",365 días más (2022)
 http://vod.tuxchannel.mx/peliculas/720/kolejne%20365%20dni%202022.mkv
