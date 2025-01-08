@@ -2765,20 +2765,20 @@ http://ia601402.us.archive.org/10/items/000_20200304_20200304_2245/03.mp4
 http://ia801409.us.archive.org/30/items/000_20200106/4.mp4
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="",El Príncipe Encantado
 http://archive.org/download/AnimalesFantsticos20182564564445646/2%2B892%2B2%2B2522Principe%20Encantado654196165468564168%20%282018%29.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Harry Potter y el cáliz de fuego
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/4.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Harry Potter y el misterio del príncipe
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/6.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Harry Potter y el prisionero de Azkaban
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/3.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Harry Potter y la orden del Fénix
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/5.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Harry Potter y la piedra filosofal
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-154820574-large.jpg",Harry Potter y la piedra filosofal (2001)
 http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/1.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Harry Potter y las reliquias de la muerte - Parte II
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/8.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_i-158932179-large.jpg",Harry Potter y las reliquias de la muerte Parte I
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_prisoner_of_azkaban_harry_potter_3-876411525-large.jpg",Harry Potter y el prisionero de Azkaban (2004)
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/3.mp4
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_goblet_of_fire_harry_potter_4-612673227-large.jpg",Harry Potter y el cáliz de fuego (2005)
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/4.mp4
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_order_of_the_phoenix_harry_potter_5-448254831-large.jpg",Harry Potter y la orden del Fénix (2007)
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/5.mp4
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_half_blood_prince_harry_potter_6-140623436-large.jpg",Harry Potter y el misterio del príncipe (2009)
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/6.mp4
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_i-158932179-large.jpg",Harry Potter y las reliquias de la muerte Parte I (2010)
 http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/7.mp4
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_ii-477385286-large.jpg",Harry Potter y las reliquias de la muerte - Parte II (2011)
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/8.mp4
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/10_cloverfield_lane-565304710-large.jpg",Avenida Cloverfield 10 (2016)
 http://archive.org/download/4QU4M4N000_201904/4V3N1D4%20CR0083RF1L11.mp4
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/welcome_to_marwen-421476764-large.jpg",Bienvenidos a Marwen (2018)
