@@ -2737,34 +2737,24 @@ http://archive.org/download/1_20190715_20190715_2033/3.mp4
 http://archive.org/download/5_20190713_201907/1.avi
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Terminator 2: Dia del juicio
 http://archive.org/download/5_20190713_201907/2.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Terminator 3: La rebelión de las maquinas
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/terminator_3_rise_of_the_machines_t3-788040850-large.jpg",Terminator 3: La rebelión de las maquinas (2003)
 http://archive.org/download/5_20190713_201907/3.avi
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Terminator 4: Salvacion
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/terminator_salvation_the_future_begins_terminator_4-225185375-large.jpg",Terminator 4: Salvacion (2009)
 http://archive.org/download/5_20190713_201907/4.avi
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Terminator: Genesis
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/terminator_genisys_aka_terminator_5-844929699-large.jpg",Terminator: Genesis (2015)
 http://archive.org/download/5_20190713_201907/5.avi
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",PRIMAL
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/primal-196648308-large.jpg",PRIMAL (2019)
 http://archive.org/download/mafaki1/Sub1d0_p4r4_5tr34ming_A85_v4r8/5.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",JUMANJI: EL SIGUIENTE NIVEL
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/jumanji_the_next_level-407262058-large.jpg",JUMANJI: EL SIGUIENTE NIVEL (2019)
 http://archive.org/download/jumanji.-2.-dvd.-lat.-www.-hackstore.-net/JUMANJI.2.DVD.LAT.Www.Hackstore.Net.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",A prueba de fuego (2008)
-http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/3.avi
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Janette Oke: Love's Unending Legacy (2007)
-http://archive.org/download/3l4m0rV0lvi0AN0s0tr0s/7%20%20Y%20el%20amor%20volvi%C3%B3%20a%20nosotros%20Pel%C3%ADcula%20cristiana%20completa%20en%20espa%C3%B1ol.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Janette Oke: Love Finds A Home (2009)
-http://archive.org/download/8YEl4morLleg4lH0gar/8%20%20Y%20el%20amor%20lleg%C3%B3%20al%20hogar%20%20%20Pel%C3%ADcula%20cristiana%20completa%20en%20espa%C3%B1ol.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Janette Oke: Love Begins (2011)
-http://archive.org/download/3l4m0rC0m13nza/9%20%20El%20amor%20comienza%20Pel%C3%ADcula%20cristiana%20en%20VO%20y%20con%20subtitulos%20en%20espa%C3%B1ol.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",AMENAZA EN LO PROFUNDO
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/underwater-618836804-large.jpg",AMENAZA EN LO PROFUNDO (2020)
 http://ia801400.us.archive.org/7/items/000_20200402/07.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",AD ASTRA 2019
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/ad_astra-649245505-large.jpg",AD ASTRA (2019)
 http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/2.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",LA TRAMPA DE LA ARAÑA
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/spider_in_the_web-365463767-large.jpg",LA TRAMPA DE LA ARAÑA (2019)
 http://ia601402.us.archive.org/10/items/000_20200304_20200304_2245/03.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",SHARK
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/jaws-195807307-large.jpg",SHARK (1975)
 http://ia801409.us.archive.org/30/items/000_20200106/4.mp4
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",El Príncipe Encantado
-http://archive.org/download/AnimalesFantsticos20182564564445646/2%2B892%2B2%2B2522Principe%20Encantado654196165468564168%20%282018%29.mp4
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-154820574-large.jpg",Harry Potter y la piedra filosofal (2001)
 http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/1.mp4
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_prisoner_of_azkaban_harry_potter_3-876411525-large.jpg",Harry Potter y el prisionero de Azkaban (2004)
