@@ -494,8 +494,6 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelissept%2Fescape%20room%202.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/umTUgeDhbkuCSUd9PPdr0Wrh3QA.jpg",Culpable (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisoctur%2F%E2%96%B7%20Ver%20Culpable%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",After. Almas perdidas (2021)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisnovi%2F%E2%96%B7%20Ver%20After-%20Almas%20Perdidas%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mcAIBwYP0E5fKBaOM6z5zt6QYhu.jpg",Ruega por nosotros (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismay%2FVer%20Ruega%20por%20nosotros%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",Cruella (2021)
@@ -1147,8 +1145,6 @@ https://od.lk/s/NV8xODYzNjAzMDRf/The%20Wrath%20of%20Becky%20ONLINE%202023.mp4
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%201962%20Halloween%20Massacre%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://pics.filmaffinity.com/the_creator-470808400-large.jpg",Recistencia (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20Resistencia%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",After: Aquí acaba todo (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20After-%20Para%20siempre%20online%20HD%20-%20Cuevana%202.ts
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",Los mercenarios 4 (2023)
 http://208.88.245.85/nuevo/los.indestructibles4.dual2023.mkv
 #EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3MxgXI3VO7QCNnP0mPBjxLIemNM.jpg",El lado dulce de la traición (2023)
@@ -1211,8 +1207,12 @@ http://vod.tuxchannel.mx/peliculas/720/kolejne%20365%20dni%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/abandoned%202022.mkv
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://images.justwatch.com/poster/304172687/s592/about-fate",Acerca del destino (2022)
 http://vod.tuxchannel.mx/peliculas/720/about%20fate%202022.mkv
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/after_we_fell-506490529-large.jpg",After: Almas perdidas (2021)
+http://vod.tuxchannel.mx/peliculas/720/after%20we%20fell%202021.mkv
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/After_Amor_infinito-752689209-large.jpg",After: Amor infinito (2022)
 http://vod.tuxchannel.mx/peliculas/720/after%20ever%20happy%202022.mkv
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",After: Aquí acaba todo (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20After-%20Para%20siempre%20online%20HD%20-%20Cuevana%202.ts
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/Agentes_355-274490581-large.jpg",Agentes 355 (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20355%202022.mkv
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/Aguas_profundas-790981437-large.jpg",Aguas profundas (2022)
@@ -1867,62 +1867,60 @@ http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20story%20christmas%202022.
 http://vod.tuxchannel.mx/peliculas/720/the%20darker%20the%20lake%202022.mkv
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/the_soccer_football_movie-844177282-large.jpg",Una peli de futbol... y mutantes (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20soccer%20football%20movie%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Un bucle sin fin (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/looop_lapeta-890565422-large.jpg",Un bucle sin fin (2022)
 http://vod.tuxchannel.mx/peliculas/720/looop%20lapeta%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Uncharted: Fuera del mapa (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/uncharted-417211360-large.jpg",Uncharted: Fuera del mapa (2022)
 http://vod.tuxchannel.mx/peliculas/720/uncharted%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Un crimen argentino (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/un_crimen_argentino-302511466-large.jpg",Un crimen argentino (2022)
 http://vod.tuxchannel.mx/peliculas/720/un%20crimen%20argentino%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Un día para morir (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/a_day_to_die-939140923-large.jpg",Un día para morir (2022)
 http://vod.tuxchannel.mx/peliculas/720/a%20day%20to%20die%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Un hombre de acción (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/un_hombre_de_accion-413423557-large.jpg",Un hombre de acción (2022)
 http://vod.tuxchannel.mx/peliculas/720/un%20hombre%20de%20accion%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Un jazzista en clave de blues (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/a_jazzman_s_blues-423597416-large.jpg",Un jazzista en clave de blues (2022)
 http://vod.tuxchannel.mx/peliculas/720/a%20jazzmans%20blues%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Un jefe en pañales: Especial de navidad (2022)
+#EXTINF:-1  group-title="Animación"  tvg-logo="https://pics.filmaffinity.com/the_boss_baby_christmas_bonus-768926008-large.jpg",Un jefe en pañales: Especial de navidad (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20boss%20baby%20christmas%20bonus%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Un misterio de navidad (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/a_christmas_mystery-499274695-large.jpg",Un misterio de navidad (2022)
 http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20mystery%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Un rabón con corazón (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/un_rabon_con_corazon-877199185-large.jpg",Un rabón con corazón (2022)
 http://vod.tuxchannel.mx/peliculas/720/un%20rabon%20con%20corazon%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Un río muy frío (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/so_cold_the_river-415356097-large.jpg",Un río muy frío (2022)
 http://vod.tuxchannel.mx/peliculas/720/so%20cold%20the%20river%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Vecinos (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/vizinhos-549481088-large.jpg",Vecinos (2022)
 http://vod.tuxchannel.mx/peliculas/720/fenced%20in%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Venganza (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/vengeance-544849554-large.jpg",Venganza (2022)
 http://vod.tuxchannel.mx/peliculas/720/vengeance%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Venganza a golpes (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/fistful_of_vengeance-202435040-large.jpg",Venganza a golpes (2022)
 http://vod.tuxchannel.mx/peliculas/720/fistful%20of%20vengeance%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Venganza y redención (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/Venganza_y_redenciaon-284625148-large.jpg",Venganza y redención (2022)
 http://vod.tuxchannel.mx/peliculas/720/white%20elephant%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Vertigo (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/fall-443075622-large.jpg",Vertigo (2022)
 http://vod.tuxchannel.mx/peliculas/720/fall%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Vista por última vez (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/last_seen_alive-331731347-large.jpg",Vista por última vez (2022)
 http://vod.tuxchannel.mx/peliculas/720/last%20seen%20alive%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Weird: La historia de Al Yankovic (2022) SUB
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/weird_the_al_yankovic_story-545842450-large.jpg",Weird: La historia de Al Yankovic (2022) 
 http://vod.tuxchannel.mx/peliculas/720/weird%20the%20al%20yankovic%20story%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Wendell y Wild (2022)
+#EXTINF:-1  group-title="Animación"  tvg-logo="https://pics.filmaffinity.com/wendell_and_wild-935078796-large.jpg",Wendell y Wild (2022)
 http://vod.tuxchannel.mx/peliculas/720/wendell%20and%20wild%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Windfall: Golpe de suerte (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/windfall-889072278-large.jpg",Windfall: Golpe de suerte (2022)
 http://vod.tuxchannel.mx/peliculas/720/windfall%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",X (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/x-902988465-large.jpg",X (2022)
 http://vod.tuxchannel.mx/peliculas/720/x%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Yo era famoso (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/i_used_to_be_famous-470525160-large.jpg",Yo era famoso (2022)
 http://vod.tuxchannel.mx/peliculas/720/i%20used%20to%20be%20famous%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Yo me encargo de la cerveza (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/the_greatest_beer_run_ever-713433018-large.jpg",Yo me encargo de la cerveza (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20greatest%20beer%20run%20ever%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Yo soy Vanessa Guillen (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/i_am_vanessa_guillen-333279926-large.jpg",Yo soy Vanessa Guillen (2022)
 http://vod.tuxchannel.mx/peliculas/720/i%20am%20vanessa%20guillen%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Zombies 3 (2022)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/z_o_m_b_i_e_s_3-881426980-large.jpg",Zombies 3 (2022)
 http://vod.tuxchannel.mx/peliculas/720/zombies%203%202022.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",007: Sin tiempo para morir (2021)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/no_time_to_die-525355918-large.jpg",007: Sin tiempo para morir (2021)
 http://vod.tuxchannel.mx/peliculas/720/no%20time%20to%20die%202021.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",12 huerfanos: Espíritu de lucha (2021)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/12_mighty_orphans-909165298-large.jpg",12 huerfanos: Espíritu de lucha (2021)
 http://vod.tuxchannel.mx/peliculas/720/12%20mighty%20orphans%202021.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",A descubierto (2021)
+#EXTINF:-1  group-title="Pelis 3"  tvg-logo="https://pics.filmaffinity.com/outside_the_wire-216887347-large.jpg",A descubierto (2021)
 http://vod.tuxchannel.mx/peliculas/720/outside%20the%20wire%202021.mkv
-#EXTINF:-1  group-title="Pelis 3"  tvg-logo="",After: Almas perdidas (2021)
-http://vod.tuxchannel.mx/peliculas/720/after%20we%20fell%202021.mkv
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Aguas negras (2021)
 http://vod.tuxchannel.mx/peliculas/720/dead%20in%20the%20water%202021.mkv
 #EXTINF:-1  group-title="Pelis 3"  tvg-logo="",Aguja en una pila de tiempo (2021)
