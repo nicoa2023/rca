@@ -106,7 +106,6 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Arca%20de%20No%C3%A9%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:0 group-title="Acción"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/95VlSEfLMqeX36UVcHJuNlWEpwf.jpg",Argylle: Agente secreto (2024)
 http://vod.tuxchannel.mx/peliculas/720/argylle%202024.mkv
-
 #EXTINF:0 group-title="Drama" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//eSatbygYZp8ooprBHZdb6GFZxGB.jpg",Radical (2023)
 http://208.88.245.81/nuevo/radical.latino.2023.mkv
 #EXTINF:0 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//2PlHYTHLfZbhjmWOEMQm9ZqyK70.jpg",Señora influencer (2023)
@@ -129,49 +128,50 @@ http://208.88.245.85/nuevo/los.que.se.quedan.2024.dual.mkv
 http://208.88.245.85/nuevo/el.color.purpura.2023dual.mkv
 #EXTINF:0 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5JyivjFm8WzZU2jhzjMWdbWdOwj.jpg",No voy a pedirle a nadie que me crea (2023)
 http://208.88.245.85/nuevo/no.voy.apedirle.anadie.kmcrea.latino.2024.mkv
-
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//90D6sXfbXKhDpd4S1cHICdAe8VD.jpg",Fineskind (2023)
+#EXTINF:0 group-title="Crimen" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//90D6sXfbXKhDpd4S1cHICdAe8VD.jpg",Fineskind (2023)
 http://208.88.245.85/nuevo/finestkind.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//k7rEpZfNPB35FFHB00ZhXHKTL7X.jpg",La sociedad de la nieve (2023)
+#EXTINF:0 group-title="Suspenso" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//k7rEpZfNPB35FFHB00ZhXHKTL7X.jpg",La sociedad de la nieve (2023)
 http://208.88.245.85/nuevo/la.sociedad.dla.nieve.latino.2024.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",Aquaman el reino perdido (2023)
+#EXTINF:0 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",Aquaman el reino perdido (2023)
 http://208.88.245.85/nuevo/aquaman.y.el.reyno.perdido.dual2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tRD18JW9iKqmwkQKvzPYDQetRoI.jpg",Heróico (2023)
+#EXTINF:0 group-title="Suspenso" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tRD18JW9iKqmwkQKvzPYDQetRoI.jpg",Heróico (2023)
 http://208.88.245.85/nuevo/heroico.latino.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",Los juegos del hambre 5 (2023) 
+#EXTINF:0 group-title="Ciencia ficción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",Los juegos del hambre 5 (2023) 
 http://208.88.245.85/nuevo/los.juegos.del.hambre.5.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aM0ViG6LVkN1PQGe9Bon1gQXpc7.jpg",El conejo de peluche (2023)
+#EXTINF:0 group-title="Drama" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aM0ViG6LVkN1PQGe9Bon1gQXpc7.jpg",El conejo de peluche (2023)
 http://208.88.245.85/nuevo/el.conejo.de.peluche.dual2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pWvHS914vuVYGSjt0NRG7LFDYa7.jpg",El bufón (2023) 
+#EXTINF:0 group-title="Terror" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pWvHS914vuVYGSjt0NRG7LFDYa7.jpg",El bufón (2023) 
 http://208.88.245.85/nuevo/el.bufon.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",Dejar el mundo atras (2023)
+#EXTINF:0 group-title="Suspenso" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",Dejar el mundo atras (2023)
 http://208.88.245.85/nuevo/dejar.el.mundo.atras.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sIpn96a6QyXLEDydbTg7ciGcncs.jpg",Viaje todo robado (2023)
+#EXTINF:0 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sIpn96a6QyXLEDydbTg7ciGcncs.jpg",Viaje todo robado (2023)
 http://208.88.245.85/nuevo/viaje.todo.robado.latino2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",Los asesinos de la luna (2023) 
+#EXTINF:0 group-title="Wéstern" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",Los asesinos de la luna (2023) 
 http://208.88.245.85/nuevo/las.asesinos.de.la.luna.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://pics.filmaffinity.com/sobreviviendo_mis_xv-642611869-large.jpg",Sobreviviendo a mis XV (2023) 
+#EXTINF:0 group-title="Comedia" type="movie" tvg-logo="https://pics.filmaffinity.com/sobreviviendo_mis_xv-642611869-large.jpg",Sobreviviendo a mis XV (2023) 
 http://208.88.245.85/nuevo/sobreviviendo.misxv.latino2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//y4YMYsGSMwu8e985g0Zbumvqxld.jpg",THE MARVELS (2023)
+#EXTINF:0 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//y4YMYsGSMwu8e985g0Zbumvqxld.jpg",THE MARVELS (2023)
 http://208.88.245.85/nuevo/the.marvels.dual2023.mkv
 #EXTINF:0 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",Leo (2023)
 http://208.88.245.85/nuevo/leo.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ykkVuQgvjrVWiEe7TvUQZOrLUgC.jpg",Genie (2023)
+#EXTINF:0 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ykkVuQgvjrVWiEe7TvUQZOrLUgC.jpg",Genie (2023)
 http://208.88.245.85/nuevo/genie.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//Af6hIxZhKzUNr02TZwethdrk5rP.jpg",Como matar a mamá (2023)
+#EXTINF:0 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//Af6hIxZhKzUNr02TZwethdrk5rP.jpg",Como matar a mamá (2023)
 http://208.88.245.85/nuevo/como.matar.a.mama.latino2023.mkv
 #EXTINF:0 group-title="Documental" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//oXrlGiQ6ghjN25rMPmlKeGe0gNm.jpg",Higuita el camino del escorpion (2023)
 http://208.88.245.81/nuevo/higuita.el.camino.del.escorpion.latino2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ApRW9CPK83fF4KCXPR00KCzXOjL.jpg",El panadero (2023)
+#EXTINF:0 group-title="Suspenso" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ApRW9CPK83fF4KCXPR00KCzXOjL.jpg",El panadero (2023)
 http://208.88.245.81/nuevo/el.panadero.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//e7Jvsry47JJQruuezjU2X1Z6J77.jpg",El asesino (2023)
+#EXTINF:0 group-title="Suspenso" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//e7Jvsry47JJQruuezjU2X1Z6J77.jpg",El asesino (2023)
 http://208.88.245.81/nuevo/el.asesino.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg",Nyad (2023)
+#EXTINF:0 group-title="Deportes" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg",Nyad (2023)
 http://208.88.245.81/nuevo/nyad.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8atmQTJJUqA1eMW6dDSrb1TNxiX.jpg",El Asesinato de Gaby Petito (2023)
+#EXTINF:0 group-title="Documental" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8atmQTJJUqA1eMW6dDSrb1TNxiX.jpg",El Asesinato de Gaby Petito (2023)
 http://208.88.245.81/nuevo/el.asesinato.de.gabby.petito.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1utWajLPvv1R9ZwkD98s2ZEngS.jpg",Sly (2023)
+#EXTINF:0 group-title="Documental" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1utWajLPvv1R9ZwkD98s2ZEngS.jpg",Sly (2023)
 http://208.88.245.81/nuevo/sly.dual.2023.mkv
+
+
 #EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//DyCTyS7NdbGCp6zWoAkVGM8p9j.jpg",Temporada de huracanes (2023)
 http://208.88.245.85/nuevo/temporada.de.huracanes.lat.2023.mkv
 #EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1Xgjl22MkAZQUavvOeBqRehrvqO.jpg",Misterio en venecia (2023)
