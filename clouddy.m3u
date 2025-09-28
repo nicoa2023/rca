@@ -312,7 +312,7 @@ http://208.88.245.85/nuevo/maldeojo.latino.2023.mkv
 http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv
 #EXTINF:0 group-title="Infantil" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/irIS5Tn3TXjNi1R9BpWvGAN4CZ1.jpg",LYLE LYLE CROCODILE (2022)
 http://208.88.245.85/nuevo/lilo.lilo.cocodrilo.dual.2022.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tvX2JltXjmpHLQ7BBijyVc9STv4.jpg",LUTHER CAE LA NOCHE (2023)
+#EXTINF:0 group-title="Drama" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tvX2JltXjmpHLQ7BBijyVc9STv4.jpg",LUTHER CAE LA NOCHE (2023)
 http://208.88.245.85/nuevo/luther.cae.la.noche.dual2023.mkv
 #EXTINF:0 group-title="Animación" type="movie" tvg-logo="https://pics.filmaffinity.com/lupin_the_third_vs_cat_s_eye-844438705-large.jpg",LUPIN 3 VS OJOS DE GATO (2023)
 http://208.88.245.85/nuevo/lupin3vscateye.dual.2023.mkv
@@ -370,7 +370,6 @@ http://208.88.245.85/nuevo/la.dama.del.silencio.dual2023.mkv
 http://208.88.245.85/nuevo/la.caida.latino.2022.mkv
 #EXTINF:0 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9v4h3j0zwDDOQasBC2kJPpXVGck.jpg",JUNTOS PERO NO REVUELTOS (2023)
 http://208.88.245.85/nuevo/juntospnorevueltos.latino.2023.mkv
-
 #EXTINF:0 group-title="Documental" type="movie" tvg-logo="https://pics.filmaffinity.com/the_devil_on_trial-581056175-large.jpg",JUICIO AL DIABLO (2023)
 http://208.88.245.85/nuevo/juicio.al.diablo.dual.2023.mkv
 #EXTINF:0 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",JOHN WICK 4 (2023)
@@ -423,24 +422,23 @@ http://208.88.245.85/nuevo/el.triangulo.dela.tristeza.dual2023.mkv
 http://208.88.245.85/nuevo/el.sueno.de.ayer.latino2022.mkv
 #EXTINF:0 group-title="Acción" type="movie" tvg-logo="https://pics.filmaffinity.com/the_system-331532804-large.jpg",EL SISTEMA (2023)
 http://208.88.245.85/nuevo/el.sistema.2023.dual.mkv
-
-
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sIk2wnKj9OSMrUNZ5Z97XkzUICK.jpg",EL SALóN DE LA INFAMIA (2023)
+#EXTINF:0 group-title="Documental" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sIk2wnKj9OSMrUNZ5Z97XkzUICK.jpg",EL SALóN DE LA INFAMIA (2023)
 http://208.88.245.85/nuevo/untolld.el.salon.dla.infamia.dual2023.mkv
 #EXTINF:0 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",EL REY MONO (2023)
 http://208.88.245.85/nuevo/el.reymono.dual2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jJAF2h2iLLCpKUocEnoJz7wKtWq.jpg",EL REY DE LOS CLONES (2023)
+#EXTINF:0 group-title=" Documental" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jJAF2h2iLLCpKUocEnoJz7wKtWq.jpg",EL REY DE LOS CLONES (2023)
 http://208.88.245.85/nuevo/rey.delos.clones.dual2023.mkv
 #EXTINF:0 group-title="Animación" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/516MFML05KWiPfiQNAsVCGMySc7.jpg",EL RENCOR DE EDIMBURGO PARTE 2 (2023)
 http://208.88.245.85/nuevo/el.rencor.de.edimburgo.part2.dual2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uAnwuVnnJ52ro72DaVUXKmBHnzq.jpg",EL PODEROSO VICTORIA (2023)
+#EXTINF:0 group-title="Aventura" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uAnwuVnnJ52ro72DaVUXKmBHnzq.jpg",EL PODEROSO VICTORIA (2023)
 http://208.88.245.85/nuevo/el.poderoso.victoria.latino.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",EL PEOR VECINO DEL MUNDO (2022)
+#EXTINF:0 group-title="Comedia" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",EL PEOR VECINO DEL MUNDO (2022)
 http://208.88.245.85/nuevo/elpeor.vecino.delmundo.dual.2023.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg",EL MENú (2022)
+#EXTINF:0 group-title="Terror" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg",EL MENú (2022)
 http://208.88.245.85/nuevo/el.menu.dual.2022.mkv
-#EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",EL JUSTICIERO 3 CAPíTULO FINAL (2023)
+#EXTINF:0 group-title="Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",EL JUSTICIERO 3 CAPíTULO FINAL (2023)
 http://208.88.245.85/nuevo/el.justiciero3.dual2023.mkv
+
 #EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d8YaaRIDzvHL4NyHJQxIvm0qDng.jpg",EL FINAL QUE QUIERO (2023)
 http://208.88.245.85/nuevo/el.final.que.quiero.dual2023.mkv
 #EXTINF:0 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg",EL ESTRANGULADOR DE BOSTON (2023)
