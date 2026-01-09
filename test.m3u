@@ -1,15 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ogqmdo6Vuofr1FkDQgwB1PHw4ZC.jpg" group-title="Animación",La leyenda de Hei
-https://archive.org/download/la-leyenda-de-hei-peli-cula-completa-hd-buena-espan-ol-1080-p-hd/LA%20LEYENDA%20DE%20HEI%20PEL%C3%8DCULA%20COMPLETA-%20HD-%20BUENA%20%28ESPA%C3%91OL%29%281080P_HD%29.ia.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xoVm1eYYMiUIvUJPv1zVY5AFbTW.jpg" group-title="Comedia",El Enfermo Imaginario
-https://dl.dropbox.com/scl/fi/h3ck0tg5z9n0pguaknagh/Elimaginario.mp4?rlkey=ag0tc5v451fxduxxzjcdp6rde&dl=0
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg" group-title="Animación",El chico y la garza
-https://archive.org/download/1332x-720-el-nino-y-la-garza/1332x720-El%20ni%C3%B1o%20y%20la%20garza.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tCw5ZR5RkmAtCztmkP8dYh1nkoX.jpg" group-title="Animación",El cuento de la princesa Kaguya
-https://archive.org/download/21.-la-princesa-kaguya/21.%20La%20princesa%20kaguya.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1t4cy5vPAkkmfclX9MEMcvAj4dL.jpg" group-title="Animación",Mis vecinos los Yamada
-https://archive.org/download/12.-mis-vecinos-los-yamada/12.%20Mis%20vecinos%20los%20yamada.mp4
-#EXTINF:-1 tvg-logo="" group-title="Sin clasificar",Puedo oir el mar
-https://archive.org/download/8.-puedo-escuchar-el-mar/8.%20Puedo%20escuchar%20el%20mar.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gqtdSLSuTmpPAQISIcCKH1ChBec.jpg" group-title="Aventura",Haru en el reino de los gatos
-https://archive.org/download/14.-haru-en-el-reino-de-los-gatos/14.%20Haru%20en%20el%20reino%20de%20los%20gatos.mp4
+#EXTINF:-1 ,Â¡Shazam! La Furia de los Dioses (2023)
+http://ia801808.us.archive.org/6/items/UME1K185/SZFDLD23.mkv
+#EXTINF:-1  tvg-logo="http://m.media-amazon.com/images/M/MV5BMTM5MjI4NDExNF5BMl5BanBnXkFtZTcwMDM1MjMzMQ@@._V1_.jpg",007 - Casino royale (ACT)
+http://ia801808.us.archive.org/6/items/001_20240809/001.mp4
+#EXTINF:-1 ,007 Al Servicio De Su Majestad 1969 ( Accion )
+http://ia801808.us.archive.org/6/items/20230426_20230426_0127/OO7%204.l%20S.3.rv1c10%20d3%20S6%20M4j3st4d%20%281969%29.mp4
+#EXTINF:-1 ,007 Octopussy Contra Las Chicas Mortales 1983 ( ACT )
+http://ia801808.us.archive.org/6/items/001_20240809/003.mp4
+#EXTINF:-1 ,007 Otro DÃ­a Para Morir 2002 ( Accion )
+http://ia801808.us.archive.org/6/items/20230426_20230426_0132/OO7-%200.t.r.0%20D14%20P4r4%20M0r1r%20%282002%29.mp4
+#EXTINF:-1  tvg-logo="http://archive.org/download/123321212/127%20HORAS.jpg",127 horas (480p HD)
+http://ia801808.us.archive.org/6/items/00000_202009/0000007.mp4
+#EXTINF:-1 ,3 ting 2017 (480p HD)
+http://ia801808.us.archive.org/6/items/00000_202006/11.mp4
+#EXTINF:-1 ,300 2007 (Accion)
+http://ia801808.us.archive.org/6/items/20230415_20230415_1227/3.0.0.%202007.mp4
+#EXTINF:-1 ,47 Runin (Dual audio+Sub Esp & Eng) (480p HD)
+http://ia801808.us.archive.org/6/items/1_20190723/sub1d0_p4r4_5tr34ming_A85/1.mkv
+#EXTINF:-1 ,6 en la sombra 2019 Pelicula de Net ( 480p HD)
+http://ia801808.us.archive.org/6/items/000_20191215_201912/5.mp4
+#EXTINF:-1 ,8 Minutos antes de Morir (480p HD)
+http://ia801808.us.archive.org/6/items/00000_20200930/000012.mp4
+#EXTINF:-1 ,A 47 metros de ti (latino) (480p HD)
+http://ia801808.us.archive.org/6/items/000_20200306_20200306_0448/06.mp4
+#EXTINF:-1 ,Ad astra 2019 (480p HD)
+http://ia801808.us.archive.org/6/items/000_20200129_20200129_0445/2.mp4
+#EXTINF:-1 ,Alerta Extrema (2023)
+http://ia801808.us.archive.org/6/items/OM006VQZ/ALEXTR23.mkv
+#EXTINF:-1 ,Alien warfare 2019 (480p HD)
+http://ia801808.us.archive.org/6/items/ziduyaliri_mail-register_002/002.mp4
+#EXTINF:-1 ,Alita
+http://ia801808.us.archive.org/6/items/d237f2823dbd840e2ded1f14e9a32c1-480p/f5baba9a1b6251c279fcb453e0dac2%20-480p.mp4
+#EXTINF:-1 ,Amenaza en lo profundo 2020 (480p HD)
+http://ia801808.us.archive.org/6/items/000_20200402/07.mp4
+#EXTINF:-1 ,Angeles de charlie 2019 ( calidad HD )
+http://ia801808.us.archive.org/6/items/0_20200218_20200218/300.mp4
+#EXTINF:-1 ,Ant-man (480p HD)
+http://ia801808.us.archive.org/6/items/correoicfes2016_gmail_42/Ant1.mp4
+#EXTINF:-1 ,Apocalispsis 2010 (480p HD)
+http://ia801808.us.archive.org/6/items/000_20200317_20200317_1332/06.mp4
+#EXTINF:-1 ,Aquaman 2018(opc) (480p HD)
+http://ia801808.us.archive.org/6/items/00000_20200918/10.mp4
