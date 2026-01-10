@@ -1,517 +1,501 @@
 #EXTM3U
-
-#EXTINF:0 group-title="peliculas clasicos disney",La Bella Durmiente (1959)
+#EXTINF:-1 group-title="Fantasía" tvg-logo="https://image.tmdb.org/t/p/w500/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg",La bella durmiente (1959)
 http://bit.ly/LABELLAMOVIE
-
-#EXTINF:0 group-title="peliculas infantiles" tvg-logo="https://zapodaj.net/images/c25c2d5584bf4.jpg",Angry Birds (2016)
-https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
-#EXTINF:0 group-title="peliculas infantiles",la muerte de superman
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/4Lv3rhwgSgnPlWaTfv6V7VHWmgC.jpg",La muerte de Superman (2007)
 https://ia800809.us.archive.org/13/items/La.muerte.de.Superman./La.muerte.de.Superman..mp4
-#EXTINF:0 group-title="peliculas infantiles",PIXEL
-https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
-#EXTINF:0 group-title="peliculas infantiles" tvg-logo="https://static.pelisfox.tv/static/movie/cover/original/cb9480cd578eb37b391ad4023b10d471.jpg",ANGRY BIRDS
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/wHlxud7DzsolgvasBFt6gFHIUwP.jpg",Angry Birds: La película (2016)
 http://cecegeek@goo.gl/3KGMLf
-#EXTINF:0 group-title="peliculas infantiles",El Gigante de Hierro (1999)
-https://ia903109.us.archive.org/18/items/el.gigante.de.hierro.dvdrip.www.divxtotal.com.leoparis/El.Gigante.de.Hierro.DVDRip.%5Bwww.DivxTotal.com%5D.LeoParis.mp4
-
-#EXTINF:0 group-title="MOVIES" tvg-logo="http://museumweek2015.org/wp-content/uploads/2015/07/Ant-Man-2015-cover.jpg",Ant Man (2015)
-https://archive.org/download/AntMan.2015.1080pDualLat11/Ant-man.2015.1080p-dual-lat%20(1)%20(1).mp4
-#EXTINF:0 group-title="MOVIES",Castillo de Arena (2017)
-https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv
-#EXTINF:0 group-title="MOVIES",Cuando nos Conocimos
+#EXTINF:-1 group-title="Documental" tvg-logo="https://image.tmdb.org/t/p/w500/rMeLcma4BOnPPpffjunq2OtDn4b.jpg",Nos conocimos en realidad virtual (2022)
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:0 group-title="MOVIES" tvg-logo="http://127.0.0.1/",COLOSSAL (2016)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/pklJUOhmGZ43yXY1LpA2mxzVPpc.jpg",Colossal (2017)
 http://bit.ly/2w5zZIw
-#EXTINF:0 group-title="MOVIES",Colossal
-http://ow.ly/FXZ930eWtrs
-#EXTINF:0 group-title="MOVIES",El Mal Dentro (2017)
-https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
-#EXTINF:0 group-title="MOVIES",Jhonny English 3.0
-https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg",JIGSAW VIII
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/90T0Cjx2yl6RaFhxas1eKnCphh5.jpg",Saw VIII (2017)
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:0 group-title="MOVIES" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg",La Forma del Agua SUBTITULADO
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/pklJUOhmGZ43yXY1LpA2mxzVPpc.jpg",Colossal (2017)
+http://ow.ly/FXZ930eWtrs
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/wHlxud7DzsolgvasBFt6gFHIUwP.jpg",Angry Birds: La película (2016)
+https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Pixel (1987)
+https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",La Forma del Agua SUBTITULADO
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
-#EXTINF:0 group-title="MOVIES",La Fuerza De La Ilusion
-https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:0 group-title="MOVIES",Mascota Humana (2016)
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Jhonny English 3.0
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:-1 group-title="Suspense" tvg-logo="https://image.tmdb.org/t/p/w500/cLoqI44qfEyc0IGzvOI6m0S2bil.jpg",El castillo de arena (2024)
+https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Mascota Humana (2016)
 http://bit.ly/MASCOTAHUMANA
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w325/6yf5tQgzbLj1HomN6vGqfBggpx9.jpg",Nocturnal Animals (2016)
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg",Ant-Man (2015)
+https://archive.org/download/AntMan.2015.1080pDualLat11/Ant-man.2015.1080p-dual-lat%20(1)%20(1).mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/93UF8VTfs2l7YbfD2ameXykWSPy.jpg",La bestia oculta (2024)
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/voPAzJFyopCnLEwaBWpoX8uDvGI.jpg",El gigante de hierro (1999)
+https://ia903109.us.archive.org/18/items/el.gigante.de.hierro.dvdrip.www.divxtotal.com.leoparis/El.Gigante.de.Hierro.DVDRip.%5Bwww.DivxTotal.com%5D.LeoParis.mp4
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/zCQ7ZlFGE2VBneZ7mQmj1IfRbAa.jpg",La fuerza de la ilusión (1992)
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/5T2t0m8VHofFxk2LhMmDYhMod6l.jpg",Animales nocturnos (2016)
 https://archive.org/download/NocturnalAnimals20161080pFULLHD/Nocturnal%20Animals%20(2016)%201080p%20FULL%20HD.mp4
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w325/6yf5tQgzbLj1HomN6vGqfBggpx9.jpg",Nocturnal Animals (2016)*
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/5T2t0m8VHofFxk2LhMmDYhMod6l.jpg",Animales nocturnos (2016)
 https://archive.org/download/NocturnalAnimals20161080p60FPS/Nocturnal%20Animals%20(2016)%201080p%2060%20FPS.mp4
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg",Redada Asesina
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/zRm67zvPYcz3xV3t21CZ7hg50v.jpg",Redada Asesina 2 (2014)
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:0 group-title="MOVIES" tvg-logo="http://www.incaatv.gov.ar/wp-content/uploads/2015/05/Rodrigo-D-no-futuro.jpg",Rodrigo D - No futuro (1990)
+#EXTINF:-1 group-title="Crimen" tvg-logo="https://image.tmdb.org/t/p/w500/AqsLzU6AQUIHuDsQnqHT1qy0HVV.jpg",Rodrigo D. No futuro (1990)
 https://archive.org/download/1080pRodrigoD.NoFuturoPeliculaColombianaCompletasinCensuraEnFULLHD1080p30fpsH264128kbitAAC/[1080p]%20Rodrigo%20D.%20no%20futuro%20-%20Pel%C3%ADcula%20Colombiana%20Completa%20(sin%20censura%20en%20FULL%20HD)%20(1080p_30fps_H264-128kbit_AAC).mp4
-#EXTINF:0 group-title="MOVIES" tvg-logo="http://s1.evcdn.com/images/movieposter249by373/movies/162960/162960_aa.jpg",Rules Don't Apply (2016)
+#EXTINF:-1 group-title="Romance" tvg-logo="https://image.tmdb.org/t/p/w500/k7babBsVDYuEuWZKIIrWHl2o909.jpg",La excepción a la regla (2016)
 https://archive.org/download/RulesDontApply20161080pFULLHD/Rules%20Dont%20Apply%20(2016)%201080p%20FULL%20HD.mp4
-#EXTINF:0 group-title="MOVIES" tvg-logo="http://s1.evcdn.com/images/movieposter249by373/movies/162960/162960_aa.jpg",Rules Don't Apply (2016)*
+#EXTINF:-1 group-title="Romance" tvg-logo="https://image.tmdb.org/t/p/w500/k7babBsVDYuEuWZKIIrWHl2o909.jpg",La excepción a la regla (2016)
 https://archive.org/download/RulesDontApply20161080p60FPS/Rules%20Dont%20Apply%20(2016)%201080p%2060%20FPS.mp4
-#EXTINF:0 group-title="MOVIES",SAHARA (2017)
-http://bit.ly/SAHARAMOVIE
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://i.jeded.com/i/sand-castle.76181.jpg",Sand Castle (2017)
-https://ia600603.us.archive.org/35/items/08052017CAQM8844JR8HF/08052017CAQM.mkv
-#EXTINF:0 group-title="MOVIES",Sand Castle (2017)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/3pk0FiHt2tsNUOJpYORxPspnyvf.jpg",Sand Castle (2015)
 http://bit.ly/MRAQCASTI
-#EXTINF:0 group-title="MOVIES",Sand Castle
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/3pk0FiHt2tsNUOJpYORxPspnyvf.jpg",Sand Castle (2015)
+https://ia600603.us.archive.org/35/items/08052017CAQM8844JR8HF/08052017CAQM.mkv
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/cpq5gWIgp9TgrUex1wiIDLYQ4mb.jpg",Aventuras en el Sahara (1983)
+http://bit.ly/SAHARAMOVIE
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/3pk0FiHt2tsNUOJpYORxPspnyvf.jpg",Sand Castle (2015)
 http://cecegeek@goo.gl/FDyHpL
-#EXTINF:0 group-title="MOVIES",Sandy Wexler (2017)
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/26FvvFp5Z0egOpnAtFxbxgYcBY.jpg",Sandy Wexler (2017)
 http://bit.ly/MRAQCSAND
-#EXTINF:0 group-title="MOVIES",Sandy Wexler
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/26FvvFp5Z0egOpnAtFxbxgYcBY.jpg",Sandy Wexler (2017)
 http://cecegeek@goo.gl/kyH56Z
-#EXTINF:0 group-title="MOVIES" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg",SAW VIII SUBTITULADO
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",SAW VIII SUBTITULADO
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg",Terminus
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/fFf1vLtYcwaRHtD1hARAqROdZzu.jpg",Terminus (1987)
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://i2.wp.com/somewhatnerdy.com/wp-content/uploads/2017/03/The-Evil-Within-Movie-Poster.jpg",The Evil Within (2017)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/9fOoP98lwSKGzEhjnGDRVpbwK8j.jpg",The Evil Within (1970)
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi
-#EXTINF:0 group-title="MOVIES",THE EVIL WITHIN (2017)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/9fOoP98lwSKGzEhjnGDRVpbwK8j.jpg",The Evil Within (1970)
 http://bit.ly/EVILWITHIN_MOVIE
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://sarahblogger94.files.wordpress.com/2016/08/purge_poster.jpg",The Purge (2013)
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/1smw9aHuPiHga2Of5TOJs0Ps1rZ.jpg",The Purge: La noche de las bestias (2013)
 https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
-#EXTINF:0 group-title="MOVIES" tvg-logo="http://104.236.196.111/imdb//media/poster_movies/or8E43rNKVBLhMtDnwFkjSNgHNr.jpg",Under the Sea 3D (2009)
-https://archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
-#EXTINF:0 group-title="MOVIES",VOLVER AL FUTURO
-https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-#EXTINF:0 group-title="MOVIES" tvg-logo="http://127.0.0.1/",VOLVER AL FUTURO 3
-https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:0 group-title="MOVIES",Volver al Futuro 3
-https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:0 group-title="MOVIES",Your Name
-https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-
-#EXTINF:0 group-title="PELICULAS" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",SAHARA
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/cpq5gWIgp9TgrUex1wiIDLYQ4mb.jpg",Aventuras en el Sahara (1983)
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
-#EXTINF:0 group-title="PELICULAS" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",SPECTRE
+#EXTINF:-1 group-title="Documental" tvg-logo="https://image.tmdb.org/t/p/w500/b9rtmp7tByIS1AkIKmPJwjljO7g.jpg",IMAX - Under the Sea 3D (2009)
+https://archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",Regreso al futuro (1985)
+https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/yamBr3ihlWFF9jh3oOODSvjDY2e.jpg",Regreso al futuro III (1990)
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/yamBr3ihlWFF9jh3oOODSvjDY2e.jpg",Regreso al futuro III (1990)
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",Your Name (2016)
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/8NCrCV6tR0Uafp8eVYiZbRsvrAv.jpg",Spectre (2015)
 https://goo.gl/3KGMLf
-#EXTINF:0 group-title="PELICULAS" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg",The Cloverfield Paradox
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/u46Ff8Gg16qhnmrSBLpsdqlmCVO.jpg",The Cloverfield Paradox (2018)
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-
-
-
-#EXTINF:0 group-title="VOD CINE CLASICO" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/pFyzNcy7xuwGw6mStULsgCRTEwO.jpg",La Vendedora de Rosas (1998)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/oZgWtVMiq0IuuvmArTtLzWKIra3.jpg",La vendedora de rosas (1998)
 https://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
-#EXTINF:0 group-title="VOD CINE CLASICO" tvg-logo="http://horror.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/childs-play-2-poster.jpg",Child's Play 2 (1990)
-https://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
-#EXTINF:0 group-title="VOD CINE CLASICO" tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg",Child's Play (1988)
-https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
-#EXTINF:0 group-title="VOD CINE CLASICO" tvg-logo="https://image.tmdb.org/t/p/w500/kK9a9VBIjmh7L2uJvR01RUfS4eT.jpg",Porky's Revenge (1985)
-https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
-
-#EXTINF:0 ,LA MINA (2017)
-https://archive.org/download/24052017Aqc789423784723984/24052017_aqc.mkv?Pelixmax1.mkv
-#EXTINF:0 ,PelixMax 1: Castillo de Arena (2017)
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",PelixMax 1: Castillo de Arena (2017)
 https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mkv
-
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://i.imgur.com/30HzeQe.png",VOLVER AL FUTURO3
-http://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://i2.wp.com/somewhatnerdy.com/wp-content/uploads/2017/03/The-Evil-Within-Movie-Poster.jpg",The Evil Within (2019)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/9fOoP98lwSKGzEhjnGDRVpbwK8j.jpg",The Evil Within (1970)
 http://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://horror.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/childs-play-2-poster.jpg",Child's Play 2 (1990)
-http://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg",Child's Play (1988)
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/fkrT2a2zJmhyp0sYu1OOAEz8ZE0.jpg",Muñeco diabólico (2019)
+https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/fkrT2a2zJmhyp0sYu1OOAEz8ZE0.jpg",Muñeco diabólico (2019)
 http://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://image.tmdb.org/t/p/w500/kK9a9VBIjmh7L2uJvR01RUfS4eT.jpg",Porky's Revenge (1985)
-http://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/28971_la-presidenta-municipal.jpg",La Presidenta Municipal (1975)
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/sg0GuCbEdGMoDlpv33oP6Z5x1g6.jpg",Muñeco diabólico 2 (1990)
+https://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",VOLVER AL FUTURO3
+http://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/xuJj5ziHLLVgO7DdvycBqdAXqpN.jpg",Porky's contraataca (1985)
+https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/fTAEExurGGLKwqRJUTgy7HJ8Olv.jpg",Esta chica es para mí (1958)
+https://archive.org/download/24052017Aqc789423784723984/24052017_aqc.mkv?Pelixmax1.mkv
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/sg0GuCbEdGMoDlpv33oP6Z5x1g6.jpg",Muñeco diabólico 2 (1990)
+http://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/6OqCbCOSPPlWA61yxGyyFKWsdPW.jpg",La presidenta municipal (1975)
 http://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/dM4R0r1.jpg",El Libro de Piedra (1969)
-http://ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/kpaLtXk.jpg",Caperucita y Pulgarcito Contra los Monstruos (1960)
-http://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fc/El_dolor_de_pagar_la_renta.jpg/200px-El_dolor_de_pagar_la_renta.jpg",El Dolor de Pagar la Renta (1960)
-http://ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/U9RiSMD.jpg",Macario (1960)
-http://ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg",Your Name
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",Your Name (2016)
 http://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg",Jhonny English 3.0
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Jhonny English 3.0
 http://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg",Volver al Futuro
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",Regreso al futuro (1985)
 http://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg",Next Gen
-http://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg",Tragedy Girls
-http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg",La Fuerza De La Ilusion
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/xuJj5ziHLLVgO7DdvycBqdAXqpN.jpg",Porky's contraataca (1985)
+http://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/7at1BvpGMX54oBMgAADUmRrO5IP.jpg",El Libro de Piedra (2009)
+http://ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/zCQ7ZlFGE2VBneZ7mQmj1IfRbAa.jpg",La fuerza de la ilusión (1992)
 http://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg",Cuando nos Conocimos
+#EXTINF:-1 group-title="Documental" tvg-logo="https://image.tmdb.org/t/p/w500/rMeLcma4BOnPPpffjunq2OtDn4b.jpg",Nos conocimos en realidad virtual (2022)
 http://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg",La Forma del Agua SUBTITULADO
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",La Forma del Agua SUBTITULADO
 http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg",Nosotros Los Nobles
-http://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg",Terminus
+#EXTINF:-1 group-title="Música" tvg-logo="https://image.tmdb.org/t/p/w500/3nzyk89eM90n3oKFfk7I7SzkTQg.jpg",Caperucita y Pulgarcito contra los monstruos (1962)
+http://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/fFf1vLtYcwaRHtD1hARAqROdZzu.jpg",Terminus (1987)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg",JIGSAW VIII
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/90T0Cjx2yl6RaFhxas1eKnCphh5.jpg",Saw VIII (2017)
 http://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg",Redada Asesina
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/zRm67zvPYcz3xV3t21CZ7hg50v.jpg",Redada Asesina 2 (2014)
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg",SAW VIII SUBTITULADO
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",SAW VIII SUBTITULADO
 http://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://pics.filmaffinity.com/angelitos_del_trapecio-167118603-mmed.jpg",Angelitos del Trapecio (1959)
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/AqUX3oUOYh3t6htS75poSnIu4I8.jpg",El dolor de pagar la renta (1960)
+http://ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",0,182,268_AL_.jpg",Nosotros Los Nobles
+http://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/xX9JGtsnXQAR7e1fWkr7zBuQUHN.jpg",Macario (1960)
+http://ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/3UgRc3vpOiW9HOAD7oBa16xQ21E.jpg",Tragedy Girls (2017)
+http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/4tGHL42pC3c5BGt9zt4aSOwLOB2.jpg",La nueva generación (2018)
+http://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:-1 group-title="Sin genero" tvg-logo="https://image.tmdb.org/t/p/w500/vdSECPb9E0IY9GqXATIRqw0PFWD.jpg",Angelitos del trapecio (1959)
 http://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/e4BzmDB.jpg",Yo Soy Muy Macho (1953)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/ffni12lDv1ufycOdzzk0dEAfBhz.jpg",Yo soy muy macho (1953)
 http://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/gVCnp2P.jpg",El Bello Durmiente (1952)
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/7nBNndkMEYhaN13vcagfFiOsvKb.jpg",El bello durmiente (1952)
 http://ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20Durmiente.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://pics.filmaffinity.com/Ac_las_tortas-914464527-large.jpg",Aca las Tortas (1951)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/kXiLcAAY0HrLbYchuRH6HbHwoMa.jpg",¡Acá las Tortas! (1951)
 http://ia801500.us.archive.org/22/items/AcaLasTortas/aca%20las%20tortas.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/OOGQjcp.jpg",Simbad el Mareado (1950)
+#EXTINF:-1 group-title="Familia" tvg-logo="https://image.tmdb.org/t/p/w500/eUxPDtZTNIm4VYYNqnLM7oeG5Sw.jpg",Simbad el Mareado (1950)
 http://ia801502.us.archive.org/1/items/SimbadElMareado/Simbad%20el%20mareado.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/lzZMzXw.jpg",La Familia Perez (1949)
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/rAgOhbe2yCJxrWPbiyjf81ua3ap.jpg",La familia Pérez (1949)
 http://ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La%20familia%20Perez.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://i.pinimg.com/736x/55/28/90/55289097b4c3f039f619362357ecdbdc--watches.jpg",Una Familia de Tantas (1949)
-http://ia601503.us.archive.org/13/items/UNAFAMILIADETANTAS/uNA%20FAMILIA%20DE%20TANTAS.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/JzyYqis.jpg",Los Tres Huastecos (1948)
-http://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/aOy8B0T.jpg",Nosotros - los Pobres (1948)
-http://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgur.com/9ZOU6Hq.jpg",Si Adelita se Fuera con Otro (1948)
-http://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg",Prometeus HD
-http://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Mine_2016_film.jpg",LA MINA
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/fTAEExurGGLKwqRJUTgy7HJ8Olv.jpg",Esta chica es para mí (1958)
 http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg",SAHARA
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/cpq5gWIgp9TgrUex1wiIDLYQ4mb.jpg",Aventuras en el Sahara (1983)
 http://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://3.bp.blogspot.com/-7-XqbhwtPAM/WsurmGFoCRI/AAAAAAAAomI/Cyd_4sTIxb4GDEBMb_-EX69DarhdQSZ0QCLcBGAs/s1600/El_Legado_del_Diablo_Poster_Teaser_JPosters.jpg",Legado del Diablo SUBTITULADA
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/8YGRZGsMK7ydbpcJ8PpnL7PFomq.jpg",Una familia de tantas (1949)
+http://ia601503.us.archive.org/13/items/UNAFAMILIADETANTAS/uNA%20FAMILIA%20DE%20TANTAS.mp4
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/hfSIytU4h14iocSTTCyyHdaXul9.jpg",Los tres huastecos (1948)
+http://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Legado del Diablo SUBTITULADA
 http://ia801508.us.archive.org/30/items/hereSRREGIO/hereSRREGIO.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://cinemaaustralia.files.wordpress.com/2017/10/jungle-cinema-australia1.jpg?w=700&h=1000",Jungle
-http://ia601501.us.archive.org/3/items/junSRREGIO/junSRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81RcrC4SO6L.jpg",Uncharted Movie SUBTITULADO
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/3NKT6FNlLvk0f14voE0FJHp9nP0.jpg",Nosotros los pobres (1948)
+http://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Uncharted Movie SUBTITULADO
 http://ia902904.us.archive.org/32/items/00subREGIO/00subREGIO.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://i.pinimg.com/originals/d8/5f/28/d85f28453eec8b4ab07115db5b6d6142.jpg",Emelie
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/7lsMungHXNwMWLKqDPOpdOW4DXY.jpg",Si Adelita se fuera con otro (1948)
+http://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/5oYpDom6T7c1YiL2j5IImKklws7.jpg",Prometheus (2012)
+http://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/nPmERFtFBi1LPjBDRS3J0i2rWL6.jpg",La jungla (2017)
+http://ia601501.us.archive.org/3/items/junSRREGIO/junSRREGIO.mkv
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/cfb1kzY0V4j0KKPLYMfXEo3t3op.jpg",Emelie (2016)
 http://ia801509.us.archive.org/1/items/3033l113SRREGIO/3033l113SRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://clubsieteymedio.files.wordpress.com/2018/03/1d5567129419df3aa05c81afb16e7200a045c862.jpg?w=550&h=785",Matar a Jesus
+#EXTINF:-1 group-title="Crimen" tvg-logo="https://image.tmdb.org/t/p/w500/cKnSsAvP5iSpI0HnxqQq60PhM8j.jpg",Matar a Jesús (2017)
 http://ia802901.us.archive.org/31/items/m65sadf4tard6s45fjesusasadREGIO/m65sadf4tard6s45fjesusasadREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://res.cloudinary.com/civico/image/upload/v1502508348/entity/image/file/22f/000/598e753b658d1d2d0d00022f.jpg",El Justiciero 2
-http://ia801507.us.archive.org/5/items/jus2regio/jus2regio.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://pics.filmaffinity.com/roman-483719153-large.jpg",ROMAN
-http://ia801507.us.archive.org/9/items/00040regio/00040regio.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://www.ecartelera.com/carteles/9900/9961/007.jpg",Emoji
-http://ia801505.us.archive.org/30/items/hlwdfbvlhdfblasREGIO/hlwdfbvlhdfblasREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/11/todo-el-dinero-del-mundo.jpg",Todo El Dinero Del Mundo
-http://ia802802.us.archive.org/24/items/70003701030003700000SRREGIOlat/70003701030003700000SRREGIOlat.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/inside-cartel-b.jpg",Terror en la Oscuridad CAST
-http://ia802803.us.archive.org/7/items/1N51D3SRREGIOcast/1N51D3SRREGIOcast.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://www.zoom.lk/forums/downloads/subs/Sahara17/tanva10.jpg",Sahara (2017)
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/cpq5gWIgp9TgrUex1wiIDLYQ4mb.jpg",Aventuras en el Sahara (1983)
 http://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://i.jeded.com/i/sand-castle.76181.jpg",Sand Castle (2017)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/3pk0FiHt2tsNUOJpYORxPspnyvf.jpg",Sand Castle (2015)
 http://ia600603.us.archive.org/35/items/08052017CAQM8844JR8HF/08052017CAQM.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://4.bp.blogspot.com/-YaCxu1RWA5I/WQCq6mASo0I/AAAAAAAAYdc/TI9FfL_x1uUBijtS37W_ntkieg8B5igTgCLcB/s1600/Sandy%2BWexler.jpg",Sandy Wexler (2017)
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/26FvvFp5Z0egOpnAtFxbxgYcBY.jpg",Sandy Wexler (2017)
 http://ia800605.us.archive.org/27/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1sHSnRBjxL._SL1500_.jpg",Pet (2019)
-http://ia800606.us.archive.org/26/items/12052017ffsdf345345345/12052017ffsdf.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/pFyzNcy7xuwGw6mStULsgCRTEwO.jpg",La Vendedora de Rosas (1998)
+#EXTINF:-1 group-title="Suspense" tvg-logo="https://image.tmdb.org/t/p/w500/7tiub1UB4KF9zpacEldfbWAXDi6.jpg",The equalizer (El protector) (2014)
+http://ia801507.us.archive.org/5/items/jus2regio/jus2regio.mp4
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/oZgWtVMiq0IuuvmArTtLzWKIra3.jpg",La vendedora de rosas (1998)
 http://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://www.incaatv.gov.ar/wp-content/uploads/2015/05/Rodrigo-D-no-futuro.jpg",Rodrigo D - No futuro (1990)
+#EXTINF:-1 group-title="Crimen" tvg-logo="https://image.tmdb.org/t/p/w500/AqsLzU6AQUIHuDsQnqHT1qy0HVV.jpg",Rodrigo D. No futuro (1990)
 http://archive.org/download/1080pRodrigoD.NoFuturoPeliculaColombianaCompletasinCensuraEnFULLHD1080p30fpsH264128kbitAAC/[1080p]%20Rodrigo%20D.%20no%20futuro%20-%20Pel%C3%ADcula%20Colombiana%20Completa%20(sin%20censura%20en%20FULL%20HD)%20(1080p_30fps_H264-128kbit_AAC).mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://i2.wp.com/cdn.cinepapaya.com/stat/img/static-cp/cine/movietranslation/3-idiotas-poster-1494884216.jpg?resize=692%2C1024&ssl=1",3 idiotas
-http://ia802807.us.archive.org/21/items/31d10745SRREGIO/31d10745SRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg",Anon
-http://ia902800.us.archive.org/27/items/4nSRREGIOon/4nSRREGIOon.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png",Samson
-http://ia902807.us.archive.org/28/items/s4msSRREGIO/s4msSRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg",15:17 Tren a Paris
-http://ia802802.us.archive.org/1/items/th3151SRREGIO/th3151SRREGIO.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg",The Cloverfield Paradox
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/wjiWS95OglAYSPO1Ky99p3tclw7.jpg",Roman (2006)
+http://ia801507.us.archive.org/9/items/00040regio/00040regio.mkv
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg",Emoji: La película (2017)
+http://ia801505.us.archive.org/30/items/hlwdfbvlhdfblasREGIO/hlwdfbvlhdfblasREGIO.mkv
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Terror en la Oscuridad CAST
+http://ia802803.us.archive.org/7/items/1N51D3SRREGIOcast/1N51D3SRREGIOcast.mkv
+#EXTINF:-1 group-title="Crimen" tvg-logo="https://image.tmdb.org/t/p/w500/egWOh1jpp2QC6kknO98guzC4ZBe.jpg",Todo el dinero del mundo (2017)
+http://ia802802.us.archive.org/24/items/70003701030003700000SRREGIOlat/70003701030003700000SRREGIOlat.mkv
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/u46Ff8Gg16qhnmrSBLpsdqlmCVO.jpg",The Cloverfield Paradox (2018)
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://i.imgur.com/30HzeQe.png",EL MAL DENTRO (2017)
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/93UF8VTfs2l7YbfD2ameXykWSPy.jpg",La bestia oculta (2024)
 http://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
-
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://i.imgur.com/30HzeQe.png",Varias Lat:Volver al Futuro III
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/2oeaahvzpfnTh9cwg6VA39ZyhRE.jpg",Animal de compañía (2016)
+http://ia800606.us.archive.org/26/items/12052017ffsdf345345345/12052017ffsdf.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Varias Lat:Volver al Futuro III
 http://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg",Volver al Futuro 2
-http://archive.org/download/qwerty2/qwerty2.mkv
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg",Volver al Futuro 3
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/yamBr3ihlWFF9jh3oOODSvjDY2e.jpg",Regreso al futuro III (1990)
 http://archive.org/download/qwerty3/qwerty3.mkv
-
-#EXTINF:0 ,Sandy Wexler HD www.achoapps.com(2017) (Dual Audio)
-https://ia801603.us.archive.org/20/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv?Pelixmax1.mkv
-#EXTINF:0 ,Sandy Wexler (2017)
+#EXTINF:-1 group-title="Familia" tvg-logo="https://image.tmdb.org/t/p/w500/hZB9NvNLcxdmoiAh58ZfG8vdXjf.jpg",3 idiotas (2017)
+http://ia802807.us.archive.org/21/items/31d10745SRREGIO/31d10745SRREGIO.mkv
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/26FvvFp5Z0egOpnAtFxbxgYcBY.jpg",Sandy Wexler (2017)
 http://bit.ly/2wVc9yV
-#EXTINF:0 ,ANGRY BIRDS
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/wHlxud7DzsolgvasBFt6gFHIUwP.jpg",Angry Birds: La película (2016)
 http://iptvperu@goo.gl/3KGMLf
-#EXTINF:0 ,3 IDIOTAS
+#EXTINF:-1 group-title="Familia" tvg-logo="https://image.tmdb.org/t/p/w500/hZB9NvNLcxdmoiAh58ZfG8vdXjf.jpg",3 idiotas (2017)
 http://ia601405.us.archive.org/26/items/000_20200306_202003/03.mp4
-#EXTINF:0 ,A 47 METROS DE TI
-http://ia801504.us.archive.org/7/items/000_20200306_20200306_0448/06.mp4
-
-#EXTINF:0 ,AVENGERS 3ND GAME 2019 OPC2
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/zv03BoK68TbrnzVO7T3mcl7ipfy.jpg",Anon (2018)
+http://ia902800.us.archive.org/27/items/4nSRREGIOon/4nSRREGIOon.mkv
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/dMnCW5gjY1VCgG4G80Vw7gYxuwP.jpg",Sansón (2018)
+http://ia902807.us.archive.org/28/items/s4msSRREGIO/s4msSRREGIO.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/uZrk6VCcA3xZQ4OrGkGT1S7qmvH.jpg",15:17 Tren a París (2018)
+http://ia802802.us.archive.org/1/items/th3151SRREGIO/th3151SRREGIO.mkv
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",AVENGERS 3ND GAME 2019 OPC2
 http://ia601507.us.archive.org/16/items/e4dg1me/e4dg1me.mp4
-#EXTINF:0 ,AVES DE PRESA (SUB)
-http://ia601508.us.archive.org/23/items/00_20200409/03.mp4
-#EXTINF:0 ,BAD BOYS F0R LIFE OPC2
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Sandy Wexler HD www.achoapps.com(2017) (Dual Audio)
+https://ia801603.us.archive.org/20/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv?Pelixmax1.mkv
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",BAD BOYS F0R LIFE OPC2
 http://ia601503.us.archive.org/14/items/0_20200407_20200407_1605/01.mp4
-#EXTINF:0 ,BEAVIS Y BUTTHEAD RECORREN AMERICA
-http://ia601503.us.archive.org/31/items/0_20200420/1.ia.mp4
-#EXTINF:0 ,BETWEEN WORLDS
-http://ia601502.us.archive.org/34/items/232G3DGG5HGYK5ZAH1LZ6/913G3FEE4CKLCFEUWW9SA.mp4
-#EXTINF:0 ,BEYON WHITE SPACE
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/oTiQdzBOP5biNvzvrSPAvPxiSKH.jpg",Regreso al futuro II (1989)
+http://archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/9XupsXE6vFjR8qvy6WaR46ScrIw.jpg",A 47 metros (2017)
+http://ia801504.us.archive.org/7/items/000_20200306_20200306_0448/06.mp4
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/1wLqXiiiaTSK8Y0n7N85O0jaNJm.jpg",Aves de presa (y la fantabulosa emancipación de Harley Quinn) (2020)
+http://ia601508.us.archive.org/23/items/00_20200409/03.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",BEYON WHITE SPACE
 http://ia601502.us.archive.org/34/items/232G3DGG5HGYK5ZAH1LZ6/0aiabw520000.mp4
-#EXTINF:0 ,BEYON WHITE SPACE OPC2
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",BEYON WHITE SPACE OPC2
 http://ia601502.us.archive.org/33/items/3_20191128_20191128/3.mp4
-#EXTINF:0 ,BLACK 4ND BLUE
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/1jzVlKyEbalDxwbJkFZmfB71chK.jpg",Beavis y Butt-Head recorren America (1996)
+http://ia601503.us.archive.org/31/items/0_20200420/1.ia.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",BLACK 4ND BLUE
 http://ia801505.us.archive.org/28/items/000_20200122/2.mp4
-#EXTINF:0 ,BLEACH
+#EXTINF:-1 group-title="Misterio" tvg-logo="https://image.tmdb.org/t/p/w500/jpTKga1uC7e4v2GMYHfwxy049xF.jpg",El portal del más allá (2018)
+http://ia601502.us.archive.org/34/items/232G3DGG5HGYK5ZAH1LZ6/913G3FEE4CKLCFEUWW9SA.mp4
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/ml5eX1mitt8YuMjl8oAstzuzUw9.jpg",Bleach (2021)
 http://ia601504.us.archive.org/20/items/sototo_patonce_04/04.mp4
-#EXTINF:0 ,BLOODSHOT
-http://ia601509.us.archive.org/28/items/000_20200324_20200324_2252/02.mp4
-#EXTINF:0 ,BURN OUT
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/fVWcI3ZwHgBjbz24jZerJjRALYN.jpg",Burn Out (2018)
 http://ia601500.us.archive.org/8/items/000_20191210/4.mp4
-#EXTINF:0 ,CASI IMPOSIBLE 2019
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/b0Sokh7DazDAxGOpt0ln9soTTET.jpg",Bloodshot (2020)
+http://ia601509.us.archive.org/28/items/000_20200324_20200324_2252/02.mp4
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/d5SjdpTAyn0zLzJYSAJ1AzosHh8.jpg",Casi imposible (2019)
 http://ia801507.us.archive.org/4/items/000_20200127/2.mp4
-#EXTINF:0 ,CHICOS BUENOS
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/8zqptFnq7GhpVEXzfOnNxWbN0U2.jpg",Chicos buenos (2019)
 http://ia801504.us.archive.org/29/items/000_20200127_202001/2.mp4
-#EXTINF:0 ,CHRISTOPHER ROBIN UN REENCUENTRO INOLVIDABLE
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg",Christopher Robin (2018)
 http://ia801500.us.archive.org/18/items/suwigaf_acucre_01/01.mp4
-#EXTINF:0 ,CINDY LA REGIA
-http://ia801507.us.archive.org/7/items/000_20200223_20200223_0200/03.mp4
-#EXTINF:0 ,CINDY LA REGIA OPCION 2
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",CINDY LA REGIA OPCION 2
 http://ia601402.us.archive.org/13/items/000_20200227/07.mp4
-#EXTINF:0 ,CJ7
-http://ia601402.us.archive.org/28/items/ziduyaliri_mail-register_06/06.mp4
-#EXTINF:0 ,CODIGO 8
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/1KGbMtuySUtRggWlYPXyTWFcxLx.jpg",Cindy La Regia (2020)
+http://ia801507.us.archive.org/7/items/000_20200223_20200223_0200/03.mp4
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/ao4eKQf4K8qOQWACLSqkwt4y6CT.jpg",Código 8 (Parte 2) (2024)
 http://ia601402.us.archive.org/21/items/000_20200104_20200104_1517/3.mp4
-#EXTINF:0 ,COLEGAS DEL BARRIO
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/oWf77GNpcgNz8HMP5XujV6gNwWx.jpg",CJ7 (2008)
+http://ia601402.us.archive.org/28/items/ziduyaliri_mail-register_06/06.mp4
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/eCgKRs1qMRCc2wx0VG7ONEOj2MJ.jpg",Los Colegas del Barrio (1996)
 http://ia801402.us.archive.org/13/items/000_20200227/03.mp4
-#EXTINF:0 ,COMANDO KILL
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/hwWy9XmQw4QcDyNocWW8Mi0E0fs.jpg",Comando Kill (2016)
 http://ia801500.us.archive.org/17/items/000_20191202_20191202/4.mp4
-#EXTINF:0 ,COMO CAIDO DEL CIELO
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/xg6QZdlHrq2dtSK8cfnQQMnmpeY.jpg",Como caído del cielo (2019)
 http://ia601508.us.archive.org/14/items/000_20200117_20200117/4.mp4
-#EXTINF:0 ,COMO ENTRENAR A TU DRAGON
+#EXTINF:-1 group-title="Fantasía" tvg-logo="https://image.tmdb.org/t/p/w500/kjQXYc2Abhy3TBgAZGzJRhN1JaV.jpg",Cómo entrenar a tu dragón (2025)
 http://ia801501.us.archive.org/29/items/000_20200317_20200317/01.mp4
-#EXTINF:0 ,COMO ENTRENAR A TU DRAGON 2
+#EXTINF:-1 group-title="Fantasía" tvg-logo="https://image.tmdb.org/t/p/w500/bXcRw7FL8QzUZOvY2fZdwDv5ymQ.jpg",Cómo entrenar a tu dragón 2 (2014)
 http://ia601501.us.archive.org/29/items/000_20200317_20200317/002.mp4
-#EXTINF:0 ,COMO ENTRENAR A TU DRAGON 3
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/rhnoAReqO3Xoe6GbJhT3409lnq8.jpg",Cómo entrenar a tu dragón 3 (2019)
 http://ia801501.us.archive.org/29/items/000_20200317_20200317/03.mp4
-#EXTINF:0 ,CONAN EL DESTRUCTOR
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/7vwtQwywduJfG50SrxlhalpXsUx.jpg",Conan, el destructor (1984)
 http://ia801508.us.archive.org/27/items/ConanElDestructorLat1080/conan%20el%20destructor%20lat%201080.mp4
-#EXTINF:0 ,CONTRABANDO
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/wufI3VIUFiuQ0i65ycc1Eq5z8Q.jpg",Contrabando (1932)
 http://ia601509.us.archive.org/16/items/2_20191128_20191128_1720/16.mp4
-#EXTINF:0 ,CORTO CIRCUITO 2
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/w9GNBKn3FNLbhl8CmNOq5El0Ekf.jpg",Cortocircuito 2 (1988)
 http://ia601406.us.archive.org/4/items/000_20200129_20200129_0445/3.mp4
-#EXTINF:0 ,CROMOSOMA 3
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/hHNDJ9DaVosyfDhyym90azABgxd.jpg",Cromosoma 3 (1979)
 http://ia902800.us.archive.org/12/items/1057214727/1057214727.mp4
-#EXTINF:0 ,DC SUPER HERO GIRLS LEGENDS OF ATLANTIS
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/ertjPu1KE774z1dduteQ2sfCd8v.jpg",DC Super Hero Girls: Leyendas de la Atlántida (2018)
 http://ia801506.us.archive.org/18/items/sototo_patonce_01/01.mp4
-#EXTINF:0 ,DE TONTA NADA
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/zsm4tAiPire8ZlmosySZqywxCvY.jpg",Dos tontos todavía más tontos (2014)
 http://ia801400.us.archive.org/11/items/000_20200130_202001/5.mp4
-#EXTINF:0 ,DEDICADA A MI EX
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/xc4bTXVwYNXi10jG9dwcaYt5IpU.jpg",Dedicada A Mi Ex (2019)
 http://ia601401.us.archive.org/7/items/dedicada-a-mi-ex/Dedicada%20a%20mi%20Ex.mp4
-#EXTINF:0 ,DESTRUCCION LOS ANGELES
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/xbxpYjTrOgbQTtPrgdpl3EOu75q.jpg",Destruction: Los Angeles (2020)
 http://ia801509.us.archive.org/29/items/ziduyaliri_mail-register_08/08.mp4
-#EXTINF:0 ,EL ESCUADRON DEL DIABLO
-http://ia601505.us.archive.org/32/items/000_20200122_20200122/5.mp4
-#EXTINF:0 ,El inocente (1956)
-http://ia601406.us.archive.org/19/items/elinocente/elinocente.mp4
-#EXTINF:0 ,EL PAQUETE
-http://ia601402.us.archive.org/22/items/6wQiVCGFZj4jj4A/6wQiVCGFZj4jj4A.mp4
-#EXTINF:0 ,EL REGALO PROMETIDO
-http://ia601503.us.archive.org/19/items/000_20191209_20191209_1845/2.mp4
-#EXTINF:0 ,EL SE?0R DE LA GUERRA
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",EL SE?0R DE LA GUERRA
 http://ia601406.us.archive.org/16/items/000_20191215/1.mp4
-#EXTINF:0 ,EL TRAFICANTE
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/vs5mdjO1HUCyw6sHq22fwHveIC4.jpg",El escuadrón del diablo (2018)
+http://ia601505.us.archive.org/32/items/000_20200122_20200122/5.mp4
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/afynY4jTou6svwPCrdY8zEBSS0h.jpg",El inocente (1956)
+http://ia601406.us.archive.org/19/items/elinocente/elinocente.mp4
+#EXTINF:-1 group-title="Familia" tvg-logo="https://image.tmdb.org/t/p/w500/ajuYAcn5LDxXE7yoDISTsL0BCuy.jpg",Un padre en apuros (1996)
+http://ia601503.us.archive.org/19/items/000_20191209_20191209_1845/2.mp4
+#EXTINF:-1 group-title="Música" tvg-logo="https://image.tmdb.org/t/p/w500/2fHqVCitbK5mPYMHIk1DCZErBns.jpg",El Paquete (2025)
+http://ia601402.us.archive.org/22/items/6wQiVCGFZj4jj4A/6wQiVCGFZj4jj4A.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="https://image.tmdb.org/t/p/w500/iJpDx4E2cvgDOgtL4AszJKCFsRT.jpg",El traficante (1983)
 http://ia801507.us.archive.org/11/items/000_20191203/2.mp4
-#EXTINF:0 ,EL TRANSPORTADOR RECARGADO
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/eQ8jVLAVUG3XozFcFKyXMaWam2D.jpg",Transporter legacy (2015)
 http://ia600206.us.archive.org/27/items/7H3.794N5P09/7H3.794N5P09739.93FU313D-ES-360.mp4
-#EXTINF:0 ,ESCUELA PARA FRACASADOS
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/en80H4azRwAxaDR8nJaaStgV8pK.jpg",Escuela para fracasados (2018)
 http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/4.mp4
-#EXTINF:0 ,ESPIAS CON DISFRAZ
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/j2xcicPNXzNex47EYOfw45Dl1o0.jpg",Espías con disfraz (2019)
 http://ia601507.us.archive.org/7/items/000_20200301_202003/03.mp4
-#EXTINF:0 ,FROZEN 2
-http://ia601506.us.archive.org/27/items/0_20200218_20200218/301.mp4
-#EXTINF:0 ,GUADALUPE REYES 2019
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/yTzUT341y6ZxN8Ftu76WJ0R4iGY.jpg",Guadalupe Reyes (2019)
 http://ia601507.us.archive.org/4/items/000_20200127/1.mp4
-#EXTINF:0 ,GURU DE BODAS
-http://ia801402.us.archive.org/16/items/terugi_newairmail_11/11.mp4
-#EXTINF:0 ,HACKER
+#EXTINF:-1 group-title="Familia" tvg-logo="https://image.tmdb.org/t/p/w500/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",Frozen 2 (2019)
+http://ia601506.us.archive.org/27/items/0_20200218_20200218/301.mp4
+#EXTINF:-1 group-title="Crimen" tvg-logo="https://image.tmdb.org/t/p/w500/A9WiW68z1vORtwOVkSXtBucgk4c.jpg",Hacker: Todo el crimen tiene un inicio (Anonymous) (2016)
 http://ia601500.us.archive.org/17/items/000_20191202_20191202/1.mp4
-#EXTINF:0 ,HELLBOY 2019
-http://ia601405.us.archive.org/26/items/000_20200306_202003/04.mp4
-#EXTINF:0 ,HITMAN
-http://ia801302.us.archive.org/16/items/HI7M4N/HI7M4N.463N7.47-360-ES.mp4
-#EXTINF:0 ,I AM MOTHER
-http://ia601502.us.archive.org/23/items/0o2b38sn29s1/0a7wbs51b00.mp4
-#EXTINF:0 ,I N THE CLOUD
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",I N THE CLOUD
 http://ia801401.us.archive.org/12/items/000_20191205_201912/4.mp4
-#EXTINF:0 ,INFECTADO
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/ilKzvVJhghzfiK4qiTwc5qjtKhm.jpg",El gurú de las bodas (2015)
+http://ia801402.us.archive.org/16/items/terugi_newairmail_11/11.mp4
+#EXTINF:-1 group-title="Fantasía" tvg-logo="https://image.tmdb.org/t/p/w500/gh1ln4LefTfWheKW5MYZuRjVHqV.jpg",Hellboy (2019)
+http://ia601405.us.archive.org/26/items/000_20200306_202003/04.mp4
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/swNGiyindNZaZdJfOKFcFX9TvdC.jpg",Hitman (2007)
+http://ia801302.us.archive.org/16/items/HI7M4N/HI7M4N.463N7.47-360-ES.mp4
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/qnYBbh8MQLrvSbgp6uKRqy2HxEQ.jpg",I Am Mother (2019)
+http://ia601502.us.archive.org/23/items/0o2b38sn29s1/0a7wbs51b00.mp4
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/AcfnIgb0Ti3i4bjq6IZ1nA3GJHh.jpg",Infectados (Carriers) (2009)
 http://ia601502.us.archive.org/8/items/101295778-2633811350270726-3478062025219768320-n/48825f377aa127cecc4095513571b124-360p.mp4
-#EXTINF:0 ,INFILTRADOS EN LA UNIVERSIDAD 2 (OPCION 2)
+#EXTINF:-1 group-title="Crimen" tvg-logo="https://image.tmdb.org/t/p/w500/yp172JRxaJaRkSyjLO3R9B3tJZJ.jpg",Infiltrados en la universidad (2014)
 http://ia601405.us.archive.org/26/items/000_20200306_202003/01.mp4
-#EXTINF:0 ,IP MAN 4
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/j1rbZPqBiZX3NLWU5q1TH13v6BL.jpg",Ip Man 4: El final (2019)
 http://ia601406.us.archive.org/25/items/000_20200304_20200304/01.mp4
-#EXTINF:0 ,JEXI 2019
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/Ag2UqdvJMZxVlGJLoZhH1tdNKgu.jpg",Jexi (2019)
 http://ia601504.us.archive.org/29/items/000_20200127_202001/4.mp4
-#EXTINF:0 ,JOHN WICK 1
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",Ballerina (2025)
 http://ia601408.us.archive.org/20/items/000_20191216/5.mp4
-#EXTINF:0 ,JOHN WICK 2
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/tAAikrL3kH3TopsDC2Bgo4ARUiP.jpg",John Wick: Pacto de sangre (2017)
 http://ia801504.us.archive.org/13/items/000_20191225/5.mp4
-#EXTINF:0 ,JOHN WICK 3
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg",John Wick: Capítulo 3 - Parabellum (2019)
 http://ia601504.us.archive.org/13/items/000_20191225/1.mp4
-#EXTINF:0 ,JOKER
+#EXTINF:-1 group-title="Crimen" tvg-logo="https://image.tmdb.org/t/p/w500/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",Joker (2019)
 http://ia601401.us.archive.org/10/items/000_20191221/3.mp4
-#EXTINF:0 ,JUEGO LETAL
-http://ia601408.us.archive.org/20/items/000_20191216/3.mp4
-#EXTINF:0 ,JUEGOS DE ESPIAS
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/iTskKA7RkHPIAJqXAi1brYwdJsI.jpg",Spy Game (Juego de espías) (2001)
 http://ia601506.us.archive.org/9/items/0000_20200416/01.mp4
-#EXTINF:0 ,JUGANDO CON FUEGO
+#EXTINF:-1 group-title="Misterio" tvg-logo="https://image.tmdb.org/t/p/w500/lyTFXmxOsUidGrlnzi99Bbe1zFU.jpg",Mystery Woman: Juego letal (2005)
+http://ia601408.us.archive.org/20/items/000_20191216/3.mp4
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/gn7LxcbCk5bvdtpHeXupLWGuIbD.jpg",Jugando con fuego (1998)
 http://ia601509.us.archive.org/23/items/000_20200122_202001/5.mp4
-#EXTINF:0 ,JUMANJI NEXT LEVEL
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/gvR0l5NQ62DJe0Ppxb2sroHlwaa.jpg",Jumanji: Siguiente nivel (2019)
 http://ia601404.us.archive.org/17/items/00000_20200414_0245/02.mp4
-#EXTINF:0 ,LA BODA DE LA ABUELA
-http://ia601509.us.archive.org/23/items/000_20200122_202001/3.mp4
-#EXTINF:0 ,LA JUNGLA UN BUEN DIA PARA MORIR
-http://ia601507.us.archive.org/16/items/5_20191128_201911/8.mp4
-#EXTINF:0 ,LA LEYENDA DE KLAUS
-http://ia601504.us.archive.org/7/items/000_20200306_20200306_0448/07.mp4
-#EXTINF:0 ,LA MANSION EMBRUJADA
-http://ia601500.us.archive.org/32/items/LaMansionEmbrujadaDisney2003/La%20Mansion%20Embrujada%20Disney%202003.ogv
-#EXTINF:0 ,LA MARAVILLA
-http://ia601504.us.archive.org/29/items/000_20200127_202001/1.mp4
-#EXTINF:0 ,LA MUERTE DE SUPERMAN
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/4Lv3rhwgSgnPlWaTfv6V7VHWmgC.jpg",La muerte de Superman (2007)
 http://ia601403.us.archive.org/26/items/4490f-394ea-4bed-259f-39f-924b-1c-38ddd-480p/4490f394ea4bed259f39f924b1c38ddd-480p.mp4
-#EXTINF:0 ,LA NOCHE DEL DEMONIO 4
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/eA0QVLSymgfTgqAtB6AdWAU5t6Q.jpg",La boda de la abuela (2019)
+http://ia601509.us.archive.org/23/items/000_20200122_202001/3.mp4
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/1WQ3EWu8P3mML3pV9D3PKbvfwxb.jpg",La jungla: Un buen día para morir (2013)
+http://ia601507.us.archive.org/16/items/5_20191128_201911/8.mp4
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/aLniylyJlbXEdxvaGSuQkRACWUx.jpg",Klaus (2019)
+http://ia601504.us.archive.org/7/items/000_20200306_20200306_0448/07.mp4
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/3gFtw4w2bIUYKWOrmBgfI6iXfmZ.jpg",Mingo y Aníbal en la mansión embrujada (1986)
+http://ia601500.us.archive.org/32/items/LaMansionEmbrujadaDisney2003/La%20Mansion%20Embrujada%20Disney%202003.ogv
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/pIRia9ZqoGbzNRlJujsxnvg4mXW.jpg",La Maravilla (2019)
+http://ia601504.us.archive.org/29/items/000_20200127_202001/1.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/d5l0baYosvDH4HCEc6O7h1QgAp9.jpg",Insidious: La última llave (2018)
 http://ia601409.us.archive.org/21/items/00100rrt/00100rrt.mp4
-#EXTINF:0 ,LA SIRENITA 1
-http://ia801502.us.archive.org/17/items/silonuber_mozej_0/1.mp4
-#EXTINF:0 ,LA SIRENITA 2
-http://ia601502.us.archive.org/17/items/silonuber_mozej_0/2.mp4
-#EXTINF:0 ,LA SIRENITA 3
-http://ia801502.us.archive.org/17/items/silonuber_mozej_0/3.mp4
-#EXTINF:0 ,LA TRAMPA DE LA ARA?A
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",LA TRAMPA DE LA ARA?A
 http://ia601402.us.archive.org/10/items/000_20200304_20200304_2245/03.mp4
-#EXTINF:0 ,LA VERDAD SOBRE LAS MENTIRAS
-http://ia601507.us.archive.org/27/items/toguse_nyrmusic_06/06.mp4
-#EXTINF:0 ,LAS APARIENCIAS ENGA?AN
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg",La sirenita (1989)
+http://ia801502.us.archive.org/17/items/silonuber_mozej_0/1.mp4
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/1m6JsSmBa4X1Kp35YW3QPbMpByF.jpg",La sirenita 2: Regreso al mar (2000)
+http://ia601502.us.archive.org/17/items/silonuber_mozej_0/2.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",LAS APARIENCIAS ENGA?AN
 http://ia801401.us.archive.org/2/items/tosey_freehotmail_10/10.mp4
-#EXTINF:0 ,LAS AVENTURAS DEL DOCTOR DOLITTLE 2020
-http://ia801507.us.archive.org/7/items/000_20200301_202003/02.mp4
-#EXTINF:0 ,LIGA DE LA JUSTICIA CRISIS EN LAS DOS TIERRAS
-http://ia801502.us.archive.org/29/items/LigaDeLaJusticiaCrisisEn2tierras/Liga%20de%20la%20justicia_crisis%20en%202tierras.mp4
-#EXTINF:0 ,LINTERNA VERDE CABALLEROS ESMERALDA
-http://ia601509.us.archive.org/26/items/meyize_hurify1_F1n/l1n.mp4
-#EXTINF:0 ,LOGAN OPC2
+#EXTINF:-1 group-title="Familia" tvg-logo="https://image.tmdb.org/t/p/w500/yFWP8BSOVC8tQ3NI34gfvEhUqZl.jpg",El origen de la sirenita (2008)
+http://ia801502.us.archive.org/17/items/silonuber_mozej_0/3.mp4
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/qZU30ijnU9TPmTKyFSjnBZwQolV.jpg",La Verdad Sobre las Mentiras (2018)
+http://ia601507.us.archive.org/27/items/toguse_nyrmusic_06/06.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",LOGAN OPC2
 http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/11.mp4
-#EXTINF:0 ,LOOPER
+#EXTINF:-1 group-title="Familia" tvg-logo="https://image.tmdb.org/t/p/w500/aodZLzbl7JaKSsdV6EJzl86EjcX.jpg",Las aventuras del doctor Dolittle (2020)
+http://ia801507.us.archive.org/7/items/000_20200301_202003/02.mp4
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/dRJzhOVZ4d3b2bMa24PusStb9ro.jpg",La Liga de la Justicia: Crisis en dos tierras (2010)
+http://ia801502.us.archive.org/29/items/LigaDeLaJusticiaCrisisEn2tierras/Liga%20de%20la%20justicia_crisis%20en%202tierras.mp4
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/pqKF9xBXPRxwyHK7dyagnsIBcPT.jpg",Linterna Verde: Caballeros Esmeralda (2011)
+http://ia601509.us.archive.org/26/items/meyize_hurify1_F1n/l1n.mp4
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/t6ogdhdjP9KDCLJR9i4HG3bplQL.jpg",Looper (2012)
 http://ia601509.us.archive.org/16/items/2_20191128_20191128_1720/15.mp4
-#EXTINF:0 ,LOS JUEGOS DEL HAMBRE  SINSAJO  PARTE 2
-http://ia800204.us.archive.org/6/items/7H3.HU7/7H3.HUN639.64M35.M0CKIN6J4Y.P497.2-ES-360.mp4
-#EXTINF:0 ,Santo contra los Cazadores de Cabezas 1971
-https://archive.org/download/sancaz71/sancaz71.avi
-#EXTINF:0 ,Santo en la Mision Suicida 1971 www.achoapps.com
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Santo en la Mision Suicida 1971 www.achoapps.com
 https://archive.org/download/sancaz71/sanmis71.avi
-#EXTINF:0 ,Santo contra la Hija de Frankestein 1971
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",Los Juegos del Hambre: Sinsajo - Parte 2 (2015)
+http://ia800204.us.archive.org/6/items/7H3.HU7/7H3.HUN639.64M35.M0CKIN6J4Y.P497.2-ES-360.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Santo contra la Hija de Frankestein 1971
 https://archive.org/download/sanhifran71/sanhifran71.avi
-#EXTINF:0 ,Santo contra la Mafia del Vicio 1971
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/5mrLJYO5BaHWutgTLlPw2jJWNi4.jpg",Santo contra los cazadores de cabezas (1971)
+https://archive.org/download/sancaz71/sancaz71.avi
+#EXTINF:-1 group-title="Crimen" tvg-logo="https://image.tmdb.org/t/p/w500/krXddA1S2435e8CblhQlisT8k9X.jpg",Santo contra la mafia del vicio (1971)
 https://archive.org/download/sanhifran71/sanmavi71.avi
-#EXTINF:0 ,Santo y Blue Demon en el Mundo de los Muertos 1970
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/gNjH6zJe3SP9GBRF7G8zyTr8lZo.jpg",Santo y Blue Demon en El Mundo de Los Muertos (1970)
 https://archive.org/download/sanmumu70/sanmumu70.avi
-#EXTINF:0 ,Santo y la Venganza de las Mujeres Vampiro 1970
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/aekfPzli5HVa5UCHUW7QHenoP9o.jpg",Santo en la venganza de las mujeres vampiro (1970)
 https://archive.org/download/sanmumu70/sanvevam70.avi
-#EXTINF:0 ,Santo contra los Jinetes del Terror 1970
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/noyxl6WjUvBIHSqhA3wiYEThJKS.jpg",Santo contra los jinetes del terror (1970)
 https://archive.org/download/sanca69/sanjite70.avi
-#EXTINF:0 ,Santo contra Capulina 1969
-https://archive.org/download/sanca69/sanca69.avi
-#EXTINF:0 ,Santo y Blue Demon contra los Monstruos 1969
-https://archive.org/download/sanca69/sanblumon69.avi
-#EXTINF:0 ,Santo y el Tesoro de Moctezuma 1968
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Santo y el Tesoro de Moctezuma 1968
 https://archive.org/download/sanbabra67/santemo68.avi
-#EXTINF:0 ,Santo contra Blue Demon en la Atlantida 1969
-https://archive.org/download/sanbabra67/sanbluat69.avi
-#EXTINF:0 ,Santo contra el Baron Brakola 1967
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/mc2sOEYI9OMl3MkepwwRssjHp6j.jpg",Santo contra Capulina (1969)
+https://archive.org/download/sanca69/sanca69.avi
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/jyi1RVKJ7iAlbVHnzaBfspxWv6P.jpg",Santo el enmascarado de plata y Blue Demon contra los monstruos (1970)
+https://archive.org/download/sanca69/sanblumon69.avi
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Santo contra el Baron Brakola 1967
 https://archive.org/download/sanbabra67/sanbabra67.avi
-#EXTINF:0 ,Santo y los Profanadores de Tumbas 1966
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Santo y los Profanadores de Tumbas 1966
 https://archive.org/download/saneses66/sanprotu66.avi
-#EXTINF:0 ,Santo en la Operacion 67 1967
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Santo en la Operacion 67 1967
 https://archive.org/download/saneses66/sanop67.avi
-#EXTINF:0 ,Santo contra el Espectro del Estrangulador 1966
-https://archive.org/download/saneses66/saneses66.avi
-#EXTINF:0 ,Santo y Blue Demon contra el Poder Satanico 1964
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Santo y Blue Demon contra el Poder Satanico 1964
 https://archive.org/download/sanbru64/sanposat64.avi
-#EXTINF:0 ,Santo contra el Hacha Diabolica 1965
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Santo contra el Hacha Diabolica 1965
 https://archive.org/download/sanbru64/sanhada65.avi
-#EXTINF:0 ,Santo en el Ataque de las Brujas 1964
+#EXTINF:-1 group-title="Misterio" tvg-logo="https://image.tmdb.org/t/p/w500/5mCMRvK9fqLZ3uXpmKkBQXgOzc5.jpg",Santo contra Blue Demon en la Atlántida (1970)
+https://archive.org/download/sanbabra67/sanbluat69.avi
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Santo en el Ataque de las Brujas 1964
 https://archive.org/download/sanbru64/sanbru64.avi
-#EXTINF:0 ,Santo en el Museo de Cera 1963
-https://archive.org/download/sanmuce63/sanmuce63.avi
-#EXTINF:0 ,Santo contra las Momias de Guanajuato 1972
-https://archive.org/download/sanmog72/sanmog72.avi
-#EXTINF:0 ,Santo en el Hotel de la Muerte 1963
-https://archive.org/download/sanhom63/sanhom63.avi
-#EXTINF:0 ,Santo frente a la muerte 1969
-https://archive.org/download/sanmu69/sanmu69.avi
-#EXTINF:0 ,Next Gen | SRREGIO.NET
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/nueZc3LMfcUX8g6Q4hVjLohy2dH.jpg",Santo contra el espectro del estrangulador (1966)
+https://archive.org/download/saneses66/saneses66.avi
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Next Gen | SRREGIO.NET
 https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:0 ,Tragedy Girls | SRREGIO.NET
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/ks3nvMxKV69qOaqjlwc5iOX4DHS.jpg",Santo en el museo de cera (1963)
+https://archive.org/download/sanmuce63/sanmuce63.avi
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Tragedy Girls | SRREGIO.NET
 https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg",El Infierno | REGIOFLIX
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/f1wS2d687oX7ngfy70RqAsypqxh.jpg",Santo en el hotel de la muerte (1963)
+https://archive.org/download/sanhom63/sanhom63.avi
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/ui9vR8JJvQZ1l4OOO2JiMyaHk94.jpg",Las momias de Guanajuato (1972)
+https://archive.org/download/sanmog72/sanmog72.avi
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/klEwxWJqQTLVns3FD9Q82vtw5Yr.jpg",Santo Frente a la Muerte (1970)
+https://archive.org/download/sanmu69/sanmu69.avi
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",El Infierno | REGIOFLIX
 https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg",Volver al Futuro 2 | REGIOFLIX
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Volver al Futuro 2 | REGIOFLIX
 https://archive.org/download/qwerty2/qwerty2.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg",Volver al Futuro 3 | REGIOFLIX
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Volver al Futuro 3 | REGIOFLIX
 https://archive.org/download/qwerty3/qwerty3.mkv
-#EXTINF:0 ,EN EL CORAZON DEL MAR
+#EXTINF:-1 group-title="Suspense" tvg-logo="https://image.tmdb.org/t/p/w500/xjE8aylY2QCpcE0R8eIJ6fFAWa0.jpg",En el corazón del mar (2015)
 https://goo.gl/4BqODN
-#EXTINF:0 ,LA CHICA DANESA
-https://goo.gl/nQXbQ5
-#EXTINF:0 ,LA MALDICION EL INICIO DEL FIN
-https://goo.gl/gWJEZq
-#EXTINF:0 ,MI ABUELO ES UN PELIGRO
+#EXTINF:-1 group-title="Crimen" tvg-logo="https://image.tmdb.org/t/p/w500/svzVjVV8QUpfYItr3PH5bMzRPer.jpg",Esta abuela es un peligro (2000)
 https://goo.gl/KYCQoX
-#EXTINF:0 ,SINIESTRO
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/wJHee7DW3NACAsBXsEqlTofbb0Q.jpg",Ju-on: Beginning of the End (2014)
+https://goo.gl/gWJEZq
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/8XubRv1OkM2RkksxVpkG8qoROM8.jpg",La chica danesa (2015)
+https://goo.gl/nQXbQ5
+#EXTINF:-1 group-title="Drama" tvg-logo="",Siniestro (2001)
 https://goo.gl/F5NCPj
-
-
-#EXTINF:0 group-title="2022" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/29/09/30/4195544.jpg",9 balas: A la fuga (2022)
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/hNaLkaWYN5eeNwnxHnhGgQPr2aT.jpg",9 Balas (2022)
 https://archive.org/download/9-balas-lat/9%20balas%20lat.mp4
-#EXTINF:0 group-title="2022" tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/24/16/16/4444999.jpg",Granizo (2022)
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg",Granizo (2022)
 https://archive.org/download/6r-4n-1z-0/6r4n1z0.mkv
-#EXTINF:0 group-title="2021" tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/17/12/24/2379588.jpg",Como me converti en superheroe (2021)
-https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.mp4
-#EXTINF:0 group-title="2021" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/znyk4uvq9eduQCVMOSDJwJBMRdF.jpg",Cruzando la linea (2021)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/znyk4uvq9eduQCVMOSDJwJBMRdF.jpg",Conexión criminal (2021)
 https://archive.org/download/cruzando-la-linea/The.Gateway.2021.lati.mp4
-#EXTINF:0 group-title="2021" tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/11/10/45/1311045.jpg",La 8ª noche (2021)
+#EXTINF:-1 group-title="Ciencia ficción" tvg-logo="https://image.tmdb.org/t/p/w500/1tcQdrmvVooaZs6niLIX1DnaZxB.jpg",Cómo me convertí en superhéroe (2020)
+https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.mp4
+#EXTINF:-1 group-title="Misterio" tvg-logo="https://image.tmdb.org/t/p/w500/dPR5pAL8LjoO8q4rQ7knhzu0TjO.jpg",La 8.ª noche (2021)
 http://archive.org/download/la-octava-noche/La%20octava%20noche.mp4
-#EXTINF:0 group-title="2020" tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/06/15/28/1435725.jpg",La batalla olvidada (2020)
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/f4NnOLlwJz8N2gvlzfbDuiAyifH.jpg",La batalla olvidada (2021)
 https://archive.org/download/la-batalla-olvidada/The.Forgotten.Battle.2020.lati.mp4
-#EXTINF:0 group-title="2020" tvg-logo="https://mx.web.img3.acsta.net/pictures/20/07/10/01/29/0344506.jpg",La lista de Al Carajo (2020)
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/9VI0sIg1wZwhcVMiCCd76rfmFM9.jpg",La lista de a la mierda (2020)
 http://archive.org/download/la-lista-de-al-carajo_202007/La%20Lista%20De%20Al%20Carajo.mp4
-#EXTINF:0 group-title="2019" tvg-logo="https://mx.web.img2.acsta.net/pictures/20/12/01/23/00/2227019.jpg",El tunel (2019)
-https://archive.org/download/el.tunel.-2019.1080p-dual-lat.-cinecalidad.la/El.t%C3%BAnel.2019.1080p-dual-lat.Cinecalidad.la.mp4
-#EXTINF:0 group-title="2019" tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/17/11/06/2843510.jpg",La candidata perfecta (2019)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/hXZqG06J0p2WCmyx22rOwIV7070.jpg",La candidata perfecta (2020)
 http://archive.org/download/la-candidata-perfecta-2020-blu-ray-rip-ac-3-5.1-castellanowww.-pctreload.-com/La%20Candidata%20Perfecta%20%282020%29%20%5BBluRay%20RIP%5D%5BAC3%205.1%20Castellano%5D%5Bwww.PCTRELOAD.COM%5D.mp4
-#EXTINF:0 group-title="2017" tvg-logo="https://es.web.img2.acsta.net/pictures/17/08/16/17/42/158205.jpg",Godzilla: Planeta de monstruos (2017)
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w500/5P9aHCKF0DmzTlGHCcvx4omjPzA.jpg",El túnel (1988)
+https://archive.org/download/el.tunel.-2019.1080p-dual-lat.-cinecalidad.la/El.t%C3%BAnel.2019.1080p-dual-lat.Cinecalidad.la.mp4
+#EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/xFs3D8sRUgobpwwE46rt2pZHEgi.jpg",Godzilla: Planet of the Monsters (2017)
 https://archive.org/download/gopla-72p/Godzilla1.mp4
-#EXTINF:0 group-title="2016" tvg-logo="https://portal.andina.pe/EDPfotografia3/Thumbnail/2016/01/12/000335057W.jpg",No Estamos Solos (2016)
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w500/zzQPQH7s0LZbSNluMnzFVTfezSu.jpg",No Estamos Solos (2016)
 http://archive.org/download/super-pelicula-no-estoy-solo-terror-suspenso-e-intriga-hd-240-p-1/SUPER%20PELICULA%20%20NO%20ESTOY%20SOLO%20%E2%9C%85--%20TERROR%20SUSPENSO%20E%20INTRIGA%20%20HD%28240P%29_1.mp4
-#EXTINF:0 group-title="Peliculas Viejas" tvg-logo="https://es.web.img3.acsta.net/pictures/15/02/04/11/27/147367.jpg",6 Balas (2012)
+#EXTINF:-1 group-title="Suspense" tvg-logo="https://image.tmdb.org/t/p/w500/1ArlTk9TosvIJVmy9fwpD9XFRkw.jpg",6 balas (2012)
 http://archive.org/download/pelicula-seis-balas-en-latino-completa-240-p-1/PELICULA%20SEIS%20BALAS%20EN%20LATINO%20COMPLETA%28240P%29_1.ia.mp4
-#EXTINF:0 group-title="Peliculas Viejas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CsOQIRitL._RI_.jpg",Allan Quatermain: Las minas del Rey Salomon (1985)
-https://archive.org/download/allan-quatermain-las-minas-del-rey-salomon/Allan%20Quatermain%20%20Las%20Minas%20Del%20Rey%20Salomon.mp4
-#EXTINF:0 group-title="Peliculas Viejas" tvg-logo="https://m.media-amazon.com/images/I/61XgmkqP0rL.jpg",Alone in the Dark II: El regreso de las sombras (2008) CASTELLANO
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Alone in the Dark II: El regreso de las sombras (2008) CASTELLANO
 http://archive.org/download/videoplayback_20200903_2207/videoplayback.mp4
-#EXTINF:0 group-title="Peliculas Viejas" tvg-logo="https://m.media-amazon.com/images/I/71zCfLCQvLL._SL1120_.jpg",Harry: El sucio (1976)
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/jHrjJGM3bizZXaiI35aWWN3MTj5.jpg",Las minas del rey Salomón (1985)
+https://archive.org/download/allan-quatermain-las-minas-del-rey-salomon/Allan%20Quatermain%20%20Las%20Minas%20Del%20Rey%20Salomon.mp4
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/mDW2pmFSIy5ppQBCBjD4b0rFSXy.jpg",Harry el sucio (1971)
 http://archive.org/download/harry-el-ejecutor-1976/Harry%20El%20Ejecutor%20%281976%29.mp4
-#EXTINF:0 group-title="Peliculas Viejas" tvg-logo="http://img5.allocine.fr/acmedia/medias/nmedia/18/83/70/53/19703905.jpg",Harry Potter y las reliquias de la muerte: Parte 2 (2011)
-https://archive.org/download/potter.-08/POTTER.08.mp4
-#EXTINF:0 group-title="Peliculas Viejas" tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/210/183/21018367_20130709150819836.jpg",Ong-Bak 3 (2010)
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/iEpzOcEL24Eojieyo4QrKvKwjuv.jpg",Ong Bak 3: La Batalla Final (2010)
 http://archive.org/download/la-boda-de-mi-ex_202104/Ong%20Bak%203.mp4
-#EXTINF:0 group-title="Peliculas Viejas" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/79/44/73/20420618.jpg",Pajaros de fuego (1990)
-http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-en-espanol-latino-hd-2018-480-p/Peliculas%20De%20Accion%20Completas%20Gratis%202018%20%20%20Peliculas%20En%20Espa%C3%B1ol%20Latino%20HD%202018%28480P%29.ia.mp4
-#EXTINF:0  tvg-logo="http://image.tmdb.org/t/p/w500/5hPYjrxkw4r9RVX5NcDGTz2zaOJ.jpg",Amor. Boda. Azar 2020
-https://video.wixstatic.com/video/436043_d5b24c44cc7342c2b16bb57fc35e7713/480p/mp4/file.mp4
-#EXTINF:0  tvg-logo="http://image.tmdb.org/t/p/w500/fuV4ybeV2PRd4WjTsEYqxkcIpMy.jpg",Barbie y Chelsea El CumpleaÃ±os Perdido 2021
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://image.tmdb.org/t/p/w500/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)
+https://archive.org/download/potter.-08/POTTER.08.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Barbie y Chelsea El CumpleaÃ±os Perdido 2021
 https://archive.org/download/01_20211011_20211011_2322/01.mp4
-#EXTINF:0  tvg-logo="http://image.tmdb.org/t/p/w500/kgpSvuwiD03vk1gOQ4Pgb2y2wJp.jpg",Blush AppleTV 2021
-https://archive.org/download/01_20211011_20211011_2327/01.mp4
-#EXTINF:0  tvg-logo="http://image.tmdb.org/t/p/w500/siGmPNbxKdooHm7unHpiBSdfYpR.jpg",Catalina la Catrina Especial DÃ­a de Muertos Blim
-https://archive.org/download/01_20211011_20211011_2330/01.mp4
-#EXTINF:0  tvg-logo="http://image.tmdb.org/t/p/w500/mWTh9XfbDSOZiafEbtaCfyp75s4.jpg",La pelea estelar 2020 Netflix
+#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/ipuPD6u4OovmzAycuBPadtnrgbA.jpg",Pájaros de fuego (1990)
+http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-en-espanol-latino-hd-2018-480-p/Peliculas%20De%20Accion%20Completas%20Gratis%202018%20%20%20Peliculas%20En%20Espa%C3%B1ol%20Latino%20HD%202018%28480P%29.ia.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",La pelea estelar 2020 Netflix
 https://video.wixstatic.com/video/436043_06457fb3787243efa034b198b8e1e96f/480p/mp4/file.mp4
-#EXTINF:0  tvg-logo="http://image.tmdb.org/t/p/w500/u10ZfFwbCMB4UrFy7OlHq08fBRr.jpg",Los Simpson La buena el malo y Loki Disney
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Catalina la Catrina Especial DÃ­a de Muertos Blim
+https://archive.org/download/01_20211011_20211011_2330/01.mp4
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://image.tmdb.org/t/p/w500/5hPYjrxkw4r9RVX5NcDGTz2zaOJ.jpg",Amor. Boda. Azar (2020)
+https://video.wixstatic.com/video/436043_d5b24c44cc7342c2b16bb57fc35e7713/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Blush AppleTV 2021
+https://archive.org/download/01_20211011_20211011_2327/01.mp4
+#EXTINF:-1 group-title="Sin genero" tvg-logo="",Los Simpson La buena el malo y Loki Disney
 https://archive.org/download/01_20211011_20211011_2341/01.mp4
-
