@@ -109,7 +109,7 @@ https://pomf2.lain.la/f/jd186h2.mp4
 http://archive.org/download/009_20200823/001.mp4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/kV1j0KzbNGPz5EUqzUOrVTtDx2u.jpg"  group-title="Movies|Sin genero",Agente Infiltrado
 https://archive.org/download/01_20250621_20250621_2307/01.ia.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM4NmZhN2UtMDVlZC00MGVmLWFhMDgtNjk3NjEzZmI2NmU4XkEyXkFqcGdeQXVyNzIxNjgzNDg@._V1_UX182_CR0 group-title="Movies|Sin Categoria",0,182,268_AL_.jpg" group-title="Sin genero",0,182,268_AL_.jpg",AGUAS INVISIBLES
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM4NmZhN2UtMDVlZC00MGVmLWFhMDgtNjk3NjEzZmI2NmU4XkEyXkFqcGdeQXVyNzIxNjgzNDg@._V1_UX182_CR0 group-title="Movies|Sin Categoria",AGUAS INVISIBLES
 http://archive.org/download/009_20200823/002.mp4
 #EXTINF:0 tvg-logo="https://www.moncloa.com/wp-content/uploads/2021/01/El-catalogo-de-Netflix-con-tecnologia.jpg"  group-title="Movies|Sin genero",AGUAS TRANQUILAS
 http://archive.org/download/009_20200823/003.mp4
@@ -2185,7 +2185,7 @@ https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Los
 https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/L.7.45.mp4
 #EXTINF:0 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg"  group-title="Movies|Sin genero",los nuevos mutantes
 https://dl.dropbox.com/scl/fi/7hcc8tx0bx0l4bl8anlko/1280x694-Los-nuevos-mutantes.mp4?rlkey=0yr6xuunj727v44z58x7nwkum&st=zs3bumvw&dl=0
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI5MTQ3NTc0MF5BMl5BanBnXkFtZTgwMjE2NDI0ODE@._V1_UX182_CR0 group-title="Movies|Sin Categoria",0,182,268_AL_.jpg" group-title="Sin genero",0,182,268_AL_.jpg",LOS OCHENTA: LA MUSICA
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI5MTQ3NTc0MF5BMl5BanBnXkFtZTgwMjE2NDI0ODE@._V1_UX182_CR0 group-title="Movies|Sin Categoria",LOS OCHENTA: LA MUSICA
 https://archive.org/download/documentales_202012/Los%20ochenta%203.%20La%20musica.mp4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/gbK0XS34qIuidH4tIQm9CyTtgK7.jpg"  group-title="Movies|Sin genero",los pecadores
 https://dl.dropbox.com/scl/fi/15233zxofnswbhmw8ecsu/P2015.mp4?rlkey=zzcyucht6gyizcnho9n0xbun3&st=02h6lxj2&dl=0
@@ -2339,7 +2339,7 @@ https://archive.org/download/naturales-1/naturales%201.mp4
 https://archive.org/download/documentales_biografias/michael%20j%20fox.mp4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/z2MFDKcgTI7vqYNIT3lEbNsdLAM.jpg"  group-title="Movies|Sin genero",Michael Jackson La vida de un ídolo
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Michael%20Jackson%20La%20vida%20de%20un%20i%CC%81dolo%20%282011%29.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmUyYTlmZjMtZTM1Ni00NzM5LWFiMzAtMmU4ODUxZjE3ZjNlXkEyXkFqcGdeQXVyMjIzMTQ5NjE@._V1_UX182_CR0 group-title="Movies|Sin Categoria",0,182,268_AL_.jpg" group-title="Sin genero",0,182,268_AL_.jpg",Michael Jackson: The Life of an Icon 2011
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmUyYTlmZjMtZTM1Ni00NzM5LWFiMzAtMmU4ODUxZjE3ZjNlXkEyXkFqcGdeQXVyMjIzMTQ5NjE@._V1_UX182_CR0 group-title="Movies|Sin Categoria",Michael Jackson: The Life of an Icon 2011
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011/Michael%20Jackson%20La%20vida%20de%20un%20%C3%ADdolo%20%282011%29.mp4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/ppOsOvabD2TmHz5LosHDI9CZeEp.jpg"  group-title="Movies|Sin genero",Michael Jordan to the Max
 https://archive.org/download/documentales_biografias/michael%20jordan%20to%20the%20max.mp4
@@ -3053,7 +3053,7 @@ https://ia600204.us.archive.org/8/items/step-up-5-completa-en-espanol-360-p/Step
 https://dl.dropbox.com/scl/fi/bxi17ylnjfiv17o4crshz/fisica.mp4?rlkey=r50f0t33jr42421mdpulwlcff&st=w7tnj1xn&dl=0
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/wmLoMyofbseLfxiGgk1Iz5H97c3.jpg"  group-title="Movies|Sin genero",Steve
 https://dl.dropbox.com/scl/fi/1mguixhaqerboxjuufg45/matematica-2.mp4?rlkey=t2z6xxsqcb6e6mtjqma2axkwe&st=qxgxavec&dl=0
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmUwNTJlMTQtODIxMC00MGQ0LThhNjgtMTEwZDRmY2FmNGM1XkEyXkFqcGdeQXVyNjMzNTg0MjQ@._V1_UY268_CR3 group-title="Movies|Sin Categoria",0,182,268_AL_.jpg" group-title="Sin genero",0,182,268_AL_.jpg",Steve Jobs: Billion Dollar Hippy 2011
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmUwNTJlMTQtODIxMC00MGQ0LThhNjgtMTEwZDRmY2FmNGM1XkEyXkFqcGdeQXVyNjMzNTg0MjQ@._V1_UY268_CR3 group-title="Movies|Sin Categoria",Steve Jobs: Billion Dollar Hippy 2011
 https://archive.org/download/documentales_202012/Steve%20jobs%20el%20hippie%20millonario.mp4.mp4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/kXsI6DluqNnBfJenlXNuIpiPTOU.jpg"  group-title="Movies|Sin genero",Stitch Head
 https://dl.dropbox.com/scl/fi/ysk63ybjwxebj8vd90ntr/fisica.mp4?rlkey=7tg2wcwk840y5kxrn8ritzni8&st=vov7qnds&dl=0
@@ -3143,7 +3143,7 @@ https://archive.org/download/asterix_202506/pbx/05.mp4
 https://dl.dropbox.com/scl/fi/k36t6jxpb9ilis0ihliyp/era-de-ultron.mp4?rlkey=aercd1gc2msnlnmvxg4kw5w30&st=ejn38xa1&dl=0
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/mZmnKDhIS2yNmtfzde5vtdCYzBF.jpg"  group-title="Movies|Sin genero",The Bad Guys 2
 https://pomf2.lain.la/f/vpat3mxx.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwZmE1NDAtN2JhNy00ZGQ4LWFhMjEtZDVmZDExNzQwNDgwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY268_CR10 group-title="Movies|Sin Categoria",0,182,268_AL_.jpg" group-title="Sin genero",0,182,268_AL_.jpg",The Beatles Anthology
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwZmE1NDAtN2JhNy00ZGQ4LWFhMjEtZDVmZDExNzQwNDgwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY268_CR10 group-title="Movies|Sin Categoria",The Beatles Anthology
 https://archive.org/download/thebeatlesantologia_202012/THEBEATLESANTOLOGIA.mp4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg"  group-title="Movies|Sin genero",The Best You Can
 https://pomf2.lain.la/f/wm8e9pj.mp4
