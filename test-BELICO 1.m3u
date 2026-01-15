@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="" group-title="Películas|Sin datos",1917
+#EXTINF:0 tvg-logo="" group-title="Movies|Sin datos",1917
 https://archive.org/download/1917_20240801/1917.mp4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/upzHvvUGjoF950pnAJe5ZMhbNVt.jpg" group-title="Movies | Drama",Aguas tranquilas (2014)
 http://archive.org/download/009_20200823/003.mp4
