@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name="Breaking Bad S01E01" tvg-logo="https://logos/breakingbad.jpg" group-title="SERIES | Completas",Breaking Bad - S01E01
+https://archive.org/download/ac7_20200305/Alt%20car/ac1.mp4
+
 #EXTINF:0, Altered Carbon Temporada 1 
 #EXTINF:0, tvg-name=" Altered Carbon S01 E01" tvg-logo="#" group-title="Altered Carbon",Altered Carbon S01 E01
 https://archive.org/download/ac7_20200305/Alt%20car/ac1.mp4  
