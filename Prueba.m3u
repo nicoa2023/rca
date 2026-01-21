@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTSIZE:2
 #EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",Avances
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/avances.m3u
 #EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
