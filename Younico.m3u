@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTSIZE:1  ; Tamaño por defecto: mediano para todos los ítems
+
+; -----------------------------
+; Video destacado de YouTube (tile grande)
+#EXTINF:-1 tvg-id="yt_video1" tvg-name="Video Destacado" tvg-logo="https://img.youtube.com/vi/VIDEO_ID1/0.jpg",Video Destacado
+#EXTSIZE:2
+https://www.youtube.com/watch?v=Zey1zgEShS0
+
+; Video normal de YouTube (tile mediano por defecto)
+#EXTINF:-1 tvg-id="yt_video2" tvg-name="Tutorial SS IPTV" tvg-logo="https://img.youtube.com/vi/VIDEO_ID2/0.jpg",Tutorial SS IPTV
+https://www.youtube.com/watch?v=Fia_rXrlHXU
+
+; Video pequeño de YouTube (tile pequeño)
+#EXTINF:-1 tvg-id="yt_video3" tvg-name="Video Corto" tvg-logo="https://img.youtube.com/vi/VIDEO_ID3/0.jpg",Video Corto
+#EXTSIZE:0
+https://www.youtube.com/watch?v=VIDEO_ID3
+
+; -----------------------------
+; Canal de streaming normal (opcional)
+#EXTINF:-1 tvg-id="canal1" tvg-name="Canal TV" tvg-logo="https://logo.com/canal1.png",Canal TV
+http://url-del-stream-del-canal1
