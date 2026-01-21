@@ -68,3 +68,35 @@ http://passionstreamingwii.myartsonline.com/Peliculas/Suspenso.m3u
 #EXTINF:-1 type="playlist" group-title="Películas",Terror
 http://passionstreamingwii.myartsonline.com/Peliculas/Terror.m3u
 
+#EXTINF:-1 type="playlist" group-title="Películas",Peliculas Religiosas1 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/peliculas%20religiosas 
+
+#EXTINF:-1 type="playlist" group-title="Películas",Found Footage1
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Found%20Footage 
+#EXTINF:-1 type="playlist" group-title="Películas" ,belico1 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Belico 
+#EXTINF:-1 type="playlist" group-title="Películas",80 & 90 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis80y90 
+#EXTINF:-1 type="playlist" group-title="Películas",Infantiles1 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Infantiles 
+#EXTINF:-1 type="playlist" group-title="Películas",Accion1
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Acci%C3%B3n 
+#EXTINF:-1 type="playlist" group-title="Películas",Drama1 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Drama 
+#EXTINF:-1 type="playlist" group-title="Películas",Terror1
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Terror 
+#EXTINF:-1 type="playlist" group-title="Películas",Fantasía1 
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Fantas%C3%ADa 
+#EXTINF:-1 type="playlist" group-title="Películas",Romántica1
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Romance 
+#EXTINF:-1 type="playlist" group-title="Películas",Comedia1
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Comedia 
+#EXTINF:-1 type="playlist" group-title="Películas",Ciencia Ficción1
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ciencia%20ficci%C3%B3n 
+#EXTINF:-1 type="playlist" group-title="Películas",Dc Comics1
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Dc%20Comics 
+#EXTINF:-1 type="playlist" group-title="Películas",Marvel Studio1
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Marvel 
+#EXTINF:-1 type="playlist" group-title="Películas",Animación1
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Animaci%C3%B3n
+
