@@ -1,17 +1,4 @@
 #EXTM3U
-
-# Avances
-#EXTINF:-1 type="playlist" group-title="Películas",Avances
-http://passionstreamingwii.myartsonline.com/Peliculas/Avances.m3u
-
-# Sagas
-#EXTINF:-1 type="playlist" group-title="Películas",Sagas
-http://passionstreamingwii.myartsonline.com/Peliculas/Sagas.m3u
-
-# Acción
-#EXTINF:-1 type="playlist" group-title="Películas",Acción
-http://passionstreamingwii.myartsonline.com/Peliculas/Accion.m3u
-
 # Animación
 #EXTINF:-1 type="playlist" group-title="Películas",Animación
 http://passionstreamingwii.myartsonline.com/Peliculas/Animacion.m3u
@@ -20,53 +7,9 @@ http://passionstreamingwii.myartsonline.com/Peliculas/Animacion.m3u
 #EXTINF:-1 type="playlist" group-title="Películas",Anime
 http://passionstreamingwii.myartsonline.com/Peliculas/Anime.m3u
 
-# Aventura y Fantasía
-#EXTINF:-1 type="playlist" group-title="Películas",Aventura y Fantasía
-http://passionstreamingwii.myartsonline.com/Peliculas/Aventura-Fantasia.m3u
-
-# Ciencia ficción
-#EXTINF:-1 type="playlist" group-title="Películas",Ciencia ficción
-http://passionstreamingwii.myartsonline.com/Peliculas/Ciencia-Ficcion.m3u
-
-# Comedia
-#EXTINF:-1 type="playlist" group-title="Películas",Comedia
-http://passionstreamingwii.myartsonline.com/Peliculas/Comedia.m3u
-
-# Cristianas
-#EXTINF:-1 type="playlist" group-title="Películas",Cristianas
-http://passionstreamingwii.myartsonline.com/Peliculas/Cristianas.m3u
-
-# Drama
-#EXTINF:-1 type="playlist" group-title="Películas",Drama
-http://passionstreamingwii.myartsonline.com/Peliculas/Drama.m3u
-
-# Documentales
-#EXTINF:-1 type="playlist" group-title="Películas",Documentales
-http://passionstreamingwii.myartsonline.com/Peliculas/Documentales.m3u
-
 # Estrenos
 #EXTINF:-1 type="playlist" group-title="Películas",Estrenos
 http://passionstreamingwii.myartsonline.com/Peliculas/Estrenos.m3u
-
-# Mexicanas
-#EXTINF:-1 type="playlist" group-title="Películas",Mexicanas
-http://passionstreamingwii.myartsonline.com/Peliculas/Mexicanas.m3u
-
-# Musical
-#EXTINF:-1 type="playlist" group-title="Películas",Musical
-http://passionstreamingwii.myartsonline.com/Peliculas/Musical.m3u
-
-# Romance
-#EXTINF:-1 type="playlist" group-title="Películas",Romance
-http://passionstreamingwii.myartsonline.com/Peliculas/Romance.m3u
-
-# Suspenso
-#EXTINF:-1 type="playlist" group-title="Películas",Suspenso
-http://passionstreamingwii.myartsonline.com/Peliculas/Suspenso.m3u
-
-# Terror
-#EXTINF:-1 type="playlist" group-title="Películas",Terror
-http://passionstreamingwii.myartsonline.com/Peliculas/Terror.m3u
 
 #EXTINF:-1 type="playlist" group-title="Películas",Peliculas Religiosas1 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/peliculas%20religiosas 
