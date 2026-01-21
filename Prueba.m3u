@@ -1,54 +1,70 @@
 #EXTM3U
 
-# Categoría: Novedades
-#EXTINF:-1 type="playlist" group-title="Novedades",Novedades en el Streaming
-http://passionstreamingwii.myartsonline.com/Novedades/news
+# Avances
+#EXTINF:-1 type="playlist" group-title="Películas",Avances
+http://passionstreamingwii.myartsonline.com/Peliculas/Avances.m3u
 
-# Categoría: Películas
-#EXTINF:-1 type="playlist" group-title="Películas",Películas
-http://passionstreamingwii.myartsonline.com/Peliculas%20A
+# Sagas
+#EXTINF:-1 type="playlist" group-title="Películas",Sagas
+http://passionstreamingwii.myartsonline.com/Peliculas/Sagas.m3u
 
-# Categoría: Series
-#EXTINF:-1 type="playlist" group-title="Series",Series
-http://passionstreamingwii.myartsonline.com/Series/series_principal.m3u
+# Acción
+#EXTINF:-1 type="playlist" group-title="Películas",Acción
+http://passionstreamingwii.myartsonline.com/Peliculas/Accion.m3u
 
-# Categoría: Series de Anime
-#EXTINF:-1 type="playlist" group-title="Series Anime",Series de Anime
-http://passionstreamingwii.myartsonline.com/Series%20de%20Anime/anime_principal.m3u
+# Animación
+#EXTINF:-1 type="playlist" group-title="Películas",Animación
+http://passionstreamingwii.myartsonline.com/Peliculas/Animacion.m3u
 
-# Categoría: Novelas
-#EXTINF:-1 type="playlist" group-title="Novelas",Novelas
-http://passionstreamingwii.myartsonline.com/Novelas
+# Anime
+#EXTINF:-1 type="playlist" group-title="Películas",Anime
+http://passionstreamingwii.myartsonline.com/Peliculas/Anime.m3u
 
-# Categoría: Doramas
-#EXTINF:-1 type="playlist" group-title="Doramas",Doramas y K-Dramas
-http://passionstreamingwii.myartsonline.com/Doramas
+# Aventura y Fantasía
+#EXTINF:-1 type="playlist" group-title="Películas",Aventura y Fantasía
+http://passionstreamingwii.myartsonline.com/Peliculas/Aventura-Fantasia.m3u
 
-# Categoría: Wii Avances
-#EXTINF:-1 type="playlist" group-title="Wii Avances",Wii Avances (Doramas)
-http://passionstreamingwii.myartsonline.com/avances/doramas
-#EXTINF:-1 type="playlist" group-title="Wii Avances",Wii Avances (Películas)
-http://passionstreamingwii.myartsonline.com/avances/peliculas
-#EXTINF:-1 type="playlist" group-title="Wii Avances",Wii Avances (Series)
-http://passionstreamingwii.myartsonline.com/avances/series
-#EXTINF:-1 type="playlist" group-title="Wii Avances",Wii Avances (Series Anime)
-http://passionstreamingwii.myartsonline.com/avances/anime
-#EXTINF:-1 type="playlist" group-title="Wii Avances",Wii Avances (Series Infantiles)
-http://passionstreamingwii.myartsonline.com/avances/infantiles
+# Ciencia ficción
+#EXTINF:-1 type="playlist" group-title="Películas",Ciencia ficción
+http://passionstreamingwii.myartsonline.com/Peliculas/Ciencia-Ficcion.m3u
 
-# Categoría: Música
-#EXTINF:-1 type="playlist" group-title="Wii Música",Wii Música
-http://passionstreamingwii.myartsonline.com/Wii%20Musica2
+# Comedia
+#EXTINF:-1 type="playlist" group-title="Películas",Comedia
+http://passionstreamingwii.myartsonline.com/Peliculas/Comedia.m3u
 
-# Categoría: Nueva Vida
-#EXTINF:-1 type="playlist" group-title="Wii Nueva Vida",Wii Nueva Vida
-http://passionstreamingwii.myartsonline.com/Wii%20Nueva%20Vida2
+# Cristianas
+#EXTINF:-1 type="playlist" group-title="Películas",Cristianas
+http://passionstreamingwii.myartsonline.com/Peliculas/Cristianas.m3u
 
-# Categoría: Studio
-#EXTINF:-1 type="playlist" group-title="Wii Studio",Wii Studio
-http://passionstreamingwii.myartsonline.com/Wii%20Studio2
+# Drama
+#EXTINF:-1 type="playlist" group-title="Películas",Drama
+http://passionstreamingwii.myartsonline.com/Peliculas/Drama.m3u
 
-# Categoría: Youtube
-#EXTINF:-1 type="playlist" group-title="Wii Youtube",Wii Youtube
-http://passionstreamingwii.myartsonline.com/Wii%20Youtube2
+# Documentales
+#EXTINF:-1 type="playlist" group-title="Películas",Documentales
+http://passionstreamingwii.myartsonline.com/Peliculas/Documentales.m3u
+
+# Estrenos
+#EXTINF:-1 type="playlist" group-title="Películas",Estrenos
+http://passionstreamingwii.myartsonline.com/Peliculas/Estrenos.m3u
+
+# Mexicanas
+#EXTINF:-1 type="playlist" group-title="Películas",Mexicanas
+http://passionstreamingwii.myartsonline.com/Peliculas/Mexicanas.m3u
+
+# Musical
+#EXTINF:-1 type="playlist" group-title="Películas",Musical
+http://passionstreamingwii.myartsonline.com/Peliculas/Musical.m3u
+
+# Romance
+#EXTINF:-1 type="playlist" group-title="Películas",Romance
+http://passionstreamingwii.myartsonline.com/Peliculas/Romance.m3u
+
+# Suspenso
+#EXTINF:-1 type="playlist" group-title="Películas",Suspenso
+http://passionstreamingwii.myartsonline.com/Peliculas/Suspenso.m3u
+
+# Terror
+#EXTINF:-1 type="playlist" group-title="Películas",Terror
+http://passionstreamingwii.myartsonline.com/Peliculas/Terror.m3u
 
