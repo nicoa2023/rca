@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",Avances
+https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/P/avances.m3u
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+
+
+
+
+
+
+
+
+
+
+
 # Animación
 #EXTINF:-1 type="playlist" group-title="Películas",Animación
 http://passionstreamingwii.myartsonline.com/Peliculas/Animacion.m3u
