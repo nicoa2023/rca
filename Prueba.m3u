@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Novedades",Novedades en el Streaming
+http://passionstreamingwii.myartsonline.com/Novedades/news
+
+#EXTINF:-1 group-title="Películas",Películas
+http://passionstreamingwii.myartsonline.com/Peliculas%20A
+
+#EXTINF:-1 group-title="Series",Series
+http://passionstreamingwii.myartsonline.com/Series
+
+#EXTINF:-1 group-title="Series Anime",Series de Anime
+http://passionstreamingwii.myartsonline.com/Series%20de%20Anime
+
+#EXTINF:-1 group-title="Novelas",Novelas
+http://passionstreamingwii.myartsonline.com/Novelas
+
+#EXTINF:-1 group-title="Doramas",Doramas y K-Dramas
+http://passionstreamingwii.myartsonline.com/Doramas
+
+#EXTINF:-1 group-title="Wii Avances",Wii Avances (Doramas)
+http://passionstreamingwii.myartsonline.com/avances/doramas
+
+#EXTINF:-1 group-title="Wii Avances",Wii Avances (Películas)
+http://passionstreamingwii.myartsonline.com/avances/peliculas
+
+#EXTINF:-1 group-title="Wii Avances",Wii Avances (Series)
+http://passionstreamingwii.myartsonline.com/avances/series
+
+#EXTINF:-1 group-title="Wii Avances",Wii Avances (Series Anime)
+http://passionstreamingwii.myartsonline.com/avances/anime
+
+#EXTINF:-1 group-title="Wii Avances",Wii Avances (Series Infantiles)
+http://passionstreamingwii.myartsonline.com/avances/infantiles
+
+#EXTINF:-1 group-title="Wii Música",Wii Música
+http://passionstreamingwii.myartsonline.com/Wii%20Musica2
+
+#EXTINF:-1 group-title="Wii Nueva Vida",Wii Nueva Vida
+http://passionstreamingwii.myartsonline.com/Wii%20Nueva%20Vida2
+
+#EXTINF:-1 group-title="Wii Studio",Wii Studio
+http://passionstreamingwii.myartsonline.com/Wii%20Studio2
+
+#EXTINF:-1 group-title="Wii Youtube",Wii Youtube
+http://passionstreamingwii.myartsonline.com/Wii%20Youtube2
+
