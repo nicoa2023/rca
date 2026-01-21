@@ -3,17 +3,6 @@
 #EXTINF:-1 type="playlist" group-title="Películas",Animación
 http://passionstreamingwii.myartsonline.com/Peliculas/Animacion.m3u
 
-# Anime
-#EXTINF:-1 type="playlist" group-title="Películas",Anime
-http://passionstreamingwii.myartsonline.com/Peliculas/Anime.m3u
-
-# Estrenos
-#EXTINF:-1 type="playlist" group-title="Películas",Estrenos
-http://passionstreamingwii.myartsonline.com/Peliculas/Estrenos.m3u
-
-#EXTINF:-1 type="playlist" group-title="Películas",Peliculas Religiosas1 
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/peliculas%20religiosas 
-
 #EXTINF:-1 type="playlist" group-title="Películas",Found Footage1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Found%20Footage 
 #EXTINF:-1 type="playlist" group-title="Películas" ,belico1 
@@ -36,7 +25,7 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Romance
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Comedia 
 #EXTINF:-1 type="playlist" group-title="Películas",Ciencia Ficción1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ciencia%20ficci%C3%B3n 
-#EXTINF:-1 type="playlist" group-title="Películas",Dc Comics1
+#EXTINF:-1 type="playlist" group-title="Películas" size="Medium ,Dc Comics1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Dc%20Comics 
 #EXTINF:-1 type="playlist" group-title="Películas",Marvel Studio1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Marvel 
