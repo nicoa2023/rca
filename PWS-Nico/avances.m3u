@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTSIZE:2
-#EXTINF:0  tvg-logo="https://image.tmdb.org/t/p/w342/mpfIHi2nT7hRGphllLz0Nz8fIFV.jpg" group-title="Películas",El otro guardaespaldas 2 (2021)
-#EXTINF:0  tvg-logo="https://image.tmdb.org/t/p/w342/d5tqn4mA6qzVpFY5J7CJN3pwzRP.jpg" group-title="Acción",Línea de fuego (1988)
 
-#EXTINF:0 type="video" group-title="Acción" size="Big" background=https://image.tmdb.org/t/p/w342/d5tqn4mA6qzVpFY5J7CJN3pwzRP.jpg,Línea de fuego (1988)
+#EXTINF:0 type="video" group-title="Acción" size="Big" background=https://image.tmdb.org/t/p/w500/d5tqn4mA6qzVpFY5J7CJN3pwzRP.jpg,Línea de fuego (1988)
 http://ia801303.us.archive.org/24/items/20220918_20220918_1952/Aprendices%20fuera%20de%20l%C3%ADnea.mp4
 #EXTINF:0 type="video" background=https://image.tmdb.org/t/p/w342/mpfIHi2nT7hRGphllLz0Nz8fIFV.jpg group-title="Acción" size="Big",El otro guardaespaldas 2 (2021)
 http://ia801303.us.archive.org/24/items/2_202209_202209/Duro%20de%20cuidar%202.mp4
