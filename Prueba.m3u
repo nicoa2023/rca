@@ -1,47 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Novedades",Novedades en el Streaming
+# Categoría: Novedades
+#EXTINF:-1 type="playlist" group-title="Novedades",Novedades en el Streaming
 http://passionstreamingwii.myartsonline.com/Novedades/news
 
-#EXTINF:-1 group-title="Películas",Películas
+# Categoría: Películas
+#EXTINF:-1 type="playlist" group-title="Películas",Películas
 http://passionstreamingwii.myartsonline.com/Peliculas%20A
 
-#EXTINF:-1 group-title="Series",Series
-http://passionstreamingwii.myartsonline.com/Series
+# Categoría: Series
+#EXTINF:-1 type="playlist" group-title="Series",Series
+http://passionstreamingwii.myartsonline.com/Series/series_principal.m3u
 
-#EXTINF:-1 group-title="Series Anime",Series de Anime
-http://passionstreamingwii.myartsonline.com/Series%20de%20Anime
+# Categoría: Series de Anime
+#EXTINF:-1 type="playlist" group-title="Series Anime",Series de Anime
+http://passionstreamingwii.myartsonline.com/Series%20de%20Anime/anime_principal.m3u
 
-#EXTINF:-1 group-title="Novelas",Novelas
+# Categoría: Novelas
+#EXTINF:-1 type="playlist" group-title="Novelas",Novelas
 http://passionstreamingwii.myartsonline.com/Novelas
 
-#EXTINF:-1 group-title="Doramas",Doramas y K-Dramas
+# Categoría: Doramas
+#EXTINF:-1 type="playlist" group-title="Doramas",Doramas y K-Dramas
 http://passionstreamingwii.myartsonline.com/Doramas
 
-#EXTINF:-1 group-title="Wii Avances",Wii Avances (Doramas)
+# Categoría: Wii Avances
+#EXTINF:-1 type="playlist" group-title="Wii Avances",Wii Avances (Doramas)
 http://passionstreamingwii.myartsonline.com/avances/doramas
-
-#EXTINF:-1 group-title="Wii Avances",Wii Avances (Películas)
+#EXTINF:-1 type="playlist" group-title="Wii Avances",Wii Avances (Películas)
 http://passionstreamingwii.myartsonline.com/avances/peliculas
-
-#EXTINF:-1 group-title="Wii Avances",Wii Avances (Series)
+#EXTINF:-1 type="playlist" group-title="Wii Avances",Wii Avances (Series)
 http://passionstreamingwii.myartsonline.com/avances/series
-
-#EXTINF:-1 group-title="Wii Avances",Wii Avances (Series Anime)
+#EXTINF:-1 type="playlist" group-title="Wii Avances",Wii Avances (Series Anime)
 http://passionstreamingwii.myartsonline.com/avances/anime
-
-#EXTINF:-1 group-title="Wii Avances",Wii Avances (Series Infantiles)
+#EXTINF:-1 type="playlist" group-title="Wii Avances",Wii Avances (Series Infantiles)
 http://passionstreamingwii.myartsonline.com/avances/infantiles
 
-#EXTINF:-1 group-title="Wii Música",Wii Música
+# Categoría: Música
+#EXTINF:-1 type="playlist" group-title="Wii Música",Wii Música
 http://passionstreamingwii.myartsonline.com/Wii%20Musica2
 
-#EXTINF:-1 group-title="Wii Nueva Vida",Wii Nueva Vida
+# Categoría: Nueva Vida
+#EXTINF:-1 type="playlist" group-title="Wii Nueva Vida",Wii Nueva Vida
 http://passionstreamingwii.myartsonline.com/Wii%20Nueva%20Vida2
 
-#EXTINF:-1 group-title="Wii Studio",Wii Studio
+# Categoría: Studio
+#EXTINF:-1 type="playlist" group-title="Wii Studio",Wii Studio
 http://passionstreamingwii.myartsonline.com/Wii%20Studio2
 
-#EXTINF:-1 group-title="Wii Youtube",Wii Youtube
+# Categoría: Youtube
+#EXTINF:-1 type="playlist" group-title="Wii Youtube",Wii Youtube
 http://passionstreamingwii.myartsonline.com/Wii%20Youtube2
 
