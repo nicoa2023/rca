@@ -4,11 +4,12 @@
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/avances.m3u
 #EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",Sagas
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/sagas/sagas.m3u
-#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
-
-#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
-
-#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",Acción 
+http://passionstreamingwii.myartsonline.com/Peliculas/Accion
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",Animación 
+http://passionstreamingwii.myartsonline.com/Peliculas/Animacion
+#EXTINF:0 tvg-logo="" type="playlist" group-title="MMovies",Anime
+http://passionstreamingwii.myartsonline.com/Peliculas/Anime
 #EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
 #EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
 #EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
