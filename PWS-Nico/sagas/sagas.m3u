@@ -1,4 +1,8 @@
-#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",Viernes 13
+#EXTINF:0 tvg-logo="" type="playlist",Viernes 13
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/sagas/viernes13.m3u
-#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",Star Wars
+#EXTINF:0 tvg-logo="" type="playlist",Star Wars
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/sagas/stw.m3u
+EXTINF:0 tvg-logo="" type="playlist",Planeta De Los Simios 
+http://passionstreamingwii.myartsonline.com/Peliculas/Files/El_Planeta_de_los_Simios.m3u
+EXTINF:0 tvg-logo="" type="playlist",Los juegos del hambre 
+http://passionstreamingwii.myartsonline.com/Colecciones/Los%20Juegos%20del%20Hambre.m3u
