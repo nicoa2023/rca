@@ -8,14 +8,33 @@ https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/sagas/s
 http://passionstreamingwii.myartsonline.com/Peliculas/Accion
 #EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",Animación 
 http://passionstreamingwii.myartsonline.com/Peliculas/Animacion
-#EXTINF:0 tvg-logo="" type="playlist" group-title="MMovies",Anime
+#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",Anime
 http://passionstreamingwii.myartsonline.com/Peliculas/Anime
-#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
-#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
-#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
-#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
-#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
-#EXTINF:0 tvg-logo="" type="playlist" group-title="Movies",
+#EXTINF:0 tvg-logo="https://bit.ly/3k5xflQ" type="playlist" group-title="Movies", Aventura-Fantasia
+http://passionstreamingwii.myartsonline.com/Peliculas/Aventura-Fantasia
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Movies", Ciencia Ficcion
+http://passionstreamingwii.myartsonline.com/Peliculas/Ciencia-Ficcion
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Movies", Comedia
+http://passionstreamingwii.myartsonline.com/Peliculas/Comedia
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Movies", Drama
+http://passionstreamingwii.myartsonline.com/Peliculas/Drama
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Movies", Documentales
+http://passionstreamingwii.myartsonline.com/Peliculas/Documentales
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Movies", Mexicanas
+http://passionstreamingwii.myartsonline.com/Peliculas/Mexicanas
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Movies", Musical
+http://passionstreamingwii.myartsonline.com/Peliculas/Musical
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Movies", Romance
+http://passionstreamingwii.myartsonline.com/Peliculas/Romance
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Movies", Suspenso
+http://passionstreamingwii.myartsonline.com/Peliculas/Suspenso
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Movies", Terror
+http://passionstreamingwii.myartsonline.com/Peliculas/Terror
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Movies", Estrenos
+http://passionstreamingwii.myartsonline.com/Peliculas/Estrenos
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIE", Doramas
+http://passionstreamingwii.myartsonline.com/Doramas
+ 
 
 
 
@@ -23,40 +42,32 @@ http://passionstreamingwii.myartsonline.com/Peliculas/Anime
 
 
 
-
-
-
-
-# Animación
-#EXTINF:-1 type="playlist" group-title="Películas",Animación
-http://passionstreamingwii.myartsonline.com/Peliculas/Animacion.m3u
-
-#EXTINF:-1 type="playlist" group-title="Películas",Found Footage1
+#EXTINF:-1 type="playlist" group-title="Movies",Found Footage1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Found%20Footage 
-#EXTINF:-1 type="playlist" group-title="Películas" ,belico1 
+#EXTINF:-1 type="playlist" group-title="Movies" ,belico1 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Belico 
-#EXTINF:-1 type="playlist" group-title="Películas",80 & 90 
+#EXTINF:-1 type="playlist" group-title="Movies",80 & 90 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pelis80y90 
-#EXTINF:-1 type="playlist" group-title="Películas",Infantiles1 
+#EXTINF:-1 type="playlist" group-title="Movies",Infantiles1 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Infantiles 
-#EXTINF:-1 type="playlist" group-title="Películas",Accion1
+#EXTINF:-1 type="playlist" group-title="Movies",Accion1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Acci%C3%B3n 
-#EXTINF:-1 type="playlist" group-title="Películas",Drama1 
+#EXTINF:-1 type="playlist" group-title="Movies",Drama1 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Drama 
-#EXTINF:-1 type="playlist" group-title="Películas",Terror1
+#EXTINF:-1 type="playlist" group-title="Movies",Terror1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Terror 
-#EXTINF:-1 type="playlist" group-title="Películas",Fantasía1 
+#EXTINF:-1 type="playlist" group-title="Movies",Fantasía1 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Fantas%C3%ADa 
-#EXTINF:-1 type="playlist" group-title="Películas",Romántica1
+#EXTINF:-1 type="playlist" group-title="Movies",Romántica1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Romance 
-#EXTINF:-1 type="playlist" group-title="Películas",Comedia1
+#EXTINF:-1 type="playlist" group-title="Movies",Comedia1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Comedia 
-#EXTINF:-1 type="playlist" group-title="Películas",Ciencia Ficción1
+#EXTINF:-1 type="playlist" group-title="Movies",Ciencia Ficción1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ciencia%20ficci%C3%B3n 
-#EXTINF:-1 type="playlist" group-title="Películas" size="Medium ,Dc Comics1
+#EXTINF:-1 type="playlist" group-title="Movies" size="Medium ,Dc Comics1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Dc%20Comics 
-#EXTINF:-1 type="playlist" group-title="Películas",Marvel Studio1
+#EXTINF:-1 type="playlist" group-title="Movies",Marvel Studio1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Marvel 
-#EXTINF:-1 type="playlist" group-title="Películas",Animación1
+#EXTINF:-1 type="playlist" group-title="Movies",Animación1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Animaci%C3%B3n
 
