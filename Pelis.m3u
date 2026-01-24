@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTSIZE:2
-#EXTINF:-1 group-title="Fantasía" tvg-logo="https://image.tmdb.org/t/p/w500/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg",La bella durmiente (1959)
+#EXTINF:-1 group-title="Movies|Fantasía" tvg-logo="https://image.tmdb.org/t/p/w500/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg",La bella durmiente (1959)
 http://bit.ly/LABELLAMOVIE
-#EXTINF:-1 group-title="Acción" tvg-logo="https://image.tmdb.org/t/p/w500/4Lv3rhwgSgnPlWaTfv6V7VHWmgC.jpg",La muerte de Superman (2007)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/4Lv3rhwgSgnPlWaTfv6V7VHWmgC.jpg",La muerte de Superman (2007)
 https://ia800809.us.archive.org/13/items/La.muerte.de.Superman./La.muerte.de.Superman..mp4
 #EXTINF:-1 group-title="Animación" tvg-logo="https://image.tmdb.org/t/p/w500/wHlxud7DzsolgvasBFt6gFHIUwP.jpg",Angry Birds: La película (2016)
 http://cecegeek@goo.gl/3KGMLf
