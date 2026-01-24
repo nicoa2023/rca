@@ -32,12 +32,12 @@ http://passionstreamingwii.myartsonline.com/Peliculas/Suspenso
 http://passionstreamingwii.myartsonline.com/Peliculas/Terror
 #EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Movies", Estrenos
 http://passionstreamingwii.myartsonline.com/Peliculas/Estrenos
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="SERIE", Doramas
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Series", Doramas
 http://passionstreamingwii.myartsonline.com/Doramas
  
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="Series",Series
 
-
-
+https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Series
 
 
 
