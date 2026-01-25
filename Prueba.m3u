@@ -71,3 +71,5 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Marvel
 #EXTINF:-1 type="playlist" group-title="Movies",Animación1
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Animaci%C3%B3n
 
+#EXTINF:-1 type="playlist" group-title="Animes",Animes
+https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/listaex.m3u
