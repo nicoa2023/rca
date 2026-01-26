@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTSIZE:2  ; Tamaño de tile mediano por defecto
+#EXTM3U    size="big"
 
 ; -----------------------------
 ; Video 1 - Alta resolución (1080p)
