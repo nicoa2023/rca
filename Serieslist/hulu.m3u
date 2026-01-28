@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTGRP:Hulu
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5gMWaPWsVkgDtCnlYi98GqaKBE8.jpg"type="playlist",ciudad cruel (2019)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/ciudad%20cruel(2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r4Qylzmk95RglrPEEzBUlWoJnDr.jpg"type="playlist",ALF (1986)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/ALF%20(1986)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zBajkGhOB2FsVVhp4uagcy5dyLn.jpg"type="playlist",La familia P. Luche (2002)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/La%20familia%20P%20Luche%20(2002)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg"type="playlist",LOS MAGNIFICOS
+https://archive.org/download/la-ninera-4/losmagn1f1cos.m3u
+
+#EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/2e5dd4d5-8c3a-4778-aacf-18b173ae3fc3_16-9-discover-aspect-ratio_default_0.jpg" type="playlist",Simuladores version argentina
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Simuladores%20argentina
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eAp25k6jHPVroZ8XXvY7BDBpLgt.jpg"type="playlist",EL CHAVO DEL 8
+http://archive.org/download/elch4v0/elch4v0.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/domina-2-1621304884.jpg"type="playlist", Domina
+https://raw.githubusercontent.com/Bvserver123/Mirepo/main/Dominae
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg" type="playlist",Twisted metal latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Twisted%20metal
