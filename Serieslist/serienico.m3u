@@ -14,8 +14,8 @@ https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Serieslist/max.m
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Serieslist/para.m3u
 #EXTINF:-1 type="playlist" group-title="Series",prime video
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Serieslist/pvid.m3u
-#EXTINF:-1 type="playlist" group-title="Series",
-
+#EXTINF:-1 type="playlist" group-title="Series",Clasicas
+https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Serieslist/classic.m3u
 #EXTINF:-1 type="playlist" group-title="Series",
 #EXTINF:-1 type="playlist" group-title="Series",
 #EXTINF:-1 type="playlist" group-title="Series",
