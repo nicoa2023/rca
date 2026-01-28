@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTGRP: Apple tv+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z2Badb3ykpO41VHtmxcChh80yWn.jpg"type="playlist",Pluribus (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Pluribus%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ay8VMsURpQOh90r9DD50M5Qf2qN.jpg"type="playlist", ladrones de drogas (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/ladrones%20de%20drogas%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hU3kyBOWzE0IaVjZjaJLtLgvGsc.jpg"type="playlist",El gran guerrero (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20gran%20guerrero%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7K1HAVNCPig4zY7uuZ71OAMsSJT.jpg"type="playlist",Government Cheese (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Government%20Cheese%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c6xRvQCL07MVNamjfVU2an600q9.jpg"type="playlist",Smoke (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Smoke%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg"type="playlist",Stick (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Stick%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1rWWgTEDFdV330aLgCoaq7I56lk.jpg"type="playlist",:Your Honor (2020)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Your%20Honor%20(2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ntZB7o2CONuXtjPctRVRsiIZvxj.jpg"type="playlist",Matabot (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Matabot%20(2025)
+#EXTINF:-1 tvg-logo="https://archive.org/download/bflix-3/Silo%20%282023%29.png"type="playlist",silo (2024)
+https://archive.org/download/bflix-3/solo2temp.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/6YUzArR2TElmGMj1HmnnfVlgunL.jpg"type="playlist",Ted Lasso (2020) Latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Ted%20Lasso
+#EXTINF:-1 tvg-logo="https://archive.org/download/mv-5-bmj-e-4-mtyy-mday-n-15-bml-5-ban-bn-xk-ft-ztyw-otu-1-mz-e-5.-v-1-uy-1200-cr-9-0-630-1200-al/MV5BMjE4MTYyMDAyN15BMl5BanBnXkFtZTYwOTU1MzE5._V1_UY1200_CR9%2C0%2C630%2C1200_AL_.jpg" type="playlist",Celebrity DeathMacth
+http://archive.org/download/c-3-l-38-riti-3/C3L38RITI3.m3u 
+#EXTINF:-1 tvg-logo="http://archive.org/download/p0r74d45_202012/resizer.jpg" type="playlist",GRIMM
+http://archive.org/download/ns_20210520/GRIMM.m3u
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/hechiceras-1598544399.jpg" type="playlist",Hechiceras (1998)
+https://archive.org/download/elch4v0/h0.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ LE TEMES A LA OCURIDAD 2019.jpg" type="playlist",LE TEMES A LA OCURIDAD 2019
+http://ia601509.us.archive.org/19/items/l-3-t-3-m-3-s-4-l-4-o-0-scurid-4-d/L3T3M3S4L4O0SCURID4D.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MANUAL DE SUPERVIVENCIA ESCOLAR DE NED.jpg" type="playlist",MANUAL DE SUPERVIVENCIA ESCOLAR DE NED
+http://archive.org/download/ns_20210520/NED.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIAJEROS EN EL TIEMPO QUANTUM LEAP.jpg" type="playlist",VIAJEROS EN EL TIEMPO QUANTUM LEAP
+http://archive.org/download/ns_20210520/viajeros%20en%20el%20tiempo.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMyMDM3MTY1M15BMl5BanBnXkFtZTgwMjQxNDIzMTE@._V1_FMjpg_UX1000_.jpg" type="playlist",ZOEY 101
+https://archive.org/download/elch4v0/ZOY1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/euEhiPzIaNfLAWf1u5xXPjyPqvi.jpg" type="playlist",Defender a Jacob (2020) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Defender%20a%20Jacob
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COMIDAS BIZARRAS.jpg" type="playlist",COMIDAS BIZARRAS
+http://archive.org/download/comida_202003/comida.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/dr4k3yj0sh.jpg" type="playlist",DRAKE & JOSH
+http://archive.org/download/ns_20210520/DRAJOS.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DROP DEAD DIVA DIVINA DELA MUERTE ESP.jpg" type="playlist",DROP DEAD DIVA DIVINA DELA MUERTE ESP
+http://archive.org/download/ns_20210520/DIVA.m3u
