@@ -16,13 +16,5 @@ https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Serieslist/para.
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Serieslist/pvid.m3u
 #EXTINF:-1 type="playlist" group-title="Series",Clasicas
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Serieslist/classic.m3u
-#EXTINF:-1 type="playlist" group-title="Series",
-#EXTINF:-1 type="playlist" group-title="Series",
-#EXTINF:-1 type="playlist" group-title="Series",
-#EXTINF:-1 type="playlist" group-title="Series",
-#EXTINF:-1 type="playlist" group-title="Series",
-#EXTINF:-1 type="playlist" group-title="Series",
-#EXTINF:-1 type="playlist" group-title="Series",
-#EXTINF:-1 type="playlist" group-title="Series",
-#EXTINF:-1 type="playlist" group-title="Series",
-#EXTINF:-1 type="playlist" group-title="Series",
+#EXTINF:-1 type="playlist" group-title="Series",Cartoons
+https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Serieslist/Cartoons.m3u
