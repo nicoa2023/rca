@@ -29,3 +29,8 @@ http://passionstreamingwii.myartsonline.com/Peliculas/Romance
 http://passionstreamingwii.myartsonline.com/Peliculas/Suspenso
 #EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x",Terror 
 http://passionstreamingwii.myartsonline.com/Peliculas/Terror
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Estrenos 
+http://passionstreamingwii.myartsonline.com/Peliculas/Estrenos
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Doramas 
+http://passionstreamingwii.myartsonline.com/Doramas
+
