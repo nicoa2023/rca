@@ -74,3 +74,5 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Animaci%C3%B3n
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/listaex.m3u
 #EXTINF:-1 type="playlist" group-title="SeriesBflix",Series
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Serieslist/serienico.m3u
+#EXTINF:-1 type="playlist" group-title="SeriesBflix",Animes
+https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Anime/Animelist.m3u
