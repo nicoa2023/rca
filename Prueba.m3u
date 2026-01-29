@@ -1,44 +1,44 @@
 #EXTM3U   type="playlist" size="medium"
-#EXTINF:0 tvg-logo=""  group-title="PassionWii",Avances
+#EXTINF:0 tvg-logo=""  group-title="PassionWii",Peliculas
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/avances.m3u
-#EXTINF:0 tvg-logo=""  group-title="PassionWii",Sagas
+#EXTINF:0 tvg-logo=""  group-title="PassionWii",Peliculas
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/sagas/sagas.m3u
-#EXTINF:0 tvg-logo=""  group-title="PassionWii",Acción 
+#EXTINF:0 tvg-logo=""  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Accion
-#EXTINF:0 tvg-logo=""  group-title="PassionWii",Animación 
+#EXTINF:0 tvg-logo=""  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Animacion
-#EXTINF:0 tvg-logo=""  group-title="PassionWii",Anime
+#EXTINF:0 tvg-logo=""  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Anime
-#EXTINF:0 tvg-logo="https://bit.ly/3k5xflQ"  group-title="PassionWii", Aventura-Fantasia
+#EXTINF:0 tvg-logo="https://bit.ly/3k5xflQ"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Aventura-Fantasia
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii", Ciencia Ficcion
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Ciencia-Ficcion
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii", Comedia
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Comedia
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii", Drama
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Drama
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii", Documentales
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Documentales
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii", Mexicanas
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Mexicanas
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii", Musical
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Musical
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii", Romance
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Romance
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii", Suspenso
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Suspenso
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii", Terror
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Terror
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii", Estrenos
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Peliculas/Estrenos
-#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii", Doramas
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Peliculas
 http://passionstreamingwii.myartsonline.com/Doramas
 #EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Series
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Series
 #EXTINF:-1  group-title="PassionWii",Animes
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/listaex.m3u
 
-#EXTINF:-1  group-title="Bflix",Animación1
+#EXTINF:-1  group-title="Bflix",Peliculas
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Serieslist/PeliBFLix.m3u
 #EXTINF:-1  group-title="Bflix",Series
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Serieslist/serienico.m3u
