@@ -1,167 +1,165 @@
 #EXTM3U   type="playlist"  size="medium"
 
-#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/146.jpg" , 11 Eyes
+#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/146.jpg" group-title="Anime", 11 Eyes
 http://passionstreamingwii.myartsonline.com/Series%20anime/11%20Eyes
-#EXTINF:-1 tvg-logo="" ,Afro Samurai
+#EXTINF:-1 tvg-logo="" group-title="Anime",Afro Samurai
 http://passionstreamingwii.myartsonline.com/Series%20anime/Afro%20Samurai
-#EXTINF:-1 tvg-logo="" ,Aggretsuko 
+#EXTINF:-1 tvg-logo="" group-title="Anime",Aggretsuko 
 http://passionstreamingwii.myartsonline.com/Series%20anime/Aggretsuko
-#EXTINF:-1 tvg-logo="" ,Angels beats
+#EXTINF:-1 tvg-logo="" group-title="Anime",Angels beats
 http://passionstreamingwii.myartsonline.com/Series%20anime/Angel%20Beats
-#EXTINF:-1 tvg-logo="" ,Angel-sanctuary
+#EXTINF:-1 tvg-logo="" group-title="Anime",Angel-sanctuary
 http://passionstreamingwii.myartsonline.com/Series%20anime/Angel%20Sanctuary
-#EXTINF:-1 tvg-logo="" ,Ano Hi Mita Hanna
+#EXTINF:-1 tvg-logo="" group-title="Anime",Ano Hi Mita Hanna
 http://passionstreamingwii.myartsonline.com/Series%20anime/Ano%20Hi%20Mita%20Hana%20no%20Namae
-#EXTINF:-1 tvg-logo="" ,Another Code
+#EXTINF:-1 tvg-logo="" group-title="Anime",Another Code
 http://passionstreamingwii.myartsonline.com/Series%20anime/another%20code
-#EXTINF:-1 tvg-logo="" ,Area No Kishi
+#EXTINF:-1 tvg-logo="" group-title="Anime",Area No Kishi
 http://passionstreamingwii.myartsonline.com/Series%20anime/Area%20No%20Kishi
-#EXTINF:-1 tvg-logo="" ,Arpeggio of Blue
+#EXTINF:-1 tvg-logo="" group-title="Anime",Arpeggio of Blue
 http://passionstreamingwii.myartsonline.com/Series%20anime/Arpeggio%20of%20Blue%20Steel
-#EXTINF:-1 tvg-logo="" ,Assesination Classroom
+#EXTINF:-1 tvg-logo="" group-title="Anime",Assesination Classroom
 http://passionstreamingwii.myartsonline.com/Series%20anime/Assassination%20Classroom
-#EXTINF:-1 tvg-logo="https://cdn.jkdesu.com/assets/images/animes/image/shingeki-no-kyojin.jpg" group-title="ANIME",Ataque a los Titanes
+#EXTINF:-1 tvg-logo="https://cdn.jkdesu.com/assets/images/animes/image/shingeki-no-kyojin.jpg" group-title="ANIME"group-title="Anime",Ataque a los Titanes
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Anime/SNK.m3u
-#EXTINF:-1 tvg-logo="" ,B't X
+#EXTINF:-1 tvg-logo="" group-title="Anime",B't X
 http://passionstreamingwii.myartsonline.com/Series%20anime/B%27t%20X
-#EXTINF:-1 tvg-logo="" ,Baccano
+#EXTINF:-1 tvg-logo="" group-title="Anime",Baccano
 http://passionstreamingwii.myartsonline.com/Series%20anime/Baccano
-#EXTINF:-1 tvg-logo="https://cdn.jkdesu.com/assets/images/animes/image/baki-2018.jpg" ,Baki (2018)
+#EXTINF:-1 tvg-logo="https://cdn.jkdesu.com/assets/images/animes/image/baki-2018.jpg" group-title="Anime",Baki (2018)
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Anime/baki.m3u
-#EXTINF:-1 tvg-logo="" ,Beastar
+#EXTINF:-1 tvg-logo="" group-title="Anime",Beastar
 http://passionstreamingwii.myartsonline.com/Series%20anime/Beastars
-#EXTINF:-1 tvg-logo="" ,Beelzebub
+#EXTINF:-1 tvg-logo="" group-title="Anime",Beelzebub
 http://passionstreamingwii.myartsonline.com/Series%20anime/Beelzebub
-#EXTINF:-1 tvg-logo="" , Berserk
+#EXTINF:-1 tvg-logo="" group-title="Anime", Berserk
 http://passionstreamingwii.myartsonline.com/Series%20anime/Berserk
 http://passionstreamingwii.myartsonline.com/Series%20anime/Beelzebub
-#EXTINF:-1 tvg-logo="https://cdn.jkdesu.com/assets/images/animes/image/black-clover-tv.jpg" ,Black clover
+#EXTINF:-1 tvg-logo="https://cdn.jkdesu.com/assets/images/animes/image/black-clover-tv.jpg" group-title="Anime",Black clover
 http://passionstreamingwii.myartsonline.com/Series%20anime/Black%20Clover
-#EXTINF:-1 tvg-logo="" ,Bleach
+#EXTINF:-1 tvg-logo="" group-title="Anime",Bleach
 http://passionstreamingwii.myartsonline.com/Series%20anime/Bleach
-#EXTINF:-1 tvg-logo="" ,Blue Lock
+#EXTINF:-1 tvg-logo="" group-title="Anime",Blue Lock
 http://passionstreamingwii.myartsonline.com/Series%20anime/Bluelock
-#EXTINF:-1 tvg-logo="" , Bojack Boserman
+#EXTINF:-1 tvg-logo="" group-title="Anime", Bojack Boserman
 http://passionstreamingwii.myartsonline.com/Series%20anime/BoJack%20Horseman
-#EXTINF:-1 tvg-logo="" , Boruto
+#EXTINF:-1 tvg-logo="" group-title="Anime", Boruto
 http://passionstreamingwii.myartsonline.com/Series%20anime/Boruto
-#EXTINF:-1 tvg-logo="" ,BTOOOM!
+#EXTINF:-1 tvg-logo="" group-title="Anime",BTOOOM!
 http://passionstreamingwii.myartsonline.com/Series%20anime/Btooom%21
-#EXTINF:-1 tvg-logo="" , Castlevania: Nocturno
+#EXTINF:-1 tvg-logo="" group-title="Anime", Castlevania: Nocturno
 http://passionstreamingwii.myartsonline.com/Series%20A/Castlevania-Nocturno.m3u
-#EXTINF:-1 tvg-logo="" ,Chainsaw Man
+#EXTINF:-1 tvg-logo="" group-title="Anime"group-title="Anime",Chainsaw Man
 http://passionstreamingwii.myartsonline.com/Series%20anime/Chainsaw%20Man
-#EXTINF:-1  tvg-logo="" group-title="Classroom of the Elite",Temporada 1
-http://passionstreamingwii.myartsonline.com/Series%20anime/Classroom%20of%20the%20%C3%89lite%20A/Temporada%201
-#EXTINF:-1 tvg-logo="" group-title="Classroom of the Elite",,Temporada 2
-http://passionstreamingwii.myartsonline.com/Series%20anime/Classroom%20of%20the%20%C3%89lite%20A/Temporada%202
-#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/148.jpg" , Chobits
+#EXTINF:-1 tvg-logo="" group-title="Anime"group-title="Anime",Classroom of the Elite
+https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/ClassroomoftheElite.m3u
+#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/148.jpg" group-title="Anime", Chobits
 http://passionstreamingwii.myartsonline.com/Series%20anime/Chobits
-#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/2866.jpg" , Citrus
+#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/2866.jpg" group-title="Anime", Citrus
 http://passionstreamingwii.myartsonline.com/Series%20anime/Citrus
-#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/26.jpg" , Clannad Season 1
+#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/26.jpg" group-title="Anime", Clannad Season 1
 http://passionstreamingwii.myartsonline.com/Series%20anime/Clannad%20A/Temp%201
-#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/28.jpg" , Claymore
+#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/28.jpg" group-title="Anime", Claymore
 http://passionstreamingwii.myartsonline.com/Series%20anime/Claymore
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbE3DquTQGIPr37FDX__2l6wLSmokGLqxRHzgaECE9JA&s" , Conan el niño del futuro
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbE3DquTQGIPr37FDX__2l6wLSmokGLqxRHzgaECE9JA&s" group-title="Anime", Conan el niño del futuro
 http://passionstreamingwii.myartsonline.com/Series%20anime/Conan%20El%20ni%C3%B1o%20del%20Futuro
-#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/284.jpg" , Cowboy Bebop
+#EXTINF:-1 tvg-logo="https://www3.animeflv.net/uploads/animes/covers/284.jpg" group-title="Anime", Cowboy Bebop
 http://passionstreamingwii.myartsonline.com/Series%20anime/Cowboy%20Bebop
-#EXTINF:-1 tvg-logo="" , Dangan Ropa The Animation
+#EXTINF:-1 tvg-logo="" group-title="Anime", Dangan Ropa The Animation
 http://passionstreamingwii.myartsonline.com/Series%20anime/Danganronpa%3A%20The%20Animation
-#EXTINF:-1 tvg-logo="" , Deadman Wonderland
+#EXTINF:-1 tvg-logo="" group-title="Anime", Deadman Wonderland
 http://passionstreamingwii.myartsonline.com/Series%20anime/Deadman%20Wonderland
-#EXTINF:-1 tvg-logo="" , El Irresponsable Capitan Tylor
+#EXTINF:-1 tvg-logo="" group-title="Anime", El Irresponsable Capitan Tylor
 http://passionstreamingwii.myartsonline.com/Series%20anime/El%20Irresponsable%20Capitan%20Tylor
-#EXTINF:-1 tvg-logo="" , Erased
+#EXTINF:-1 tvg-logo="" group-title="Anime", Erased
 http://passionstreamingwii.myartsonline.com/Series%20anime/Erased
-#EXTINF:-1 tvg-logo="" , HOKUTO NO KEN
+#EXTINF:-1 tvg-logo="" group-title="Anime", HOKUTO NO KEN
 http://passionstreamingwii.myartsonline.com/Series%20anime/Hokuto%20no%20Ken
-#EXTINF:-1 tvg-logo="" , Ijiranaide, Nagatoro-san
+#EXTINF:-1 tvg-logo="" group-title="Anime", Ijiranaidegroup-title="Anime", Nagatoro-san
 http://passionstreamingwii.myartsonline.com/Series%20anime/Ijiranaide%2C%20Nagatoro-san
-#EXTINF:-1 tvg-logo="" , INAZUMA ELEVEN (SUPER ONCE)
+#EXTINF:-1 tvg-logo="" group-title="Anime", INAZUMA ELEVEN (SUPER ONCE)
 http://passionstreamingwii.myartsonline.com/Series%20anime/INAZUMA%20ELEVEN%20%28SUPER%20ONCE%29
-#EXTINF:-1 tvg-logo="" , Invasion de Altura
+#EXTINF:-1 tvg-logo="" group-title="Anime", Invasion de Altura
 http://passionstreamingwii.myartsonline.com/Series%20anime/Invasion%20de%20Altura
-#EXTINF:-1 tvg-logo="" , Jibaku ShÅnen Hanako-kun
+#EXTINF:-1 tvg-logo="" group-title="Anime", Jibaku ShÅnen Hanako-kun
 http://passionstreamingwii.myartsonline.com/Series%20anime/Jibaku%20Sh%C5%8Dnen%20Hanako-kun
-#EXTINF:-1 tvg-logo="" , K-On!
+#EXTINF:-1 tvg-logo="" group-title="Anime", K-On!
 http://passionstreamingwii.myartsonline.com/Series%20anime/K-On%21
-#EXTINF:-1 tvg-logo="" , Kanon
+#EXTINF:-1 tvg-logo="" group-title="Anime", Kanon
 http://passionstreamingwii.myartsonline.com/Series%20anime/Kanon
-#EXTINF:-1 tvg-logo="" , Kidou Senkan Nadesico
+#EXTINF:-1 tvg-logo="" group-title="Anime", Kidou Senkan Nadesico
 http://passionstreamingwii.myartsonline.com/Series%20anime/Kidou%20Senkan%20Nadesico
-#EXTINF:-1 tvg-logo="" , Kinsou no Vermeil (Sub)
+#EXTINF:-1 tvg-logo="" group-title="Anime", Kinsou no Vermeil (Sub)
 http://passionstreamingwii.myartsonline.com/Series%20anime/Kinsou-no-Vermeil
-#EXTINF:-1 tvg-logo="" , LITTLE WITCH ACADEMIA
+#EXTINF:-1 tvg-logo="" group-title="Anime", LITTLE WITCH ACADEMIA
 http://passionstreamingwii.myartsonline.com/Series%20anime/Little%20Witch%20Academia
-#EXTINF:-1 tvg-logo="" , KIRBY
+#EXTINF:-1 tvg-logo="" group-title="Anime", KIRBY
 http://passionstreamingwii.myartsonline.com/Series%20anime/KIRBY
-#EXTINF:-1 tvg-logo="" , Los Caballeros del Zodiaco
+#EXTINF:-1 tvg-logo="" group-title="Anime", Los Caballeros del Zodiaco
 http://passionstreamingwii.myartsonline.com/Series%20anime/Los%20Caballeros%20del%20Zodiaco
-#EXTINF:-1 tvg-logo="" , Los Caballeros del Zodiaco: La Saga de Hades
+#EXTINF:-1 tvg-logo="" group-title="Anime", Los Caballeros del Zodiaco: La Saga de Hades
 http://passionstreamingwii.myartsonline.com/Series%20anime/Los%20Caballeros%20del%20Zodiaco%20Saga%20de%20Hares
-#EXTINF:-1 tvg-logo="" , Lycoris Recoil
+#EXTINF:-1 tvg-logo="" group-title="Anime", Lycoris Recoil
 http://passionstreamingwii.myartsonline.com/Series%20anime/Lycoris%20Recoil
-#EXTINF:-1 tvg-logo="" ,Madoka Magica 
+#EXTINF:-1 tvg-logo="" group-title="Anime",Madoka Magica 
 http://passionstreamingwii.myartsonline.com/Series%20anime/Madoka%20Magica
-#EXTINF:-1 tvg-logo="" ,Monster Hunter Stories: Ride On
+#EXTINF:-1 tvg-logo="" group-title="Anime",Monster Hunter Stories: Ride On
 http://passionstreamingwii.myartsonline.com/Series%20anime/Monster%20Hunter%20Stories%3A%20Ride%20On
-#EXTINF:-1 tvg-logo="" ,Nichijo 
+#EXTINF:-1 tvg-logo="" group-title="Anime",Nichijo 
 http://passionstreamingwii.myartsonline.com/Series%20anime/Nichijo
-#EXTINF:-1 tvg-logo="" , NARUTO SHIPPUDEN
+#EXTINF:-1 tvg-logo="" group-title="Anime", NARUTO SHIPPUDEN
 http://passionstreamingwii.myartsonline.com/Series%20anime/Naruto%3A%20Shippuden
-#EXTINF:-1 tvg-logo="" , OCCULTIC-NINE
+#EXTINF:-1 tvg-logo="" group-title="Anime", OCCULTIC-NINE
 http://passionstreamingwii.myartsonline.com/Series%20anime/Occultic%3BNine
-#EXTINF:-1 tvg-logo="" ,ONE PIECE 
+#EXTINF:-1 tvg-logo="" group-title="Anime",ONE PIECE 
 http://passionstreamingwii.myartsonline.com/Series%20anime/One%20Piece
-#EXTINF:-1 tvg-logo="" ,PLANET SURVIVAL
+#EXTINF:-1 tvg-logo="" group-title="Anime",PLANET SURVIVAL
 http://passionstreamingwii.myartsonline.com/Series%20anime/PLANET%20SURVIVAL
-#EXTINF:-1 tvg-logo="" , RAVE MASTER
+#EXTINF:-1 tvg-logo="" group-title="Anime", RAVE MASTER
 http://passionstreamingwii.myartsonline.com/Series%20anime/RAVE%20MASTER
-#EXTINF:-1 tvg-logo="" , RE-MAIN
+#EXTINF:-1 tvg-logo="" group-title="Anime", RE-MAIN
 http://passionstreamingwii.myartsonline.com/Series%20anime/RE-MAIN
-#EXTINF:-1 tvg-logo="" , Roku de Nashi Majutsu Kōshi to Akashic Records
+#EXTINF:-1 tvg-logo="" group-title="Anime", Roku de Nashi Majutsu Kōshi to Akashic Records
 http://passionstreamingwii.myartsonline.com/Series%20anime/Roku%20de%20Nashi%20Majutsu%20K%C5%8Dshi%20to%20Akashic%20Records
-#EXTINF:-1 tvg-logo="" , SAGA OF TANYA THE EVIL
+#EXTINF:-1 tvg-logo="" group-title="Anime", SAGA OF TANYA THE EVIL
 http://passionstreamingwii.myartsonline.com/Series%20anime/SAGA%20OF%20TANYA%20THE%20EVIL
-#EXTINF:-1 tvg-logo="" , Serial Experiments Lain
+#EXTINF:-1 tvg-logo="" group-title="Anime", Serial Experiments Lain
 http://passionstreamingwii.myartsonline.com/Series%20anime/Serial-Experiments-Lain.m3u
-#EXTINF:-1 tvg-logo="" , SLAM DUNK
+#EXTINF:-1 tvg-logo="" group-title="Anime", SLAM DUNK
 http://passionstreamingwii.myartsonline.com/Series%20anime/SLAM%20DUNK
-#EXTINF:-1 tvg-logo="" , SOUL HUNTER (HÅshin Engi)
+#EXTINF:-1 tvg-logo="" group-title="Anime", SOUL HUNTER (HÅshin Engi)
 http://passionstreamingwii.myartsonline.com/Series%20anime/SOUL%20HUNTER%20%28H%C5%8Dshin%20Engi%29
-#EXTINF:-1 tvg-logo="" , Spy Family T 2
+#EXTINF:-1 tvg-logo="" group-title="Anime", Spy Family T 2
 http://passionstreamingwii.myartsonline.com/Series%20anime/Spy%20%C3%97%20Family_/T2-480.m3u
-#EXTINF:-1 tvg-logo="" , STEINS GATE
+#EXTINF:-1 tvg-logo="" group-title="Anime", STEINS GATE
 http://passionstreamingwii.myartsonline.com/Series%20anime/STEINS%20GATE
-#EXTINF:-1 tvg-logo="" , Super campeones 2002
+#EXTINF:-1 tvg-logo="" group-title="Anime", Super campeones 2002
 http://passionstreamingwii.myartsonline.com/Series%20anime/Super%20Campeones%20Rumbo%20al%20%20Mundial%202002
-#EXTINF:-1 tvg-logo="" , Tantei wa Mou, Shindeiru
+#EXTINF:-1 tvg-logo="" group-title="Anime", Tantei wa Mougroup-title="Anime", Shindeiru
 http://passionstreamingwii.myartsonline.com/Series%20anime/Tantei%20wa%20Mou%2C%20Shindeiru
-#EXTINF:-1 tvg-logo="" ,TenkÅ« no Escaflowne 
+#EXTINF:-1 tvg-logo="" group-title="Anime",TenkÅ« no Escaflowne 
 http://passionstreamingwii.myartsonline.com/Series%20anime/Tenk%C5%AB%20no%20Escaflowne
-#EXTINF:-1 tvg-logo="" , TEXHNOLYZE
+#EXTINF:-1 tvg-logo="" group-title="Anime", TEXHNOLYZE
 http://passionstreamingwii.myartsonline.com/Series%20anime/TEXHNOLYZE
-#EXTINF:-1 tvg-logo="" ,TORADORA
+#EXTINF:-1 tvg-logo="" group-title="Anime",TORADORA
 http://passionstreamingwii.myartsonline.com/Series%20anime/TORADORA
-#EXTINF:-1 tvg-logo="" , TRIGUN
+#EXTINF:-1 tvg-logo="" group-title="Anime", TRIGUN
 http://passionstreamingwii.myartsonline.com/Series%20anime/TRIGUN
-#EXTINF:-1 tvg-logo="" , Tsurezure Children
+#EXTINF:-1 tvg-logo="" group-title="Anime", Tsurezure Children
 http://passionstreamingwii.myartsonline.com/Series%20anime/Tsurezure%20Children
-#EXTINF:-1 tvg-logo="" , UNCHARTED WALKER
+#EXTINF:-1 tvg-logo="" group-title="Anime", UNCHARTED WALKER
 http://passionstreamingwii.myartsonline.com/Series%20anime/UNCHARTED%20WALKER
-#EXTINF:-1 tvg-logo="" , Uzaki-chan wa Asobitai!
+#EXTINF:-1 tvg-logo="" group-title="Anime", Uzaki-chan wa Asobitai!
 http://passionstreamingwii.myartsonline.com/Series%20anime/Uzaki-chan%20wa%20Asobitai%21%20
-#EXTINF:-1 tvg-logo="" , WELCOME TO THE NHK
+#EXTINF:-1 tvg-logo="" group-title="Anime", WELCOME TO THE NHK
 http://passionstreamingwii.myartsonline.com/Series%20anime/WELCOME%20TO%20THE%20NHK
-#EXTINF:-1 tvg-logo="" , WITCHBLADE
+#EXTINF:-1 tvg-logo="" group-title="Anime", WITCHBLADE
 http://passionstreamingwii.myartsonline.com/Series%20anime/WITCHBLADE
-#EXTINF:-1 tvg-logo="" , WOTAKOI
+#EXTINF:-1 tvg-logo="" group-title="Anime", WOTAKOI
 http://passionstreamingwii.myartsonline.com/Series%20anime/Wotakoi
-#EXTINF:-1 tvg-logo="" ,YAGATE KIMI NI NARU
+#EXTINF:-1 tvg-logo="" group-title="Anime",YAGATE KIMI NI NARU
 http://passionstreamingwii.myartsonline.com/Series%20anime/YAGATE%20KIMI%20NI%20NARU
-#EXTINF:-1 tvg-logo="" , Zero
+#EXTINF:-1 tvg-logo="" group-title="Anime", Zero
 http://passionstreamingwii.myartsonline.com/Series%20anime/zero
 
 
