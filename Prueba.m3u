@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo=""  group-title="PassionWii",Peliculas
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/Pws-peli.m3u
 #EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Series
-https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/Series
+https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/Series
 #EXTINF:-1  group-title="PassionWii",Animes
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/listaex.m3u
 
