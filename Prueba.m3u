@@ -3,6 +3,8 @@
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/Pws-peli.m3u
 #EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",Series
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/Series
+#EXTINF:0 tvg-logo="https://bit.ly/3EjQq4x"  group-title="PassionWii",SeriesPueba
+https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/serieprueba.m3u
 #EXTINF:-1  group-title="PassionWii",Animes
 https://raw.githubusercontent.com/nicoa2023/rca/refs/heads/main/PWS-Nico/animext.m3u
 
