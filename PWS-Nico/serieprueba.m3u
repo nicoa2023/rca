@@ -1,358 +1,332 @@
 #EXTM3U  type="playlist" size="medium"
 
-#EXTINF:-1 ,¿GUAU QUE AMIGO?
-http://passionstreamingwii.myartsonline.com/Series%20A/%C2%A1Guau%2C%20qu%C3%A9%20amigo%21
-#EXTINF:-1 ,¿Qué Pasaría si...?
-http://passionstreamingwii.myartsonline.com/Series%20A/Que-pasaria-si....m3u
-#EXTINF:-1 ,31 Minutos
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/rI0hXEJFcgRaigCWGEuqEXQvOjY.jpg" ,31 Minutos (2003)
 http://passionstreamingwii.myartsonline.com/Series%20A/31%20Minutos
-#EXTINF:-1 ,Agencia Lockwood
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7hjTTn3tvOswHvWBQjpuJBENrvB.jpg" ,Agencia Lockwood (2023)
 http://passionstreamingwii.myartsonline.com/Series%20A/Agencia%20Lockwood
-#EXTINF:-1 ,Agente Carter
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/scZsg0rfAyH8ADphzrdhgo5jAXd.jpg" ,Agente Carter (2015)
 http://passionstreamingwii.myartsonline.com/Series%20A/Agente-Carter.m3u
-#EXTINF:-1 ,Agentes de S.H.I.E.L.D.
-http://passionstreamingwii.myartsonline.com/Series%20A/Agentes-de-SHIELD.m3u
-#EXTINF:-1 ,Agentes de S.H.I.E.L.D.: Slingshot (Sub)
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/bwJej7WdmGRMCMyuDlotwAqVX7S.jpg" ,Agentes de S.H.I.E.L.D.: Slingshot (2016) (Sub)
 http://passionstreamingwii.myartsonline.com/Series%20A/Agentes-de-SHIELD-Slingshot.m3u
-#EXTINF:-1 ,Ahsoka
-http://passionstreamingwii.myartsonline.com/Series%20A/Ahsoka.m3u
-#EXTINF:-1 ,ALF
-http://passionstreamingwii.myartsonline.com/Series%20A/Alf
-#EXTINF:-1 ,American Dad
-http://passionstreamingwii.myartsonline.com/Series%20A/American%20Dad
-#EXTINF:-1 ,AMERICAN HORROR HISTORY
-http://passionstreamingwii.myartsonline.com/Series%20A/American%20Horror%20History
-#EXTINF:-1 ,Andor
-http://passionstreamingwii.myartsonline.com/Series%20A/Andor.m3u
-#EXTINF:-1 ,ANDY MACK
-http://passionstreamingwii.myartsonline.com/Series%20A/Andi%20Mack
-#EXTINF:-1 ,Años Maravillosos
-http://passionstreamingwii.myartsonline.com/Series%20A/A%C3%B1os%20Maravillosos
-#EXTINF:-1 ,APARI3NCIAS
-http://passionstreamingwii.myartsonline.com/Series%20A/APARI3NCIAS
-#EXTINF:-1 ,Arcane
-http://passionstreamingwii.myartsonline.com/Series%20A/Arcane/T1.m3u
-#EXTINF:-1 ,Arrow
-http://passionstreamingwii.myartsonline.com/Series%20A/Arrow.m3u
-#EXTINF:-1 ,Batwoman
-http://passionstreamingwii.myartsonline.com/Series%20A/Batwoman.m3u
-#EXTINF:-1 ,Bebé Reno
-http://passionstreamingwii.myartsonline.com/Series%20A/BebeReno.m3u
-#EXTINF:-1 ,BETTER CALL SAUL
-http://passionstreamingwii.myartsonline.com/Series%20A/BETTER%20CALL%20SAUL
-#EXTINF:-1 ,Betty la Fea: La Historia Continúa
-http://passionstreamingwii.myartsonline.com/Series%20A/Betty%20la%20Fea%202.m3u
-#EXTINF:-1 ,Black Lightning
-http://passionstreamingwii.myartsonline.com/Series%20A/Black%20Lightning.m3u
-#EXTINF:-1 ,BLACK SUMMER
-http://passionstreamingwii.myartsonline.com/Series%20A/BLACK%20SUMMER
-#EXTINF:-1 ,BOJACK HORSEMAN
-http://passionstreamingwii.myartsonline.com/Series%20A/BOJACK%20HORSEMAN
-#EXTINF:-1 ,BREAKING BAD (Lat/Ing)
-http://passionstreamingwii.myartsonline.com/Series%20A/Breaking%20Bad.m3u
-#EXTINF:-1 ,CAMPAMENTO DE VERANO
-http://passionstreamingwii.myartsonline.com/Series%20A/CAMPAMENTO%20DE%20VERANO
-#EXTINF:-1 ,Ciencia Traviesa
-http://passionstreamingwii.myartsonline.com/Series%20A/Ciencia%20Traviesa.m3u
-#EXTINF:-1 ,Cloak & Dagger
-http://passionstreamingwii.myartsonline.com/Series%20A/Cloak-Dagger.m3u
-#EXTINF:-1 ,Close Enough
-http://passionstreamingwii.myartsonline.com/Series%20A/Close%20Enough
-#EXTINF:-1 ,Club de Cuervos
-http://passionstreamingwii.myartsonline.com/Series%20A/Club%20de%20Cuervos
-#EXTINF:-1 ,COBRA KAI
-http://passionstreamingwii.myartsonline.com/Series%20A/Cobra%20Kai
-#EXTINF:-1 ,Comando de Criaturas
-http://passionstreamingwii.myartsonline.com/Series%20A/Creature%20Commandos/T1.m3u
-#EXTINF:-1 ,Como Agua Para Chocolate (2024) (Lat/Ing)
-http://passionstreamingwii.myartsonline.com/Series%20A/Como%20Agua%20Para%20Chocolate%20T1.m3u
-#EXTINF:-1 ,Constantine
-http://passionstreamingwii.myartsonline.com/Series%20A/Constantine.m3u
-#EXTINF:-1 ,CUMBIA NINJA
-http://passionstreamingwii.myartsonline.com/Series%20A/Cumbia%20Ninja
-#EXTINF:-1 ,cyber punk 2022
-http://passionstreamingwii.myartsonline.com/Series%20A/cyberpunk2022
-#EXTINF:-1 ,cyber punk 2022 opc2
-http://passionstreamingwii.myartsonline.com/Series%20A/cyberpunk
-#EXTINF:-1 ,Daredevil
-http://passionstreamingwii.myartsonline.com/Series%20A/Daredevil.m3u
-#EXTINF:-1 ,Dark
-http://passionstreamingwii.myartsonline.com/Series%20A/Dark
-#EXTINF:-1 ,Dawson's Creek
-http://passionstreamingwii.myartsonline.com/Series%20A/Dawson%27s%20Creek
-#EXTINF:-1 ,DAYBREAK
-http://passionstreamingwii.myartsonline.com/Series%20A/Daybreak
-#EXTINF:-1 ,DE VIAJE CON LOS DERVEZ
-http://passionstreamingwii.myartsonline.com/Series%20A/DE%20VIAJE%20CON%20LOS%20DERVEZ
-#EXTINF:-1 ,Dexter
-http://passionstreamingwii.myartsonline.com/Series%20A/Dexter
-#EXTINF:-1 ,Doom Patrol
-http://passionstreamingwii.myartsonline.com/Series%20A/Doom%20Patrol.m3u
-#EXTINF:-1 ,DR HOUSE
-http://passionstreamingwii.myartsonline.com/Series%20A/Dr.%20House
-#EXTINF:-1 ,DR. Stone
-http://passionstreamingwii.myartsonline.com/Series%20A/Dr.%20Stone
-#EXTINF:-1 ,DRAKE&JOSH
-http://passionstreamingwii.myartsonline.com/Series%20A/Drake%20y%20Josh
-#EXTINF:-1 ,DROP DEAD DIVA
-http://passionstreamingwii.myartsonline.com/Series%20A/DROP%20DEAD%20DIVA
-#EXTINF:-1 ,El Buen Doctor
-http://passionstreamingwii.myartsonline.com/Series%20A/El%20Buen%20Doctor
-#EXTINF:-1 ,El Juego del Calamar (Lat/Cor/Ing)
-http://passionstreamingwii.myartsonline.com/Series%20A/El%20Juego%20del%20Calamar.m3u
-#EXTINF:-1 ,El Juego del Calamar: El Desafío
-http://passionstreamingwii.myartsonline.com/Series%20A/El-Juego-del-Calamar-El-Desafio.m3u
-#EXTINF:-1 ,El Libro De Boba Fett
-http://passionstreamingwii.myartsonline.com/Series%20A/El%20Libro%20de%20Boba%20Fett
-#EXTINF:-1 ,EL MANDALORIANO
-http://passionstreamingwii.myartsonline.com/Series%20A/EL%20MANDALORIANO
-#EXTINF:-1 ,EL MANDALORIANO (Opc. 2)
-http://passionstreamingwii.myartsonline.com/Series%20A/The%20Mandalorian.m3u
-#EXTINF:-1 ,EL Problema de los 3 Cuerpos (Lat/Ing)
-http://passionstreamingwii.myartsonline.com/Series%20A/El%20Problema%20de%20los%203%20Cuerpos.m3u
-#EXTINF:-1 ,EL ROBO DEL SIGLO
-http://passionstreamingwii.myartsonline.com/Series%20A/EL%20ROBO%20DEL%20SIGLO
-#EXTINF:-1 ,El Señor de los Anillos: Los Anillos de Poder
-http://passionstreamingwii.myartsonline.com/Series%20A/El%20Se%C3%B1or%20de%20los%20anillos
-#EXTINF:-1 ,Escort Boys (2023) (Lat/Fra)
-http://passionstreamingwii.myartsonline.com/Series%20A/Escort%20Boys.m3u
-#EXTINF:-1 ,Esta Mierda Me Supera
-http://passionstreamingwii.myartsonline.com/Series%20A/Esta%20Mierda%20Me%20Supera
-#EXTINF:-1 ,Falcon y el Soldado del Invierno
-http://passionstreamingwii.myartsonline.com/Series%20A/Falcon-y-el-soldado-del-invierno.m3u
-#EXTINF:-1 ,Final Space
-http://passionstreamingwii.myartsonline.com/Series%20A/Final%20Space
-#EXTINF:-1 ,Flash
-http://passionstreamingwii.myartsonline.com/Series%20A/Flash.m3u
-#EXTINF:-1 ,Forever
-http://passionstreamingwii.myartsonline.com/Series%20A/Forever
-#EXTINF:-1 ,Gambito De Dama
-http://passionstreamingwii.myartsonline.com/Series%20A/Gambito%20De%20Dama
-#EXTINF:-1 ,Genesis (la Biblia)
-http://passionstreamingwii.myartsonline.com/Series%20A/genesis
-#EXTINF:-1 ,Good Omens
-http://passionstreamingwii.myartsonline.com/Series%20A/Good%20Omens
-#EXTINF:-1 ,Gotham
-http://passionstreamingwii.myartsonline.com/Series%20A/Gotham
-#EXTINF:-1 ,Gravity Falls
-http://passionstreamingwii.myartsonline.com/Series%20A/Gravity%20Falls
-#EXTINF:-1 ,Grimm
-http://passionstreamingwii.myartsonline.com/Series%20A/Grimm
-#EXTINF:-1 ,Gudetama
-http://passionstreamingwii.myartsonline.com/Series%20Infantiles%20A/Gudetama.m3u
-#EXTINF:-1 ,Happy Tree Friends
-http://passionstreamingwii.myartsonline.com/Series%20A/HTF
-#EXTINF:-1 ,Hawkeye
-http://passionstreamingwii.myartsonline.com/Series%20A/Hawkeye.m3u
-#EXTINF:-1 ,Heartstopper
-http://passionstreamingwii.myartsonline.com/Series%20A/Heartstopper
-#EXTINF:-1 ,Hechizeros De Weberly Blade
-http://passionstreamingwii.myartsonline.com/Series%20A/Hechizeros%20de%20Werbely%20Blade
-#EXTINF:-1 ,Helstrom
-http://passionstreamingwii.myartsonline.com/Series%20A/Helstrom.m3u
-#EXTINF:-1 ,Heroes
-http://passionstreamingwii.myartsonline.com/Series%20A/Heroes
-#EXTINF:-1 ,HIGH SCORE
-http://passionstreamingwii.myartsonline.com/Series%20A/HIGH%20SCORE
-#EXTINF:-1 ,Hit-Monkey
-http://passionstreamingwii.myartsonline.com/Series%20A/Hit-Monkey.m3u
-#EXTINF:-1 ,Hora de Aventura con Fionna & Cake
-http://passionstreamingwii.myartsonline.com/Series%20A/Fionna_Cake.m3u
-#EXTINF:-1 ,HOW I MET YOUR MOTHER (COMO CONOCI A TU MADRE)
-http://passionstreamingwii.myartsonline.com/Series%20A/HOW%20I%20MET%20YOUR%20MOTHER%20%28COMO%20CONOCI%20A%20TU%20MADRE%29
-#EXTINF:-1 ,Inhumans
-http://passionstreamingwii.myartsonline.com/Series%20A/Inhumans.m3u
-#EXTINF:-1 ,Invasión Secreta
-http://passionstreamingwii.myartsonline.com/Series%20A/Secret-Invasion.m3u
-#EXTINF:-1 ,Invencible
-http://passionstreamingwii.myartsonline.com/Series%20A/Invencible.m3u
-#EXTINF:-1 ,Iron Fist
-http://passionstreamingwii.myartsonline.com/Series%20A/Iron-Fist.m3u
-#EXTINF:-1 ,Ironheart
-http://passionstreamingwii.myartsonline.com/Series%20A/Ironheart.m3u
-#EXTINF:-1 ,It: Bienvenidos a Derry
-http://passionstreamingwii.myartsonline.com/Series%20A/It%20-%20Bienvenidos%20a%20Derry.m3u
-#EXTINF:-1 ,Jack Ryan
-http://passionstreamingwii.myartsonline.com/Series%20A/Jack%20Ryan
-#EXTINF:-1 ,Jessica Jones
-http://passionstreamingwii.myartsonline.com/Series%20A/Jessica-Jones.m3u
-#EXTINF:-1 ,KINGS AVATAR
-http://passionstreamingwii.myartsonline.com/Series%20A/KINGS%20AVATAR
-#EXTINF:-1 ,Knuckles (Lat/Ing)
-http://passionstreamingwii.myartsonline.com/Series%20A/Knuckles.m3u
-#EXTINF:-1 ,LA CASA DE LAS FLORES
-http://passionstreamingwii.myartsonline.com/Series%20A/La%20Casa%20de%20Las%20Flores
-#EXTINF:-1 ,LA CASA DE LOS DIBUJOS
-http://passionstreamingwii.myartsonline.com/Series%20A/La%20Casa%20de%20Los%20Dibujos
-#EXTINF:-1 ,La Casa de Papel
-http://passionstreamingwii.myartsonline.com/Series%20A/La%20Casa%20de%20Papel
-#EXTINF:-1 ,La Casa Del Dragón
-http://passionstreamingwii.myartsonline.com/Series%20A/La%20Casa%20Del%20Drag%C3%B3n
-#EXTINF:-1 ,LA CQ
-http://passionstreamingwii.myartsonline.com/Series%20A/La%20CQ
-#EXTINF:-1 ,La Dimension Desconocida
-http://passionstreamingwii.myartsonline.com/Series%20A/La%20dimensi%C3%B3n%20desconocida
-#EXTINF:-1 ,La Familia Peluche
-http://passionstreamingwii.myartsonline.com/Series%20A/La%20Familia%20Peluche
-#EXTINF:-1 ,La Purga
-http://passionstreamingwii.myartsonline.com/Series%20A/La%20Purga
-#EXTINF:-1 ,La Reina Charlotte: Una Historia de Bridgerton
-http://passionstreamingwii.myartsonline.com/Series%20A/La_Reina_Charlotte.m3u
-#EXTINF:-1 ,Las Brujas de Mayfair
-http://passionstreamingwii.myartsonline.com/Series%20A/Las-Brujas-de-Mayfair-T1.m3u
-#EXTINF:-1 ,Las Muertas
-http://passionstreamingwii.myartsonline.com/Series%20A/Las%20Muertas.m3u
-#EXTINF:-1 ,LE TEMES A LA OBSCURIDAD
-http://passionstreamingwii.myartsonline.com/Series%20A/LE%20TEMES%20A%20LA%20OBSCURIDAD
-#EXTINF:-1 ,Legion
-http://passionstreamingwii.myartsonline.com/Series%20A/Legion.m3u
-#EXTINF:-1 ,Leyendas del Mañana
-http://passionstreamingwii.myartsonline.com/Series%20A/Leyendas%20del%20Ma%C3%B1ana.m3u
-#EXTINF:-1 ,Loki
-http://passionstreamingwii.myartsonline.com/Series%20A/Loki.m3u
-#EXTINF:-1 ,Los Bridgerton
-http://passionstreamingwii.myartsonline.com/Series%20A/Bridgerton.m3u
-#EXTINF:-1 ,LOS DUKES DE HAZZARD
-http://passionstreamingwii.myartsonline.com/Series%20A/Los%20Dukes%20de%20Hazzard
-#EXTINF:-1 ,LOS EXPEDIENTES SECRETOS X
-http://passionstreamingwii.myartsonline.com/Series%20A/Los%20Expedientes%20Secretos%20X
-#EXTINF:-1 ,Los Locos Addams (1964)
-http://passionstreamingwii.myartsonline.com/Series%20A/Los%20Locos%20Addams
-#EXTINF:-1 ,Los Ojos de Wakanda
-http://passionstreamingwii.myartsonline.com/Series%20A/Los%20Ojos%20de%20Wakanda.m3u
-#EXTINF:-1 ,LOS SIMULADORES (MEXICO)
-http://passionstreamingwii.myartsonline.com/Series%20A/LOS%20SIMULADORES%20%28MEXICO%29
-#EXTINF:-1 ,LOVE DEATH AND ROBOTS
-http://passionstreamingwii.myartsonline.com/Series%20A/Love%2C%20Death%20%26%20Robots
-#EXTINF:-1 ,Lucha Underground (2014)
-http://passionstreamingwii.myartsonline.com/Series%20A/luchaunderground.m3u
-#EXTINF:-1 ,LUCIFER
-http://passionstreamingwii.myartsonline.com/Series%20A/Lucifer.m3u
-#EXTINF:-1 ,Luke Cage
-http://passionstreamingwii.myartsonline.com/Series%20A/Luke-Cage.m3u
-#EXTINF:-1 ,M.O.D.O.K
-http://passionstreamingwii.myartsonline.com/Series%20A/M.O.D.O.K.m3u
-#EXTINF:-1 ,MANUAL DE SUPERVIVENCIA NED
-http://passionstreamingwii.myartsonline.com/Series%20A/Manual%20de%20Supervivencia%20Nerd
-#EXTINF:-1 ,Marvel One Shots
-http://passionstreamingwii.myartsonline.com/Series%20A/Marvel-One-Shots.m3u
-#EXTINF:-1 ,Marvel Zombies
-http://passionstreamingwii.myartsonline.com/Series%20A/Marvel%20Zombies.m3u
-#EXTINF:-1 ,Mentiras, La Serie
-http://passionstreamingwii.myartsonline.com/Series%20A/Mentiras%2C%20La%20Serie.m3u
-#EXTINF:-1 ,MERLINA
-http://passionstreamingwii.myartsonline.com/Series%20A/Merlina
-#EXTINF:-1 ,Misterio en Chinatown
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/twj3DAacgdOekUXIgh5KH9kx1kz.jpg" ,Agentes del misterio (2024)
 http://passionstreamingwii.myartsonline.com/Series%20A/Misterio%20en%20Chinatown.m3u
-#EXTINF:-1 ,Moon Knight
-http://passionstreamingwii.myartsonline.com/Series%20A/Moon-Knight.m3u
-#EXTINF:-1 ,Mr. Pickles
-http://passionstreamingwii.myartsonline.com/Series%20A/Mr.%20Pickles.m3u
-#EXTINF:-1 ,Ms. Marvel
-http://passionstreamingwii.myartsonline.com/Series%20A/Ms.-Marvel.m3u
-#EXTINF:-1 ,NACION Z
-http://passionstreamingwii.myartsonline.com/Series%20A/Nacion%20Z
-#EXTINF:-1 ,Nosotros Los Guapos
-http://passionstreamingwii.myartsonline.com/Series%20A/Nosotros%20Los%20Guapos
-#EXTINF:-1 ,Obi-Wan Kenobi
-http://passionstreamingwii.myartsonline.com/Series%20A/Obi-Wan%20Kenobi.m3u
-#EXTINF:-1 ,Paso a Paso
-http://passionstreamingwii.myartsonline.com/Series%20A/Paso%20a%20Paso
-#EXTINF:-1 ,Peacemaker
-http://passionstreamingwii.myartsonline.com/Series%20A/Peacemaker.m3u
-#EXTINF:-1 ,Pluribus
-http://passionstreamingwii.myartsonline.com/Series%20A/Pluribus/T1.m3u
-#EXTINF:-1 ,POWER
-http://passionstreamingwii.myartsonline.com/Series%20A/Power
-#EXTINF:-1 ,PRIMAL
-http://passionstreamingwii.myartsonline.com/Series%20A/Primal
-#EXTINF:-1 ,Salvados por la Campana
-http://passionstreamingwii.myartsonline.com/Series%20A/Salvados-por-la-Campna-T1.m3u
-#EXTINF:-1 ,SANTA CLARITA DIET
-http://passionstreamingwii.myartsonline.com/Series%20A/Santa%20Clarita%20Diet
-#EXTINF:-1 ,SCREAM QUEENS
-http://passionstreamingwii.myartsonline.com/Series%20A/Scream%20Queens
-#EXTINF:-1 ,SED DE REVANCHA
-http://passionstreamingwii.myartsonline.com/Series%20A/Sed%20De%20Revancha
-#EXTINF:-1 ,Severance
-http://passionstreamingwii.myartsonline.com/Series%20A/Severance.m3u
-#EXTINF:-1 ,She-Hulk: Defensora de Héroes
-http://passionstreamingwii.myartsonline.com/Series%20A/She-Hulk.m3u
-#EXTINF:-1 ,Shogun
-http://passionstreamingwii.myartsonline.com/Series%20A/Shogun.m3u
-#EXTINF:-1 ,SIN LIMITES
-http://passionstreamingwii.myartsonline.com/Series%20A/SIN%20LIMITES
-#EXTINF:-1 ,Skeleton Crew: Viaje a lo Desconocido
-http://passionstreamingwii.myartsonline.com/Series%20A/Skeleton%20Crew%20-%20Viaje%20a%20lo%20Desconocido.m3u
-#EXTINF:-1 ,SPAWN
-http://passionstreamingwii.myartsonline.com/Series%20A/Spawn
-#EXTINF:-1 ,STAR TREK PICARD
-http://passionstreamingwii.myartsonline.com/Series%20A/STAR%20TREK%20PICARD
-#EXTINF:-1 ,Star Wars: Historias de los Jedi
-http://passionstreamingwii.myartsonline.com/Series%20A/Star%20Wars%20-%20Historias%20de%20los%20Jedi.m3u
-#EXTINF:-1 ,Star Wars: Historias del Imperio
-http://passionstreamingwii.myartsonline.com/Series%20A/Star%20Wars%20-%20Historias%20del%20Imperio.m3u
-#EXTINF:-1 ,Star Wars: Historias del Inframundo
-http://passionstreamingwii.myartsonline.com/Series%20A/Star%20Wars%20-%20Historias%20del%20Inframundo.m3u
-#EXTINF:-1 ,Star Wars: La Resistencia
-http://passionstreamingwii.myartsonline.com/Series%20A/Star%20Wars%20-%20Resistance.m3u
-#EXTINF:-1 ,Stargirl
-http://passionstreamingwii.myartsonline.com/Series%20A/Stargirl.m3u
-#EXTINF:-1 ,STRANGER THINGS
-http://passionstreamingwii.myartsonline.com/Series%20A/STRANGER%20THINGS
-#EXTINF:-1 ,STUDIO 60
-http://passionstreamingwii.myartsonline.com/Series%20A/STUDIO%2060%20%28DUAL%20AUDIO%29
-#EXTINF:-1 ,Supergirl
-http://passionstreamingwii.myartsonline.com/Series%20A/Supergirl.m3u
-#EXTINF:-1 ,Superman & Lois
-http://passionstreamingwii.myartsonline.com/Series%20A/Superman%20%26%20Lois.m3u
-#EXTINF:-1 ,Swamp Thing: La Cosa del Pantano
-http://passionstreamingwii.myartsonline.com/Series%20A/Swamp%20Thing.m3u
-#EXTINF:-1 ,TEKKEN
-http://passionstreamingwii.myartsonline.com/Series%20A/tekken
-#EXTINF:-1 ,That '90s Show
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/co7oZ7eupt4t5o1MkTvqBpsaR0M.jpg" ,Ahsoka (2023)
+http://passionstreamingwii.myartsonline.com/Series%20A/Ahsoka.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg" ,ALF (1986)
+http://passionstreamingwii.myartsonline.com/Series%20A/Alf
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" ,American Horror Story (2011)
+http://passionstreamingwii.myartsonline.com/Series%20A/American%20Horror%20History
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/wP0zaZVBNhZIoHgnZfv86rM0YUh.jpg" ,Andi Mack (2017)
+http://passionstreamingwii.myartsonline.com/Series%20A/Andi%20Mack
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/e3cWQzBxHK803AbZGjp1feQFgyS.jpg" ,Andor (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/Andor.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg" ,APARI3NCIAS (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/APARI3NCIAS
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/48oKRF82zU9mqM8lxgsuqvQLubs.jpg" ,Aquellos maravillosos 90 (2023)
 http://passionstreamingwii.myartsonline.com/Series%20A/That90sShow
-#EXTINF:-1 ,The Acolyte
-http://passionstreamingwii.myartsonline.com/Series%20A/The%20Acolyte.m3u
-#EXTINF:-1 ,The Act
-http://passionstreamingwii.myartsonline.com/Series%20A/The%20Act.m3u
-#EXTINF:-1 ,THE CROWN
-http://passionstreamingwii.myartsonline.com/Series%20A/THE%20CROWN
-#EXTINF:-1 ,THE DEFENDERS
-http://passionstreamingwii.myartsonline.com/Series%20A/The-Defenders.m3u
-#EXTINF:-1 ,The Gifted
-http://passionstreamingwii.myartsonline.com/Series%20A/The-Gifted.m3u
-#EXTINF:-1 ,The King
-http://passionstreamingwii.myartsonline.com/Series%20A/THE%20KING%20%28THE%20ETERNAL%20MONARCH%29
-#EXTINF:-1 ,The Punisher
-http://passionstreamingwii.myartsonline.com/Series%20A/The-Punisher.m3u
-#EXTINF:-1 ,Tierra Incógnita
-http://passionstreamingwii.myartsonline.com/Series%20A/Tierra%20Incognita
-#EXTINF:-1 ,Titanes
-http://passionstreamingwii.myartsonline.com/Series%20A/Titanes.m3u
-#EXTINF:-1 ,Trabajo Incógnito
-http://passionstreamingwii.myartsonline.com/Series%20A/Inside%20Job
-#EXTINF:-1 ,TROLLS HUNTER
-http://passionstreamingwii.myartsonline.com/Series%20A/TROLLHUNTER
-#EXTINF:-1 ,Twisted Metal
-http://passionstreamingwii.myartsonline.com/Series%20A/Twisted%20Metal.m3u
-#EXTINF:-1 ,UN SHOW MAS
-http://passionstreamingwii.myartsonline.com/Series%20A/Un%20Show%20Mas.m3u
-#EXTINF:-1 ,VETE A LA VERSH
-http://passionstreamingwii.myartsonline.com/Series%20A/vete
-#EXTINF:-1 ,VINILO (HBO)
-http://passionstreamingwii.myartsonline.com/Series%20A/VINILO%20%5BHBO%5D
-#EXTINF:-1 ,VIZ A VIZ
-http://passionstreamingwii.myartsonline.com/Series%20A/VIZ%20A%20VIZ
-#EXTINF:-1 ,WandaVision
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/i1vSPUbiBe2iK2HapGDfHItBFlC.jpg" ,Arcane (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/Arcane/T1.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg" ,Arrow (2012)
+http://passionstreamingwii.myartsonline.com/Series%20A/Arrow.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/uMOZ7VZwGbHcoiMksZjvyO5AFRT.jpg" ,Batwoman (2019)
+http://passionstreamingwii.myartsonline.com/Series%20A/Batwoman.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/fIBGC36eUyaQvjZ6XqZo3NEXpoR.jpg" ,Better Call Saul (2015)
+http://passionstreamingwii.myartsonline.com/Series%20A/BETTER%20CALL%20SAUL
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg" ,Black Lightning (2018)
+http://passionstreamingwii.myartsonline.com/Series%20A/Black%20Lightning.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/d27fZpY8jSZDOs1k0JCL0RY0b94.jpg" ,Black Summer (2019)
+http://passionstreamingwii.myartsonline.com/Series%20A/BLACK%20SUMMER
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg" ,BoJack Horseman (2014)
+http://passionstreamingwii.myartsonline.com/Series%20A/BOJACK%20HORSEMAN
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" ,Breaking Bad (2008)
+http://passionstreamingwii.myartsonline.com/Series%20A/Breaking%20Bad.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/j2VeSZ7tncd2p8z1CeMnxbxK76b.jpg" ,Bruja Escarlata y Visión (2021)
 http://passionstreamingwii.myartsonline.com/Series%20A/WandaVision.m3u
-#EXTINF:-1 ,What If...?
-http://passionstreamingwii.myartsonline.com/Series%20A/Que-pasaria-si....m3u
-#EXTINF:-1 ,Wonder Man
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5AHnvXfW0mtsm047OP54n4pnV0R.jpg" ,Caballero Luna (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/Moon-Knight.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/kXtoZUxrkrgZ7RsPXTkFRrEcrAW.jpg" ,Campamento Mágico (2018)
+http://passionstreamingwii.myartsonline.com/Series%20A/CAMPAMENTO%20DE%20VERANO
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/bNj8VjBk9vT5NZUdlegPRjcVHBn.jpg" ,Capa y Puñal (2018)
+http://passionstreamingwii.myartsonline.com/Series%20A/Cloak-Dagger.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/8aNYMcMyhv1m0MKibgCVmJrAeLs.jpg" ,Close Enough (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/Close%20Enough
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/fctsQt5NjZg5VxFVr9amJpHCjzo.jpg" ,Club de Cuervos (2015)
+http://passionstreamingwii.myartsonline.com/Series%20A/Club%20de%20Cuervos
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/imfqLcv6oHNn6bDdEUUUlxy0Ch9.jpg" ,Cobra Kai (2018)
+http://passionstreamingwii.myartsonline.com/Series%20A/Cobra%20Kai
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5LJHcVhKbYyNuBMN2d4LAhDsP2P.jpg" ,Comando Monster (2024)
+http://passionstreamingwii.myartsonline.com/Series%20A/Creature%20Commandos/T1.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" ,Como agua para chocolate (2024)
+http://passionstreamingwii.myartsonline.com/Series%20A/Como%20Agua%20Para%20Chocolate%20T1.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg" ,Constantine (2014)
+http://passionstreamingwii.myartsonline.com/Series%20A/Constantine.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/6SDqqVnWnVrOM6tQp1VGPpYNDl0.jpg" ,Cumbia Ninja (2013)
+http://passionstreamingwii.myartsonline.com/Series%20A/Cumbia%20Ninja
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/rNkilVmALgaIb4SenfbaecRStDD.jpg" ,Cyberpunk: Edgerunners (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/cyberpunk
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/rNkilVmALgaIb4SenfbaecRStDD.jpg" ,Cyberpunk: Edgerunners (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/cyberpunk2022
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/82DxDd43B7F1JunSlbZ7vkWFgej.jpg" ,Cómo conocí a vuestra madre (2005)
+http://passionstreamingwii.myartsonline.com/Series%20A/HOW%20I%20MET%20YOUR%20MOTHER%20%28COMO%20CONOCI%20A%20TU%20MADRE%29
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/hRP7N2uI0pokxnkcMFONoOZnxbv.jpg" ,Dark (2017)
+http://passionstreamingwii.myartsonline.com/Series%20A/Dark
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/arT93dBemanftfWTcf9I0JRIlxU.jpg" ,Dawson crece (1998)
+http://passionstreamingwii.myartsonline.com/Series%20A/Dawson%27s%20Creek
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/AbnOGmAe7harXNwRAz7XywpHr8F.jpg" ,Daybreak (2019)
+http://passionstreamingwii.myartsonline.com/Series%20A/Daybreak
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/RChURu0ZBfHQ5f5t3aDJiq0M4s.jpg" ,DC's Legends of Tomorrow (2016)
+http://passionstreamingwii.myartsonline.com/Series%20A/Leyendas%20del%20Ma%C3%B1ana.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/uRGtSHP3tSQ2XsHhguCREWt7dXA.jpg" ,De viaje con los Derbez (2019)
+http://passionstreamingwii.myartsonline.com/Series%20A/DE%20VIAJE%20CON%20LOS%20DERVEZ
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vL5BQvXH96cJzmNK5n7QliQxy90.jpg" ,Love, Death & Robots (2019)
+http://passionstreamingwii.myartsonline.com/Series%20A/Love%2C%20Death%20%26%20Robots
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg" ,Dexter (2006)
+http://passionstreamingwii.myartsonline.com/Series%20A/Dexter
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/fbu2O3hbU1ZROpjU01YCAMLz1sR.jpg" ,Divina de la muerte (2009)
+http://passionstreamingwii.myartsonline.com/Series%20A/DROP%20DEAD%20DIVA
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/6TGKuKTc4lGa8XYUh5XouUIfviW.jpg" ,Doom Patrol (2019)
+http://passionstreamingwii.myartsonline.com/Series%20A/Doom%20Patrol.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/udCvGctktHvvf8w51XyTPfcmzDa.jpg" ,Drake y Josh (2004)
+http://passionstreamingwii.myartsonline.com/Series%20A/Drake%20y%20Josh
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg" ,El juego del calamar (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/El%20Juego%20del%20Calamar.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/AvOcYB2lcqRFvhq3ybJlcXgpRRu.jpg" ,El juego del calamar: El desafío (2023)
+http://passionstreamingwii.myartsonline.com/Series%20A/El-Juego-del-Calamar-El-Desafio.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/4bffB2YV4UxNfEifp4HxdhfJulK.jpg" ,El libro de Boba Fett (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/El%20Libro%20de%20Boba%20Fett
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/t7NakS7qZekeXSocv6jcyd5on7A.jpg" ,El Pacificador (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/Peacemaker.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/6Dc9mMl083cVpNknWzALCw7JYPH.jpg" ,El problema de los 3 cuerpos (2024)
+http://passionstreamingwii.myartsonline.com/Series%20A/El%20Problema%20de%20los%203%20Cuerpos.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/acQ5lwnQGwre8n3m8JzTTcNKc5h.jpg" ,El robo del siglo (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/EL%20ROBO%20DEL%20SIGLO
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/suvlZfDAoq5vfVUrfb468KJhFlL.jpg" ,El señor de los anillos: Los anillos de poder (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/El%20Se%C3%B1or%20de%20los%20anillos
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/tGJFRIpTU8jwarl6fN85BA7blkJ.jpg" ,Escort Boys (2023)
+http://passionstreamingwii.myartsonline.com/Series%20A/Escort%20Boys.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/wk5yV5egUipGsnDlSnf3UMC6xRL.jpg" ,Esta mierda me supera (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/Esta%20Mierda%20Me%20Supera
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/kW3vNNeeIDkZ2xoRyWmNkeOK6f1.jpg" ,Falcon y el Soldado de Invierno (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/Falcon-y-el-soldado-del-invierno.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/cf4chvwB40cEpsagSrRaEIqBFoG.jpg" ,Final Space (2018)
+http://passionstreamingwii.myartsonline.com/Series%20A/Final%20Space
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg" ,Forever (2014)
+http://passionstreamingwii.myartsonline.com/Series%20A/Forever
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/3Skm8boxLsoQZK9xq2chf0rQHfF.jpg" ,Gambito de dama (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/Gambito%20De%20Dama
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/p5BTqkWN2Ole6ADRBo5jh6q16Wr.jpg" ,Good Omens (2019)
+http://passionstreamingwii.myartsonline.com/Series%20A/Good%20Omens
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/jAZK0jE5Oj3klyd1UueNY6EKINF.jpg" ,Gotham (2014)
+http://passionstreamingwii.myartsonline.com/Series%20A/Gotham
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/gX9NP6pWG47oAkq723TfxtkG4Pr.jpg" ,Gravity Falls (2012)
+http://passionstreamingwii.myartsonline.com/Series%20A/Gravity%20Falls
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg" ,Grimm (2011)
+http://passionstreamingwii.myartsonline.com/Series%20A/Grimm
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7xc7FI44QTp94oQk6pBjB4NkMN0.jpg" ,Gênesis (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/genesis
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/2rYqJg1OzaDlc5kiBK4IdgrELMf.jpg" ,Happy Tree Friends (1999)
+http://passionstreamingwii.myartsonline.com/Series%20A/HTF
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/fBbhBvFEVgVxWrBbOJDzDjcVXM4.jpg" ,Heartstopper (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/Heartstopper
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5QmcKsepYpO9XYsWNLwsiULoaAu.jpg" ,Helstrom (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/Helstrom.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/ooN2RcOSi2tpfL1P6wCRI7LGq8I.jpg" ,High Score: El mundo de los videojuegos (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/HIGH%20SCORE
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pBxrxZUNhjPenZKU6bPcnrHkjBH.jpg" ,Historias corrientes (2010)
+http://passionstreamingwii.myartsonline.com/Series%20A/Un%20Show%20Mas.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/xxp8sCCaRnyhT7nbjBn5NUP2I4o.jpg" ,Hitac (2013)
+http://passionstreamingwii.myartsonline.com/Series%20A/Marvel-One-Shots.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/2tgXQ9NU48mNgpsEWfyVzTb2Ho8.jpg" ,Hora de aventuras: Fionna y Cake (2023)
+http://passionstreamingwii.myartsonline.com/Series%20A/Fionna_Cake.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" ,House (2004)
+http://passionstreamingwii.myartsonline.com/Series%20A/Dr.%20House
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/lf0TcOkheYUZKpeh7c8lqJHNk5O.jpg" ,Héroes (2006)
+http://passionstreamingwii.myartsonline.com/Series%20A/Heroes
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg" ,Inhumans (2017)
+http://passionstreamingwii.myartsonline.com/Series%20A/Inhumans.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/jXLhr96JH5DG6TBM8rx8subMpnE.jpg" ,Invasión secreta (2023)
+http://passionstreamingwii.myartsonline.com/Series%20A/Secret-Invasion.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/zCgPbsPJ7d1qlXVn1cKvTlcob1H.jpg" ,INVENCIBLE (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/Invencible.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg" ,Ironheart (2025)
+http://passionstreamingwii.myartsonline.com/Series%20A/Ironheart.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/2titW404dPYOzK5NElQoAJ2ivK5.jpg" ,It: Bienvenidos a Derry (2025)
+http://passionstreamingwii.myartsonline.com/Series%20A/It%20-%20Bienvenidos%20a%20Derry.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/1Wz730VjE6Yee9ywb5ReXXe1GBZ.jpg" ,Jack Ryan de Tom Clancy (2018)
+http://passionstreamingwii.myartsonline.com/Series%20A/Jack%20Ryan
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/hsNaHfJMSJWsra86tfls9XfzTnx.jpg" ,Kim Possible: Los Expedientes Secretos (2003)
+http://passionstreamingwii.myartsonline.com/Series%20A/Los%20Expedientes%20Secretos%20X
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/9tqlZLJPfwk5NF96GrJAWp29Hwf.jpg" ,Knuckles (2024)
+http://passionstreamingwii.myartsonline.com/Series%20A/Knuckles.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/hdEQvxIAxMXmrBKJyLvBDZ288dM.jpg" ,La casa de las flores (2018)
+http://passionstreamingwii.myartsonline.com/Series%20A/La%20Casa%20de%20Las%20Flores
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/z01Dc0Ly2GmCpLe6Scx4d3dPP1S.jpg" ,La casa de papel (2017)
+http://passionstreamingwii.myartsonline.com/Series%20A/La%20Casa%20de%20Papel
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/8MaxftF69sEAAD5673vTjIl8yT3.jpg" ,La casa del dragón (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/La%20Casa%20Del%20Drag%C3%B3n
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/wbIvBPm1TiatghTQOKJmuOlnSit.jpg" ,La cosa del pantano (2019)
+http://passionstreamingwii.myartsonline.com/Series%20A/Swamp%20Thing.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/zBajkGhOB2FsVVhp4uagcy5dyLn.jpg" ,La familia P. Luche (2002)
+http://passionstreamingwii.myartsonline.com/Series%20A/La%20Familia%20Peluche
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/s5KgN8QHo9tdCGAW8fYXvnUvHJZ.jpg" ,Betty la fea, la historia continúa (2024)
+http://passionstreamingwii.myartsonline.com/Series%20A/Betty%20la%20Fea%202.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/9CaS2XFd0Db42grzzVBnWcSkrbg.jpg" ,La purga (2018)
+http://passionstreamingwii.myartsonline.com/Series%20A/La%20Purga
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/mAO99P8fvFSo3x42I8b8LCcBah1.jpg" ,La reina Carlota: Una historia de Los Bridgerton (2023)
+http://passionstreamingwii.myartsonline.com/Series%20A/La_Reina_Charlotte.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/jzfyq5YqzpGG83ZBcODK5BwvcGM.jpg" ,Mentiras, la serie (2025)
+http://passionstreamingwii.myartsonline.com/Series%20A/Mentiras%2C%20La%20Serie.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/iRM12uCbKq5BONNERukJWzZv1pE.jpg" ,Las brujas de Mayfair (2023)
+http://passionstreamingwii.myartsonline.com/Series%20A/Las-Brujas-de-Mayfair-T1.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg" ,Las muertas (2025)
+http://passionstreamingwii.myartsonline.com/Series%20A/Las%20Muertas.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/39vqW5mUZtX0artpqeY4CoIJ4sl.jpg" ,Legión (2010)
+http://passionstreamingwii.myartsonline.com/Series%20A/Legion.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/3RxN4rhyYhOY4rdSARoYsJQLIhZ.jpg" ,Locos por la ciencia (2004)
+http://passionstreamingwii.myartsonline.com/Series%20A/Ciencia%20Traviesa.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" ,Loki (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/Loki.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/4MQf8yWM47OVjjtxRdhc1SzoZVE.jpg" ,Los Bridgerton (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/Bridgerton.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/bJisSc7HGAfWgg1M7916CMfSZTX.jpg" ,Los magos de Waverly Place (2007)
+http://passionstreamingwii.myartsonline.com/Series%20A/Hechizeros%20de%20Werbely%20Blade
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/rp3oUwY6K9mwz9VPFIDZzGyP66h.jpg" ,Los ojos de Wakanda (2025)
+http://passionstreamingwii.myartsonline.com/Series%20A/Los%20Ojos%20de%20Wakanda.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/6pAkIDpMZXf4AiMLxIJjJBCozo9.jpg" ,Los simuladores (2008)
+http://passionstreamingwii.myartsonline.com/Series%20A/LOS%20SIMULADORES%20%28MEXICO%29
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg" ,Lucifer (2016)
+http://passionstreamingwii.myartsonline.com/Series%20A/Lucifer.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/6fnMW8CmXaf1OpXqNvGRBUGAeh5.jpg" ,M.O.D.O.K. (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/M.O.D.O.K.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/zwBbJX7oimIQT0JQq9eqzQVPOHm.jpg" ,Manual de supervivencia escolar de Ned (2004)
+http://passionstreamingwii.myartsonline.com/Series%20A/Manual%20de%20Supervivencia%20Nerd
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/zdjmPOMNlDpmqXLgNaGBT7jAiFj.jpg" ,Marvel - Daredevil (2015)
+http://passionstreamingwii.myartsonline.com/Series%20A/Daredevil.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/ywrvjIgK5K9Ff8RddgdFI3kfDqT.jpg" ,Marvel - Iron Fist (2017)
+http://passionstreamingwii.myartsonline.com/Series%20A/Iron-Fist.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/b3EVT7sSX8Y8L3OekYWyKLRS1Jt.jpg" ,Marvel - Jessica Jones (2015)
+http://passionstreamingwii.myartsonline.com/Series%20A/Jessica-Jones.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/yzM1hMB3PUJqbISX0f421b3xOjB.jpg" ,Marvel - Luke Cage (2016)
+http://passionstreamingwii.myartsonline.com/Series%20A/Luke-Cage.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg" ,Marvel - The Defenders (2017)
+http://passionstreamingwii.myartsonline.com/Series%20A/The-Defenders.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/8OdIbo68mFE4w6jXA20aL8ocPsE.jpg" ,Marvel - The Punisher (2017)
+http://passionstreamingwii.myartsonline.com/Series%20A/The-Punisher.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg" ,Marvel Agentes de S.H.I.E.L.D. (2013)
+http://passionstreamingwii.myartsonline.com/Series%20A/Agentes-de-SHIELD.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5UbrwzZUR5lcoDds2phuahFHHhi.jpg" ,Marvel Zombis (2025)
+http://passionstreamingwii.myartsonline.com/Series%20A/Marvel%20Zombies.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg" ,Marvel's Hit-Monkey (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/Hit-Monkey.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/sS0c2DnzoHucyzQIOQ6mLIxV84Y.jpg" ,Mi reno de peluche (2024)
+http://passionstreamingwii.myartsonline.com/Series%20A/BebeReno.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/bNKwoYqkCXfIhhr5Jz8slrsw32r.jpg" ,Miércoles (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/Merlina
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/xKlN63j8m5fGghHCejxiXR4T2Q8.jpg" ,El rey, monarca eterno (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/THE%20KING%20%28THE%20ETERNAL%20MONARCH%29
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/3KzoEdclGwXQH2t2oYZZlw46TvW.jpg" ,Ms. Marvel (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/Ms.-Marvel.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/mVHpVzGwhB9NBpyS5j6qJsME7lo.jpg" ,Obi-Wan Kenobi (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/Obi-Wan%20Kenobi.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/3ZcJetFxd8fwJ1I5xsLHCMTAKQo.jpg" ,Ojo de Halcón (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/Hawkeye.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/tDmAHjMJ9jQ7sDIrBY0UKUb5mXm.jpg" ,Padre made in USA (2005)
+http://passionstreamingwii.myartsonline.com/Series%20A/American%20Dad
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/4XMxYOxNvxEkfxUKhs8AoGBQiVD.jpg" ,Paso a paso (1991)
+http://passionstreamingwii.myartsonline.com/Series%20A/Paso%20a%20Paso
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/stkYbERuo2YYuay37rYaE41Izyu.jpg" ,Pluribus (2025)
+http://passionstreamingwii.myartsonline.com/Series%20A/Pluribus/T1.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/ctftzvyj8b0odco7EoS9VfJhf7K.jpg" ,Power (2014)
+http://passionstreamingwii.myartsonline.com/Series%20A/Power
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/mf12pRakr3eYdJtv6klQtoznnbU.jpg" ,Primal (2019)
+http://passionstreamingwii.myartsonline.com/Series%20A/Primal
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/oM3TaNKBnq8O8cDcuhrDUtY6pDk.jpg" ,¡Guau, qué amigo! (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/%C2%A1Guau%2C%20qu%C3%A9%20amigo%21
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/2t6viMVpjt9xUWD85DD9Qma5VMD.jpg" ,Renegados 2: Los locos (1997)
+http://passionstreamingwii.myartsonline.com/Series%20A/Los%20Locos%20Addams
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/dHZze7Rn7JwCukMY7h9TIdfF9CH.jpg" ,Rumbo a la Oscuridad (1992)
+http://passionstreamingwii.myartsonline.com/Series%20A/LE%20TEMES%20A%20LA%20OBSCURIDAD
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/m7wHYHSoXUFz1voIzV1c0m3nAcJ.jpg" ,Santa Clarita Diet (2017)
+http://passionstreamingwii.myartsonline.com/Series%20A/Santa%20Clarita%20Diet
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/yeayXZYSU8xdmC8i5g5jTdxeggp.jpg" ,Scream Queens (2015)
+http://passionstreamingwii.myartsonline.com/Series%20A/Scream%20Queens
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7hkp2nLI84G6btRGwcYVHYZ9coT.jpg" ,Sed de revancha (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/Sed%20De%20Revancha
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/wrZjYKxObEaWZmjB7scQMYo40o8.jpg" ,Separación (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/Severance.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7jzX4ZKwDxHZP8uSXrDAkVTdvKe.jpg" ,She-Hulk: abogada Hulka (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/She-Hulk.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/uIoDvVOQaKjSfz2oihkVS8M7l1v.jpg" ,Shōgun (2024)
+http://passionstreamingwii.myartsonline.com/Series%20A/Shogun.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/l5BERaKn3ozRTLhoylIiNwMDvax.jpg" ,Sin límites (2015)
+http://passionstreamingwii.myartsonline.com/Series%20A/SIN%20LIMITES
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/sKZR2IIrPPo2LnMdYfxvOlXFls7.jpg" ,Spawn (1997)
+http://passionstreamingwii.myartsonline.com/Series%20A/Spawn
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg" ,Star Trek: Picard (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/STAR%20TREK%20PICARD
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/oU1Vy0tDktgwyq2IZXdb3tvogh8.jpg" ,Star Wars: Crónicas del Imperio (2024)
+http://passionstreamingwii.myartsonline.com/Series%20A/Star%20Wars%20-%20Historias%20del%20Imperio.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/ooR0a268nALCaP0D1xZHjjnXzEk.jpg" ,Star Wars: Crónicas del submundo (2025)
+http://passionstreamingwii.myartsonline.com/Series%20A/Star%20Wars%20-%20Historias%20del%20Inframundo.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/qLl4lZwcm7MJk6U3Kk0QCmfWOU9.jpg" ,Star Wars: La Resistencia (2018)
+http://passionstreamingwii.myartsonline.com/Series%20A/Star%20Wars%20-%20Resistance.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/6fNxi42CTphmvTiXHSWh2ojtrBC.jpg" ,Star Wars: Las crónicas jedi (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/Star%20Wars%20-%20Historias%20de%20los%20Jedi.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/c2P7KSb4I2tY6uNX9eXXwo5hm46.jpg" ,Star Wars: Tripulación perdida (2024)
+http://passionstreamingwii.myartsonline.com/Series%20A/Skeleton%20Crew%20-%20Viaje%20a%20lo%20Desconocido.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/qbtwQpzZSmjbq9767KKHH1qoO5y.jpg" ,Stargirl (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/Stargirl.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/1sRJ8D1vpXE5WQBGrUBky3uUwvX.jpg" ,Stranger Things (2016)
+http://passionstreamingwii.myartsonline.com/Series%20A/STRANGER%20THINGS
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/h05qDtY2W0uPOTp6Z1mUgBDrFl6.jpg" ,Studio 60 (2006)
+http://passionstreamingwii.myartsonline.com/Series%20A/STUDIO%2060%20%28DUAL%20AUDIO%29
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/VsvR3ykugenhyRzz1Uf91V9U0c.jpg" ,Supergirl (2015)
+http://passionstreamingwii.myartsonline.com/Series%20A/Supergirl.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg" ,Superman y Lois (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/Superman%20%26%20Lois.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/nBkG310la4XzjwnFkG3ffaZDrPB.jpg" ,Tekken: Linaje (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/tekken
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg" ,The Acolyte (2024)
+http://passionstreamingwii.myartsonline.com/Series%20A/The%20Acolyte.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/gucZnLxz3B9X5fY9R7QwIdzLdyo.jpg" ,The Act (2020)
+http://passionstreamingwii.myartsonline.com/Series%20A/The%20Act.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/1ZMVKJoWK5KfxaQA8BwpfOEYKKy.jpg" ,The Crown (2016)
+http://passionstreamingwii.myartsonline.com/Series%20A/THE%20CROWN
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/r9eXJUxP6zgrpCMEOJzaEXzXLsp.jpg" ,The Dukes of Hazzard (1979)
+http://passionstreamingwii.myartsonline.com/Series%20A/Los%20Dukes%20de%20Hazzard
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/7ci4qqkBJorLxSBwTj28vwh0bU.jpg" ,The Flash (2014)
+http://passionstreamingwii.myartsonline.com/Series%20A/Flash.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/nshCqszjTNuqhrB53vrSqWO18sE.jpg" ,The Gifted: Los elegidos (2017)
+http://passionstreamingwii.myartsonline.com/Series%20A/The-Gifted.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg" ,The Good Doctor (2017)
+http://passionstreamingwii.myartsonline.com/Series%20A/El%20Buen%20Doctor
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg" ,The Mandalorian (2019)
+http://passionstreamingwii.myartsonline.com/Series%20A/The%20Mandalorian.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg" ,The Mandalorian (2019)
+http://passionstreamingwii.myartsonline.com/Series%20A/EL%20MANDALORIANO
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/uoh4y6Tn37OJAJ7BciwamA8Jdif.jpg" ,Tierra incógnita (2022)
+http://passionstreamingwii.myartsonline.com/Series%20A/Tierra%20Incognita
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/t1wuU7nUxyAFpCep4epXIGP8dtJ.jpg" ,Titanes (2018)
+http://passionstreamingwii.myartsonline.com/Series%20A/Titanes.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/vdkdcl7R1mL6NPjyzUi1xsNG4b0.jpg" ,Trollhunters: Cuentos de Arcadia (2016)
+http://passionstreamingwii.myartsonline.com/Series%20A/TROLLHUNTER
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg" ,Twisted Metal (2023)
+http://passionstreamingwii.myartsonline.com/Series%20A/Twisted%20Metal.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/qqgile6iKxMejnC7W5LuTh4Rhit.jpg" ,Ultrasecretos (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/Inside%20Job
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/3YJ8dzzK3AExuO50ulj2mMterEN.jpg" ,Vinyl (2016)
+http://passionstreamingwii.myartsonline.com/Series%20A/VINILO%20%5BHBO%5D
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/poKkYIyUfxVu5h78b082x3Rojd3.jpg" ,Vis a vis (2015)
+http://passionstreamingwii.myartsonline.com/Series%20A/VIZ%20A%20VIZ
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg" ,Wonder Man (2026)
 http://passionstreamingwii.myartsonline.com/Series%20A/Wonder%20Man.m3u
-#EXTINF:-1 ,X-Men '97
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg" ,X-Men '97 (2024)
 http://passionstreamingwii.myartsonline.com/Series%20A/X-Men%2097.m3u
-#EXTINF:-1 ,YO SOY GROOT
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/285ULt4SlLQiYabsFGzuAv9r8ww.jpg" ,Yo soy Groot (2022)
 http://passionstreamingwii.myartsonline.com/Series%20A/Yo%20soy%20Groot.m3u
-#EXTINF:-1 ,Zoey 101
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/gXfeDMkEcHoYBvtkbU11g3F81b.jpg" ,Z Nation (2014)
+http://passionstreamingwii.myartsonline.com/Series%20A/Nacion%20Z
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/3eOM57RTccTSvqcYFhWwm9DAba8.jpg" ,Zoey 101 (2005)
 http://passionstreamingwii.myartsonline.com/Series%20A/Zoey%20101.m3u
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/ebKQ0Lb84EF897UBk3d1KzMO33V.jpg" ,¿Qué pasaría si...? (2021)
+http://passionstreamingwii.myartsonline.com/Series%20A/Que-pasaria-si....m3u
